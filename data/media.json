@@ -1,0 +1,37 @@
+{
+  "updated_at": "2026-10-23",
+  "items": [
+    {
+      "type": "image",
+      "id": "iran-national-flag",
+      "url": "assets/iran-flag.webp",
+      "alt": "پرچم رسمی ایران؛ سه نوار افقی سبز، سفید و سرخ، نشان سرخ در میانه و نوشتار الله‌اکبر در مرز رنگ‌ها",
+      "caption": "پرچم رسمی جمهوری اسلامی ایران",
+      "credit": "بازطراحی دیجیتال بر پایه استاندارد ISIRI؛ SiBr4 و Javad Marcouz؛ طراح نشان: حمید ندیمی",
+      "license": "Public domain؛ صفحه تصویر دارای نشان PD-Iran و داده CC0 است.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Iran.svg",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-Iran",
+      "variant": "flag"
+    },
+    {
+      "type": "audio",
+      "id": "iran-national-anthem",
+      "url": "assets/iran-anthem-instrumental.mp3",
+      "title": "سرود ملی ایران",
+      "transcript": "نسخه سازی سرود ملی جمهوری اسلامی ایران؛ بدون آواز یا متن خوانده‌شده.",
+      "variant": "instrumental",
+      "duration_seconds": 55.98,
+      "credit": "دولت جمهوری اسلامی ایران؛ نسخه آرشیوشده وبگاه en.iran.ir، دریافت از Wikimedia Commons",
+      "license": "برچسب اثر موسیقایی: PD-US-no-notice-1989؛ برچسب اجرا و ضبط: PD-Iran.",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-Iran",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_(instrumental).oga",
+      "changes": "تبدیل از OGG به MP3 با نرخ ۱۲۸ کیلوبیت؛ بدون تغییر محتوای اجرا."
+    }
+  ],
+  "illustrations": {
+    "paths": "assets/sections/<section-id>.svg",
+    "count": 13,
+    "credit": "تصویرسازی برداری اختصاصی اطلس",
+    "note": "تصویرسازی مفهومی موضوعات؛ جایگزین پرچم، نقشه دقیق یا نشان رسمی نیست."
+  }
+}

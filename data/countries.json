@@ -1,0 +1,368 @@
+{
+  "schema_version": 1,
+  "revision": 11,
+  "updated_at": "2026-10-23",
+  "countries": [
+    {
+      "name": "ایران",
+      "flag": "🇮🇷",
+      "capital": "تهران",
+      "lang": "فارسی",
+      "region": "آسیا",
+      "desc": "از جغرافیا و مردم تا فرهنگ، تاریخ و سفر.",
+      "code": "IRN",
+      "sections": [
+        "administration",
+        "culture",
+        "economy",
+        "education-health",
+        "environment",
+        "geography",
+        "history",
+        "identity",
+        "infrastructure",
+        "politics",
+        "population",
+        "sports",
+        "travel"
+      ],
+      "documents": {
+        "administration": {
+          "path": "data/countries/IRN/administration.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 30009
+        },
+        "culture": {
+          "path": "data/countries/IRN/culture.json",
+          "revision": 4,
+          "updated_at": "2026-10-23",
+          "byte_length": 59796
+        },
+        "economy": {
+          "path": "data/countries/IRN/economy.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 29915
+        },
+        "education-health": {
+          "path": "data/countries/IRN/education-health.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 26914
+        },
+        "environment": {
+          "path": "data/countries/IRN/environment.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 30557
+        },
+        "geography": {
+          "path": "data/countries/IRN/geography.json",
+          "revision": 3,
+          "updated_at": "2026-10-23",
+          "byte_length": 40782
+        },
+        "history": {
+          "path": "data/countries/IRN/history.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 29936
+        },
+        "identity": {
+          "path": "data/countries/IRN/identity.json",
+          "revision": 3,
+          "updated_at": "2026-10-23",
+          "byte_length": 24987
+        },
+        "infrastructure": {
+          "path": "data/countries/IRN/infrastructure.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 25367
+        },
+        "politics": {
+          "path": "data/countries/IRN/politics.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 29140
+        },
+        "population": {
+          "path": "data/countries/IRN/population.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 35480
+        },
+        "sports": {
+          "path": "data/countries/IRN/sports.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 28806
+        },
+        "travel": {
+          "path": "data/countries/IRN/travel.json",
+          "revision": 2,
+          "updated_at": "2026-10-23",
+          "byte_length": 34718
+        }
+      },
+      "cover": {
+        "src": "assets/iran-bridge.webp",
+        "alt": "سی‌وسه‌پل، اصفهان",
+        "caption": "سی‌وسه‌پل، اصفهان",
+        "credit": "Reza Haji-pour رضا حاجی‌پور",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Si-o-se-Pol.jpg",
+        "width": 1200,
+        "height": 874,
+        "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب"
+      },
+      "culture_cover": {
+        "src": "assets/iran-mosque.webp",
+        "alt": "نور و شیشه‌های رنگی مسجد نصیرالملک، شیراز",
+        "caption": "نور و شیشه‌های رنگی مسجد نصیرالملک، شیراز",
+        "credit": "Ayyoubsabawiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Nasir-al_molk_-1.jpg",
+        "width": 1200,
+        "height": 929,
+        "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب"
+      },
+      "introduction": "از کوهستان و جنگل تا شهرهای تاریخی؛ از طعم غذاها تا شعر و موسیقی. ایران را از دریچه سرزمین، مردم و زندگی روزمره بشناس.",
+      "section_covers": {
+        "identity": {
+          "src": "assets/headers/iran-identity.webp",
+          "alt": "برج آزادی، تهران",
+          "caption": "برج آزادی، تهران",
+          "credit": "Okruz",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Azadi_Tower_in_Tehran.jpg",
+          "width": 1200,
+          "height": 800,
+          "byte_length": 98546,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 50%"
+        },
+        "geography": {
+          "src": "assets/headers/iran-geography.webp",
+          "alt": "کوه دماوند از جنوب، ایران",
+          "caption": "کوه دماوند از جنوب، ایران",
+          "credit": "M samadi",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Damavand_Mountain.jpg",
+          "width": 824,
+          "height": 550,
+          "byte_length": 44266,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 35%"
+        },
+        "administration": {
+          "src": "assets/headers/iran-administration.webp",
+          "alt": "چشم‌انداز تهران از برج میلاد؛ عکس ۲۰۱۹",
+          "caption": "چشم‌انداز تهران از برج میلاد؛ عکس ۲۰۱۹",
+          "credit": "Amin Yari / MojNews",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tehran_skyline_from_Milad_Tower_by_Mojnews_02.jpg",
+          "width": 1000,
+          "height": 590,
+          "byte_length": 95202,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 50%"
+        },
+        "population": {
+          "src": "assets/headers/iran-population.webp",
+          "alt": "زندگی شهری در خیابان‌های تهران؛ عکس ۲۰۰۸",
+          "caption": "زندگی شهری در خیابان‌های تهران؛ عکس ۲۰۰۸",
+          "credit": "Julia Maudlin",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tehran_Street_Corner.jpg",
+          "width": 1200,
+          "height": 900,
+          "byte_length": 223166,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 50%"
+        },
+        "politics": {
+          "src": "assets/headers/iran-politics.webp",
+          "alt": "صحن مجلس شورای اسلامی، تهران؛ عکس ۲۰۱۳",
+          "caption": "صحن مجلس شورای اسلامی، تهران؛ عکس ۲۰۱۳",
+          "credit": "Mahdi Sigari / YPA",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Iranian_Majlis.jpg",
+          "width": 900,
+          "height": 583,
+          "byte_length": 100456,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 60%"
+        },
+        "history": {
+          "src": "assets/headers/iran-history.webp",
+          "alt": "نقش‌برجسته‌های دروازه ملل، تخت جمشید، استان فارس",
+          "caption": "دروازه ملل، تخت جمشید، استان فارس",
+          "credit": "Carole Raddato",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:All_Nations_Gate,_Persepolis.jpg",
+          "width": 1200,
+          "height": 795,
+          "byte_length": 134788,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 40%"
+        },
+        "economy": {
+          "src": "assets/headers/iran-economy.webp",
+          "alt": "بازار تاریخی تبریز",
+          "caption": "بازار تاریخی تبریز",
+          "credit": "Alireza abbasiyan",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tabriz_Traditional_Market.jpg",
+          "width": 1200,
+          "height": 800,
+          "byte_length": 245370,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 50%"
+        },
+        "education-health": {
+          "src": "assets/headers/iran-education-health.webp",
+          "alt": "سردر دانشگاه تهران؛ عکس ۲۰۰۷",
+          "caption": "سردر دانشگاه تهران؛ عکس ۲۰۰۷",
+          "credit": "Zereshk",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:UTEH_gates.jpg",
+          "width": 1200,
+          "height": 752,
+          "byte_length": 116690,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 50%"
+        },
+        "sports": {
+          "src": "assets/headers/iran-sports.webp",
+          "alt": "ورزشگاه آزادی در دیدار پرسپولیس و النصر؛ عکس ۲۰۱۵",
+          "caption": "ورزشگاه آزادی در دیدار پرسپولیس و النصر؛ عکس ۲۰۱۵",
+          "credit": "Javid Nikpour / Tasnim News Agency",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Azadi_Stadium_panorama_01.jpg",
+          "width": 800,
+          "height": 487,
+          "byte_length": 98230,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 50%"
+        },
+        "infrastructure": {
+          "src": "assets/headers/iran-infrastructure.webp",
+          "alt": "پل راه‌آهن ورسک، مازندران",
+          "caption": "پل راه‌آهن ورسک، مازندران",
+          "credit": "MohadShojaee",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Veresk-Bridge.jpg",
+          "width": 1200,
+          "height": 780,
+          "byte_length": 55064,
+          "changes": "تغییر اندازه، تنظیم روشنایی و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 50%"
+        },
+        "environment": {
+          "src": "assets/headers/iran-environment.webp",
+          "alt": "جنگل‌های هیرکانی، گیلان",
+          "caption": "جنگل‌های هیرکانی، گیلان",
+          "credit": "Ninara",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Hyrcanian_forest_in_Gilan%2C_Iran.jpg",
+          "width": 1200,
+          "height": 596,
+          "byte_length": 246320,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+          "position": "50% 50%"
+        },
+        "culture": {
+          "src": "assets/iran-mosque.webp",
+          "alt": "نور و شیشه‌های رنگی مسجد نصیرالملک، شیراز",
+          "caption": "نور و شیشه‌های رنگی مسجد نصیرالملک، شیراز",
+          "credit": "Ayyoubsabawiki",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Nasir-al_molk_-1.jpg",
+          "width": 1200,
+          "height": 929,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب"
+        },
+        "travel": {
+          "src": "assets/iran-bridge.webp",
+          "alt": "سی‌وسه‌پل، اصفهان",
+          "caption": "سی‌وسه‌پل، اصفهان",
+          "credit": "Reza Haji-pour رضا حاجی‌پور",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Si-o-se-Pol.jpg",
+          "width": 1200,
+          "height": 874,
+          "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب"
+        }
+      },
+      "continent": "آسیا",
+      "added_order": 1
+    },
+    {
+      "name": "ژاپن",
+      "flag": "🇯🇵",
+      "capital": "توکیو",
+      "lang": "ژاپنی",
+      "region": "آسیا",
+      "desc": "شناخت سرزمین، زندگی روزمره و میراث فرهنگی.",
+      "code": "JPN",
+      "sections": [],
+      "documents": {},
+      "cover": {
+        "src": "assets/japan-fuji.webp",
+        "alt": "پاگودای چوریتو و کوه فوجی، ژاپن",
+        "caption": "پاگودای چوریتو و کوه فوجی، ژاپن",
+        "credit": "Manishprabhune",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji.jpg",
+        "width": 1170,
+        "height": 656,
+        "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب"
+      },
+      "continent": "آسیا",
+      "added_order": 2
+    },
+    {
+      "name": "ایتالیا",
+      "flag": "🇮🇹",
+      "capital": "رم",
+      "lang": "ایتالیایی",
+      "region": "اروپا",
+      "desc": "کشف شهرها، فرهنگ و پیوند گذشته با زندگی امروز.",
+      "code": "ITA",
+      "sections": [],
+      "documents": {},
+      "cover": {
+        "src": "assets/italy-rome.webp",
+        "alt": "کولوسئوم، رم",
+        "caption": "کولوسئوم، رم",
+        "credit": "Diliff",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg",
+        "width": 1200,
+        "height": 704,
+        "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب"
+      },
+      "continent": "اروپا",
+      "added_order": 3
+    }
+  ]
+}

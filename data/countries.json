@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "revision": 11,
-  "updated_at": "2026-10-23",
+  "revision": 12,
+  "updated_at": "2026-10-24",
   "countries": [
     {
       "name": "ایران",
@@ -320,10 +320,103 @@
       "capital": "توکیو",
       "lang": "ژاپنی",
       "region": "آسیا",
-      "desc": "شناخت سرزمین، زندگی روزمره و میراث فرهنگی.",
+      "desc": "نسخهٔ آزمایشی محتوای ژاپن؛ ۱۳ بخش برای بازبینی.",
       "code": "JPN",
-      "sections": [],
-      "documents": {},
+      "sections": [
+        "identity",
+        "geography",
+        "administration",
+        "population",
+        "politics",
+        "history",
+        "economy",
+        "culture",
+        "education-health",
+        "sports",
+        "infrastructure",
+        "travel",
+        "environment"
+      ],
+      "documents": {
+        "identity": {
+          "path": "data/countries/JPN/identity.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 10088
+        },
+        "geography": {
+          "path": "data/countries/JPN/geography.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 10730
+        },
+        "administration": {
+          "path": "data/countries/JPN/administration.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 9292
+        },
+        "population": {
+          "path": "data/countries/JPN/population.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 11603
+        },
+        "politics": {
+          "path": "data/countries/JPN/politics.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 9410
+        },
+        "history": {
+          "path": "data/countries/JPN/history.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 11666
+        },
+        "economy": {
+          "path": "data/countries/JPN/economy.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 9617
+        },
+        "culture": {
+          "path": "data/countries/JPN/culture.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 10764
+        },
+        "education-health": {
+          "path": "data/countries/JPN/education-health.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 9022
+        },
+        "sports": {
+          "path": "data/countries/JPN/sports.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 9147
+        },
+        "infrastructure": {
+          "path": "data/countries/JPN/infrastructure.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 9497
+        },
+        "travel": {
+          "path": "data/countries/JPN/travel.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 11812
+        },
+        "environment": {
+          "path": "data/countries/JPN/environment.json",
+          "revision": 1,
+          "updated_at": "2026-10-23",
+          "byte_length": 9565
+        }
+      },
       "cover": {
         "src": "assets/japan-fuji.webp",
         "alt": "پاگودای چوریتو و کوه فوجی، ژاپن",
@@ -334,10 +427,12 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji.jpg",
         "width": 1170,
         "height": 656,
-        "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب"
+        "changes": "تغییر اندازه و تبدیل به WebP؛ برش نمایشی متناسب با قاب",
+        "byte_length": 185408
       },
       "continent": "آسیا",
-      "added_order": 2
+      "added_order": 2,
+      "introduction": "از جزایر برفی شمال تا جنوب نیمه‌گرمسیری؛ ژاپن را از دریچه سرزمین، تاریخ، مردم و زندگی امروز بشناس."
     },
     {
       "name": "ایتالیا",

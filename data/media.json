@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23",
+  "updated_at": "2026-10-24",
   "items": [
     {
       "type": "image",
@@ -26,6 +26,19 @@
       "license_url": "https://commons.wikimedia.org/wiki/Template:PD-Iran",
       "source_url": "https://commons.wikimedia.org/wiki/File:Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_(instrumental).oga",
       "changes": "تبدیل از OGG به MP3 با نرخ ۱۲۸ کیلوبیت؛ بدون تغییر محتوای اجرا."
+    },
+    {
+      "type": "image",
+      "id": "japan-national-flag",
+      "url": "assets/japan-flag.webp",
+      "alt": "پرچم ژاپن؛ دایره سرخ در مرکز زمینه سفید با نسبت عرض به ارتفاع سه به دو",
+      "caption": "پرچم ملی ژاپن؛ هینومارو",
+      "credit": "بازترسیم هندسی اطلس بر اساس طرح رسمی پرچم ژاپن",
+      "license": "Public domain؛ طرح رسمی و هندسه ساده، مطابق توضیح صفحه مرجع",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-shape",
+      "changes": "بازترسیم با نسبت ۲ به ۳ و قطر دایره برابر سه‌پنجم ارتفاع؛ خروجی WebP بدون اتلاف",
+      "variant": "flag"
     }
   ],
   "illustrations": {

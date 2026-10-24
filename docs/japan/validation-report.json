@@ -1,0 +1,121 @@
+{
+  "schema_validation": "passed",
+  "date_format_validation": "passed",
+  "topic_id_uniqueness": "passed",
+  "table_width_validation": "passed",
+  "descriptor_byte_lengths": "passed",
+  "local_media_existence": "passed",
+  "image_decode_and_dimensions": "passed",
+  "country_code": "JPN",
+  "sections_count": 13,
+  "topics_count": 78,
+  "prose_words": 5802,
+  "unique_source_urls": 72,
+  "sections": [
+    {
+      "section": "infrastructure",
+      "revision": 1,
+      "topics": 5,
+      "byte_length": 9497,
+      "sha256": "469cfd2dfa92ac7279107ac157a1fb84c8d80ff51dc3e6e4b72c99d5a0066b2a"
+    },
+    {
+      "section": "history",
+      "revision": 1,
+      "topics": 6,
+      "byte_length": 11666,
+      "sha256": "a5404adcad818792cc9139b675384b1fb4e238164bb9a59d27179f634179739a"
+    },
+    {
+      "section": "education-health",
+      "revision": 2,
+      "topics": 6,
+      "byte_length": 12254,
+      "sha256": "30c152d8774fe8ed072108560dec7556a9fbb350c61727096ac5fa0073bba7d1"
+    },
+    {
+      "section": "geography",
+      "revision": 1,
+      "topics": 5,
+      "byte_length": 10730,
+      "sha256": "1eb338e81a410173300b05b2859711838632f2e7cf1efc5b66a0cdc844383265"
+    },
+    {
+      "section": "travel",
+      "revision": 1,
+      "topics": 6,
+      "byte_length": 11812,
+      "sha256": "f461b99bab9db41b22216886c5543bb0abb1992b7a955af5a3d45423d90d04df"
+    },
+    {
+      "section": "administration",
+      "revision": 1,
+      "topics": 5,
+      "byte_length": 9292,
+      "sha256": "5cd6e5ac05b79247cd90e8015c960efd732f7b5c646208ab3abb284ba6989356"
+    },
+    {
+      "section": "economy",
+      "revision": 2,
+      "topics": 8,
+      "byte_length": 21026,
+      "sha256": "ba24df6c39939f3aa35e392e0607ad4b5b7e73594b45bdc9cb755b5e659cc724"
+    },
+    {
+      "section": "identity",
+      "revision": 2,
+      "topics": 8,
+      "byte_length": 20417,
+      "sha256": "7c8c311f974a7558650a2e9d1a244200f1975abd6bceb2c3a83d86f6df5a8829"
+    },
+    {
+      "section": "sports",
+      "revision": 1,
+      "topics": 5,
+      "byte_length": 9147,
+      "sha256": "300c637d36be1216ffd4edfd192f5fa720d12ab086af52d201ec66f97e56257d"
+    },
+    {
+      "section": "politics",
+      "revision": 1,
+      "topics": 5,
+      "byte_length": 9410,
+      "sha256": "fbff0020fce16d35f5ca89976687836bea032fcb0b06004ef6293b436e2e6190"
+    },
+    {
+      "section": "culture",
+      "revision": 1,
+      "topics": 6,
+      "byte_length": 10764,
+      "sha256": "bd72812e2121e789014c06c4318e10c5fa69759a1898e421d8134a6b9a006603"
+    },
+    {
+      "section": "environment",
+      "revision": 1,
+      "topics": 5,
+      "byte_length": 9565,
+      "sha256": "1602b6831ec6f77ea11ac6036e334daf191e7567b5b1f5b46a920074e6d3fa07"
+    },
+    {
+      "section": "population",
+      "revision": 2,
+      "topics": 8,
+      "byte_length": 26473,
+      "sha256": "a74565a0e94d5fa1a7eed43780875350e2c2d3c3a0e5ebca2e4c817757dd59d2"
+    }
+  ],
+  "not_performed": [
+    "Android build or device rendering",
+    "full live-link availability check for every source",
+    "GitHub publication"
+  ],
+  "release_ready": false,
+  "blockers": [
+    "Current Android geography screen hardcodes Iran title and viewport; content-only update cannot fix it.",
+    "Dedicated photos for the 13 section covers are not supplied.",
+    "Anthem source and rights metadata found, but the audio binary download returned HTTP 403; no audio block references a missing file."
+  ],
+  "editorial_note": "Reported omissions corrected in identity, population, economy and health. Remaining topic gaps are explicitly listed in the coverage audit.",
+  "content_coverage_complete": false,
+  "coverage_audit": "COVERAGE-AUDIT-FA.md"
+}

@@ -1,0 +1,294 @@
+{
+  "checked_at": "2026-10-24",
+  "sources": [
+    {
+      "title": "Wikimedia Commons؛ مشخصات اثر و اجرای سازی گروه تشریفاتی نیروی دریایی آمریکا",
+      "url": "https://commons.wikimedia.org/wiki/File:Kimi_ga_Yo_instrumental.ogg"
+    },
+    {
+      "title": "بخش آمار سازمان ملل؛ کدهای M49 و ISO کشورها",
+      "url": "https://unstats.un.org/unsd/methodology/m49/overview"
+    },
+    {
+      "title": "موزه آرشیو ملی آمریکا؛ بمباران اتمی هیروشیما و ناگاساکی",
+      "url": "https://visit.archives.gov/whats-on/explore-exhibits/atomic-bombing-hiroshima-and-nagasaki"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: جغرافیا و اقلیم ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e01_geography.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: ناحیه‌های ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e02_regions.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: گیاهان و جانوران ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e03_flora.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: اقتصاد ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e04_economy.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: تجارت و سرمایه‌گذاری ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e05_trade.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: انرژی و منابع ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e07_energy.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: ساختار حکومت ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e08_governmental.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: خودگردانی محلی در ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e10_local.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: بیسبال در ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e13_baseball.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: فوتبال در ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e14_soccer.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: سومو در ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e15_sumo.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: هنرهای رزمی ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e16_martial_art.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: ورزش‌های زمستانی ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e17_winter_sports.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: ژاپن، المپیک و پارالمپیک",
+      "url": "https://web-japan.org/factsheet/en/pdf/e18_olympics.pdf"
+    },
+    {
+      "title": "Web Japan؛ زبان ژاپنی",
+      "url": "https://web-japan.org/factsheet/en/pdf/e19_language.pdf"
+    },
+    {
+      "title": "Web Japan؛ سنت‌های دینی ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e20_religion.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: رویدادها و آیین‌های سالانه ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e21_events.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: فرهنگ عامه ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e22_popculture.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: معماری ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e25_architecture.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: ادبیات ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e29_literature.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: موسیقی ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e31_music.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: فرهنگ غذایی ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e36_food.pdf"
+    },
+    {
+      "title": "Web Japan؛ ساختار مدرسه و آغاز سال تحصیلی",
+      "url": "https://web-japan.org/factsheet/en/pdf/e37_education.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: حمل‌ونقل در ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e38_transportation.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: اشتغال در ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e39_employment.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ Web Japan: نظام سلامت ژاپن",
+      "url": "https://web-japan.org/factsheet/en/pdf/e44_healthcare.pdf"
+    },
+    {
+      "title": "سازمان اطلاعات جغرافیایی ژاپن؛ روش شمارش جزایر، ۲۰۲۳",
+      "url": "https://web1.gsi.go.jp/kihonjohochousa/pressrelease20230228.html"
+    },
+    {
+      "title": "آرشیو ملی آمریکا؛ سند تسلیم ژاپن، ۱۹۴۵",
+      "url": "https://www.archives.gov/college-park/highlights/japanese-surrender"
+    },
+    {
+      "title": "بانک ژاپن؛ اسکناس و واحد ین",
+      "url": "https://www.boj.or.jp/en/about/education/oshiete/money/c02.htm"
+    },
+    {
+      "title": "آژانس امور فرهنگی ژاپن؛ نهادهای دینی، آمار پایان ۲۰۲۴",
+      "url": "https://www.bunka.go.jp/english/policy/religious_institutions/index-blank.html"
+    },
+    {
+      "title": "آژانس امور فرهنگی ژاپن؛ برنامه حفاظت از زبان‌ها و گویش‌های در خطر، ۲۰۲۶",
+      "url": "https://www.bunka.go.jp/seisaku/kokugo_nihongo/kokugo_shisaku/kikigengo/94418101.html"
+    },
+    {
+      "title": "وزارت محیط‌زیست ژاپن؛ راهبرد تنوع زیستی ۲۰۲۳ تا ۲۰۳۰",
+      "url": "https://www.env.go.jp/en/nature/biodiv/nsj/"
+    },
+    {
+      "title": "وزارت محیط‌زیست ژاپن؛ ساتویاما و راهکارهای مبتنی بر طبیعت",
+      "url": "https://www.env.go.jp/nature/satoyama/pdf/satoyama2022E.pdf"
+    },
+    {
+      "title": "وزارت محیط‌زیست ژاپن؛ گزارش محیط‌زیست ۲۰۲۵",
+      "url": "https://www.env.go.jp/policy/hakusyo/r07/eng/2025_all.pdf"
+    },
+    {
+      "title": "ESRI؛ گزارش حساب‌های ملی ۲۰۲۴، بازنگری مبنای ۲۰۲۰؛ انتشار دسامبر ۲۰۲۵",
+      "url": "https://www.esri.cao.go.jp/en/sna/data/kakuhou/files/2024/pdf/point_flow_en20251223.pdf"
+    },
+    {
+      "title": "دفتر کابینه ژاپن؛ آمار تولید ناخالص داخلی، نسخه در دسترس ۲۴ اکتبر ۲۰۲۶",
+      "url": "https://www.esri.cao.go.jp/jp/sna/menu"
+    },
+    {
+      "title": "IANA؛ دامنه کشوری jp",
+      "url": "https://www.iana.org/domains/root/db/jp.html"
+    },
+    {
+      "title": "اتحادیه بین‌المللی مخابرات؛ برنامه شماره‌گذاری ژاپن و کد ۸۱",
+      "url": "https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.1054-2014-OAS-PDF-E.pdf"
+    },
+    {
+      "title": "دولت ژاپن؛ پرچم و سرود ملی",
+      "url": "https://www.japan.go.jp/japan/flagandanthem/index.html"
+    },
+    {
+      "title": "دولت ژاپن؛ مشخصات کشور",
+      "url": "https://www.japan.go.jp/japan/index.html"
+    },
+    {
+      "title": "سازمان ملی گردشگری ژاپن؛ پرسش‌های متداول",
+      "url": "https://www.japan.travel/en/faq/"
+    },
+    {
+      "title": "سازمان ملی گردشگری ژاپن؛ آداب رفتار",
+      "url": "https://www.japan.travel/en/guide/japanese-manners-dos-and-donts/"
+    },
+    {
+      "title": "سازمان ملی گردشگری ژاپن؛ پول و تبدیل ارز",
+      "url": "https://www.japan.travel/en/plan/currency/"
+    },
+    {
+      "title": "سازمان ملی گردشگری ژاپن؛ آداب و گردشگری مسئولانه",
+      "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+    },
+    {
+      "title": "سازمان ملی گردشگری ژاپن؛ فصل‌ها و اقلیم پارک‌های ملی",
+      "url": "https://www.japan.travel/national-parks/plan-your-visit/seasons-and-climate/"
+    },
+    {
+      "title": "موزه متروپولیتن؛ هنر دوره ادو",
+      "url": "https://www.metmuseum.org/es/essays/art-of-the-edo-period-1615-1868"
+    },
+    {
+      "title": "موزه متروپولیتن؛ دوره هی‌آن",
+      "url": "https://www.metmuseum.org/essays/heian-period-794-1185"
+    },
+    {
+      "title": "موزه متروپولیتن؛ فرهنگ جومون",
+      "url": "https://www.metmuseum.org/essays/jomon-culture-ca-10500-ca-300-b-c"
+    },
+    {
+      "title": "موزه متروپولیتن؛ فرهنگ یایویی",
+      "url": "https://www.metmuseum.org/essays/yayoi-culture-ca-4th-century-b-c-3rd-century-a-d"
+    },
+    {
+      "title": "وزارت بهداشت، کار و رفاه ژاپن؛ خلاصه آمار، باروری و امید به زندگی ۲۰۲۴",
+      "url": "https://www.mhlw.go.jp/toukei/youran/aramashi/all.pdf"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ تفکیک معافیت گذرنامه عادی و رسمی ایران",
+      "url": "https://www.mofa.go.jp/ca/fna/page22e_000692.html"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ راهنمای روادید",
+      "url": "https://www.mofa.go.jp/j_info/visit/visa/index.html"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ روادید و اجازه ورود",
+      "url": "https://www.mofa.go.jp/j_info/visit/visa/system/"
+    },
+    {
+      "title": "وزارت امور خارجه ژاپن؛ اعلامیه پیونگ‌یانگ، ۲۰۰۲",
+      "url": "https://www.mofa.go.jp/region/asia-paci/n_korea/pmv0209/pyongyang.html"
+    },
+    {
+      "title": "اداره خدمات مهاجرت ژاپن؛ اتباع خارجی مقیم در پایان ۲۰۲۵",
+      "url": "https://www.moj.go.jp/isa/publications/press/13_00062.html"
+    },
+    {
+      "title": "کتابخانه ملی مجلس ژاپن؛ تاریخ تقویم و پذیرش تقویم گریگوری",
+      "url": "https://www.ndl.go.jp/koyomi/e/history/calendar.html"
+    },
+    {
+      "title": "کتابخانه ملی مجلس ژاپن؛ آغاز دولت مشروطه",
+      "url": "https://www.ndl.go.jp/modern/e/cha1/index.html"
+    },
+    {
+      "title": "کتابخانه ملی مجلس ژاپن؛ گاه‌شمار تاریخ معاصر",
+      "url": "https://www.ndl.go.jp/modern/e/utility/chronology.html"
+    },
+    {
+      "title": "NICT؛ زمان استاندارد ژاپن",
+      "url": "https://www.nict.go.jp/en/sts/jst.html"
+    },
+    {
+      "title": "قانون اساسی ژاپن؛ اصل ۲۰ و آزادی دین",
+      "url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/english/constitution_e.htm"
+    },
+    {
+      "title": "اداره آمار ژاپن؛ برآورد مقدماتی جمعیت اکتبر ۲۰۲۶",
+      "url": "https://www.stat.go.jp/data/jinsui/"
+    },
+    {
+      "title": "اداره آمار ژاپن؛ جمعیت ۱ اکتبر ۲۰۲۴ و نرخ تغییر سالانه",
+      "url": "https://www.stat.go.jp/data/jinsui/2024np/"
+    },
+    {
+      "title": "اداره آمار ژاپن؛ سالمندان، گزارش سپتامبر ۲۰۲۵",
+      "url": "https://www.stat.go.jp/data/topics/topi1460.html"
+    },
+    {
+      "title": "اداره آمار ژاپن؛ میانگین سالانه شاخص قیمت مصرف‌کننده ۲۰۲۵",
+      "url": "https://www.stat.go.jp/english/data/cpi/158c.htm"
+    },
+    {
+      "title": "اداره آمار ژاپن؛ کتاب آماری ۲۰۲۶",
+      "url": "https://www.stat.go.jp/english/data/handbook/pdf/2026all.pdf"
+    },
+    {
+      "title": "اداره آمار ژاپن؛ یادداشت خواندن آمار و تعریف سال مالی",
+      "url": "https://www.stat.go.jp/english/data/handbook/pdf/2026half_1.pdf"
+    },
+    {
+      "title": "اداره آمار ژاپن؛ کتاب آماری ۲۰۲۶، بخش دوم؛ تجارت و بازار کار",
+      "url": "https://www.stat.go.jp/english/data/handbook/pdf/2026half_2.pdf"
+    },
+    {
+      "title": "اداره آمار ژاپن؛ نتایج مقدماتی سرشماری ۲۰۲۵، خبرنامه ژوئن ۲۰۲۶",
+      "url": "https://www.stat.go.jp/english/info/news/20260625.html"
+    },
+    {
+      "title": "یونسکو؛ سرگذشت زبان آینو، بازبینی ۲۰۲۳",
+      "url": "https://www.unesco.org/en/articles/saga-ainu-language-0"
+    }
+  ],
+  "note": "ارتباط هر منبع با متن و جدول در sources همان موضوع حفظ شده است. دسترسی منبع اتباع خارجی مقیم همچنان نیازمند بازبینی پیش از انتشار است."
+}

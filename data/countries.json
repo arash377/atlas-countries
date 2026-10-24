@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 12,
+  "revision": 13,
   "updated_at": "2026-10-24",
   "countries": [
     {
@@ -340,9 +340,9 @@
       "documents": {
         "identity": {
           "path": "data/countries/JPN/identity.json",
-          "revision": 1,
-          "updated_at": "2026-10-23",
-          "byte_length": 10088
+          "revision": 2,
+          "updated_at": "2026-10-24",
+          "byte_length": 20417
         },
         "geography": {
           "path": "data/countries/JPN/geography.json",
@@ -358,9 +358,9 @@
         },
         "population": {
           "path": "data/countries/JPN/population.json",
-          "revision": 1,
-          "updated_at": "2026-10-23",
-          "byte_length": 11603
+          "revision": 2,
+          "updated_at": "2026-10-24",
+          "byte_length": 26473
         },
         "politics": {
           "path": "data/countries/JPN/politics.json",
@@ -376,9 +376,9 @@
         },
         "economy": {
           "path": "data/countries/JPN/economy.json",
-          "revision": 1,
-          "updated_at": "2026-10-23",
-          "byte_length": 9617
+          "revision": 2,
+          "updated_at": "2026-10-24",
+          "byte_length": 21026
         },
         "culture": {
           "path": "data/countries/JPN/culture.json",
@@ -388,9 +388,9 @@
         },
         "education-health": {
           "path": "data/countries/JPN/education-health.json",
-          "revision": 1,
-          "updated_at": "2026-10-23",
-          "byte_length": 9022
+          "revision": 2,
+          "updated_at": "2026-10-24",
+          "byte_length": 12254
         },
         "sports": {
           "path": "data/countries/JPN/sports.json",

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "country_code": "JPN",
   "section": "education-health",
-  "revision": 3,
+  "revision": 4,
   "language": "fa",
   "updated_at": "2026-10-24",
   "title": "آموزش و سلامت در ژاپن",
@@ -148,6 +148,44 @@
         ]
       ],
       "note": "مقدار پیش‌بینی‌شده جای آمار قطعی نیست. رقم زیر یک سال در جدول دیگر با زیر پنج سال متفاوت است."
+    },
+    {
+      "type": "table",
+      "id": "adult-literacy-evidence",
+      "title": "سواد و مهارت خواندن بزرگسالان",
+      "columns": [
+        "شاخص",
+        "مقدار",
+        "جامعه و دوره"
+      ],
+      "rows": [
+        [
+          "سواد پایه بزرگسالان ۱۵ساله و بیشتر",
+          "داده گزارش‌شده ندارد",
+          "سری SE.ADT.LITR.ZS بانک جهانی؛ بررسی ۲۴ اکتبر ۲۰۲۶"
+        ],
+        [
+          "مردان با مهارت خواندن حداقل سطح ۱",
+          "۹۶ درصد",
+          "۱۶ تا ۶۵ سال؛ PIAAC ۲۰۲۳"
+        ],
+        [
+          "زنان با مهارت خواندن حداقل سطح ۱",
+          "۹۸ درصد",
+          "۱۶ تا ۶۵ سال؛ PIAAC ۲۰۲۳"
+        ]
+      ],
+      "sources": [
+        [
+          "بانک جهانی؛ SE.ADT.LITR.ZS",
+          "https://api.worldbank.org/v2/country/JPN/indicator/SE.ADT.LITR.ZS?format=json&per_page=70"
+        ],
+        [
+          "وزارت امور خارجه؛ شاخص ملی مهارت خواندن SDG 4.6.1",
+          "https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/statistics/goal4.html"
+        ]
+      ],
+      "note": "درصد مهارت خواندن PIAAC جای نرخ سواد پایه ۱۵+ نیست؛ عدد مشهور ۹۹ درصد بدون پیمایش و دوره به‌عنوان آمار امروز ثبت نشده است."
     }
   ],
   "topics": [

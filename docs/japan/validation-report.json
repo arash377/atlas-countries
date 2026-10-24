@@ -1,48 +1,18 @@
 {
   "checked_at": "2026-10-24",
   "topics_count": 114,
-  "unique_source_urls": 97,
+  "unique_source_urls": 110,
   "schema_valid": true,
   "device_tested": false,
   "content_coverage_complete": false,
   "comparison": "structure-comparison.json",
   "remaining_gaps": [
-    "نقشه در نسخه فعلی Android به ایران وابسته است؛ افزودن facts و map_points ژاپن این مشکل اجرایی را به‌تنهایی حل نمی‌کند. آزمون دستگاه انجام نشده است.",
-    "صوت سرود و عکس‌های اختصاصی موضوع‌ها هنوز با نمونه ایران هم‌سطح نیستند. مسیر رسانه ساختگی اضافه نشده است.",
-    "تاریخ و منشأ تفصیلی نام و نمادهای تاریخی هنوز کوتاه‌تر از ایران است.",
-    "مقصدها و سهم شرکای تجارت، نرخ سواد بزرگسالان، پوشش LTE و 5G، دسترسی برق، سهم تجدیدپذیر و پوشش حفاظتی برحسب مساحت هنوز جدول عددی هم‌سطح ایران ندارند؛ عدد حدسی یا تعریف متفاوت جایگزین نشده است.",
-    "جدول کامل نتایج المپیک، شرح اختصاصی والیبال و فوتسال، و جزئیات برخی حوزه‌های تاریخی و فرهنگی برای برابری عمق نیاز به ادامه پژوهش دارند.",
-    "منبع شمار اتباع خارجی مقیم از بازبینی قبلی محدودیت دسترسی داشت؛ این عدد نیازمند تأیید مستقیم پیش از انتشار نهایی است."
+    "نصب و آزمون تعاملی روی دستگاه انجام نشده است.",
+    "دریافت APK از CI به علت پرشدن سهمیه ذخیره آرتیفکت GitHub انجام نشد؛ ساخت و آزمون‌ها موفق بودند.",
+    "نرخ سواد پایه ۱۵+ در سری رسمی بانک جهانی داده گزارش‌شده ندارد؛ مقدار خالی همراه دلیل حفظ شده است.",
+    "متن تفصیلی نمادهای تاریخی و شرح اختصاصی بعضی ورزش‌ها همچنان از نمونه ایران کوتاه‌تر است."
   ],
   "sections": [
-    {
-      "section": "infrastructure",
-      "revision": 2,
-      "topics": 6,
-      "byte_length": 14574,
-      "sha256": "b86d260eeae2505ced0439eb0566be37e734655491b545b53c336f669a12a6ca"
-    },
-    {
-      "section": "history",
-      "revision": 2,
-      "topics": 8,
-      "byte_length": 15938,
-      "sha256": "af319b98d68304d20583e9245a05788539aeb2404c01cb5ea78b456ab41e71b8"
-    },
-    {
-      "section": "education-health",
-      "revision": 3,
-      "topics": 8,
-      "byte_length": 17789,
-      "sha256": "b2e604a1d79da1ca721c9ef44e216ffa217e8431c169d5f511702046b4f5607c"
-    },
-    {
-      "section": "geography",
-      "revision": 2,
-      "topics": 10,
-      "byte_length": 20949,
-      "sha256": "95b4c7a1bc774c1de41261f8249156e98027e8c985e84fe6aa56200b658078b1"
-    },
     {
       "section": "travel",
       "revision": 2,
@@ -51,39 +21,18 @@
       "sha256": "a7e064c14667e9726ee9e52b4a00581d57e30cd5e4e35f86ab930394e99aac11"
     },
     {
-      "section": "administration",
-      "revision": 2,
-      "topics": 7,
-      "byte_length": 16866,
-      "sha256": "de32c2ae21c6c047d166e9c1520658d74f53c1b08ebe88f51156ea25ba542071"
-    },
-    {
-      "section": "economy",
-      "revision": 3,
-      "topics": 11,
-      "byte_length": 26598,
-      "sha256": "31c8c13db8fbb1471fefacba33a70ea2b437b95cbd4493e84570b47924ca7549"
+      "section": "education-health",
+      "revision": 4,
+      "topics": 8,
+      "byte_length": 19278,
+      "sha256": "8a3217c9ab6cd1d999b4c45a4873c26ce5303ee36d4b7c7f943bf225595aa530"
     },
     {
       "section": "identity",
-      "revision": 3,
+      "revision": 4,
       "topics": 9,
-      "byte_length": 22889,
-      "sha256": "52c82fbac0b73ee9b99b03612edc10cc566893f529cc0562abde34152922c8db"
-    },
-    {
-      "section": "sports",
-      "revision": 2,
-      "topics": 7,
-      "byte_length": 12748,
-      "sha256": "61eb8164f48fff7bdd9331931d9c61e8ce40bb14a0f8174c39e5e8b18a181d99"
-    },
-    {
-      "section": "politics",
-      "revision": 2,
-      "topics": 8,
-      "byte_length": 15526,
-      "sha256": "58c796af6762fc7c2cf57e835e6758a134d1b2efea1ee8586a2c8bbbb2343744"
+      "byte_length": 23910,
+      "sha256": "982af0cac59c18dbb562b3e3d36a1fd3c206abd8d9e919025d112673132869ca"
     },
     {
       "section": "culture",
@@ -93,18 +42,83 @@
       "sha256": "859ae0b4e5a8d4288c699aeae09a8b64084e4211d340bcb8be10cca929c23ab1"
     },
     {
-      "section": "environment",
-      "revision": 2,
-      "topics": 8,
-      "byte_length": 15116,
-      "sha256": "feca2e9f991cfe94c49248b06d701ddf17a50f4d6a16b91663c6ed1d158ecfed"
-    },
-    {
       "section": "population",
       "revision": 3,
       "topics": 10,
       "byte_length": 32754,
       "sha256": "02094d6bc42e6691f2f3591f3b00b984b77d732c0732b71fcd73592159a83e29"
+    },
+    {
+      "section": "environment",
+      "revision": 3,
+      "topics": 8,
+      "byte_length": 18369,
+      "sha256": "9899baec85902f86c062cd80db8c668e86dc8d71e95f6a615812cf728f395aeb"
+    },
+    {
+      "section": "administration",
+      "revision": 2,
+      "topics": 7,
+      "byte_length": 16866,
+      "sha256": "de32c2ae21c6c047d166e9c1520658d74f53c1b08ebe88f51156ea25ba542071"
+    },
+    {
+      "section": "politics",
+      "revision": 2,
+      "topics": 8,
+      "byte_length": 15526,
+      "sha256": "58c796af6762fc7c2cf57e835e6758a134d1b2efea1ee8586a2c8bbbb2343744"
+    },
+    {
+      "section": "geography",
+      "revision": 2,
+      "topics": 10,
+      "byte_length": 20949,
+      "sha256": "95b4c7a1bc774c1de41261f8249156e98027e8c985e84fe6aa56200b658078b1"
+    },
+    {
+      "section": "sports",
+      "revision": 3,
+      "topics": 7,
+      "byte_length": 13599,
+      "sha256": "b537ce711047ebfc762b5c27b76f11bb9830db1caa0797a16fe848cb938cd8ad"
+    },
+    {
+      "section": "infrastructure",
+      "revision": 3,
+      "topics": 6,
+      "byte_length": 17650,
+      "sha256": "64663b2a665f6f02cda6585a128fe2fe5bbf9f71ffc117865f59c1f4040c7d3d"
+    },
+    {
+      "section": "economy",
+      "revision": 4,
+      "topics": 11,
+      "byte_length": 30998,
+      "sha256": "dfef8ed4ddb93127ae4ed8fc72c1d3912c2772e45d2c1c88cc2da727eec70fa7"
+    },
+    {
+      "section": "history",
+      "revision": 2,
+      "topics": 8,
+      "byte_length": 15938,
+      "sha256": "af319b98d68304d20583e9245a05788539aeb2404c01cb5ea78b456ab41e71b8"
     }
-  ]
+  ],
+  "catalog_revision": 15,
+  "key_tables": 37,
+  "key_table_rows": 183,
+  "section_covers": 13,
+  "anthem": {
+    "path": "assets/japan-anthem-instrumental.ogg",
+    "duration_seconds": 58.697,
+    "decode_test": "ffmpeg full decode passed"
+  },
+  "map": {
+    "app_version": "0.3.1",
+    "pull_request": "https://github.com/arash377/atlas/pull/1",
+    "build_and_unit_tests": "passed",
+    "ci_run": "https://github.com/arash377/atlas/actions/runs/40064971528",
+    "apk_upload": "blocked: GitHub Actions artifact storage quota exceeded"
+  }
 }

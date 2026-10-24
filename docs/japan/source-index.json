@@ -2,6 +2,34 @@
   "checked_at": "2026-10-24",
   "sources": [
     {
+      "title": "بانک جهانی؛ AG.LND.FRST.ZS",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/AG.LND.FRST.ZS?format=json&per_page=70"
+    },
+    {
+      "title": "بانک جهانی؛ EG.ELC.ACCS.ZS",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/EG.ELC.ACCS.ZS?format=json&per_page=70"
+    },
+    {
+      "title": "بانک جهانی؛ EG.FEC.RNEW.ZS",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/EG.FEC.RNEW.ZS?format=json&per_page=70"
+    },
+    {
+      "title": "بانک جهانی؛ ER.H2O.FWST.ZS",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/ER.H2O.FWST.ZS?format=json&per_page=70"
+    },
+    {
+      "title": "بانک جهانی؛ NY.GDP.MKTP.PP.CD",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/NY.GDP.MKTP.PP.CD?format=json&per_page=70"
+    },
+    {
+      "title": "بانک جهانی؛ NY.GDP.PCAP.PP.CD",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/NY.GDP.PCAP.PP.CD?format=json&per_page=70"
+    },
+    {
+      "title": "بانک جهانی؛ SE.ADT.LITR.ZS",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/SE.ADT.LITR.ZS?format=json&per_page=70"
+    },
+    {
       "title": "Wikimedia Commons؛ مشخصات اثر و اجرای سازی گروه تشریفاتی نیروی دریایی آمریکا",
       "url": "https://commons.wikimedia.org/wiki/File:Kimi_ga_Yo_instrumental.ogg"
     },
@@ -24,6 +52,10 @@
     {
       "title": "موزه شهر فوکوئوکا؛ دوره‌بندی تاریخ ژاپن",
       "url": "https://museum.city.fukuoka.jp/en/pdf/ccf_history_jp_en.pdf"
+    },
+    {
+      "title": "بخش آمار سازمان ملل؛ SDG 9.c.1، سری IT_MOB_4GNTWK، ژاپن",
+      "url": "https://unstats.un.org/sdgapi/v1/sdg/Series/Data?seriesCode=IT_MOB_4GNTWK&areaCode=392&pageSize=100"
     },
     {
       "title": "بخش آمار سازمان ملل؛ کدهای M49 و ISO کشورها",
@@ -270,8 +302,16 @@
       "url": "https://www.jnto.go.jp/emergency/eng/mi_guide.html"
     },
     {
+      "title": "کمیته المپیک ژاپن؛ مدال‌آوران پاریس ۲۰۲۴",
+      "url": "https://www.joc.or.jp/english/parisolympics/medalists.html"
+    },
+    {
       "title": "آژانس خاندان امپراتوری؛ ناروهیتو",
       "url": "https://www.kunaicho.go.jp/en/learn/about/history/history01.html"
+    },
+    {
+      "title": "وزارت اقتصاد و صنعت ژاپن؛ گزارش نهایی انرژی سال مالی ۲۰۲۴",
+      "url": "https://www.meti.go.jp/press/2026/04/20260414001/20260414001.html"
     },
     {
       "title": "موزه متروپولیتن؛ هنر دوره ادو",
@@ -304,6 +344,10 @@
     {
       "title": "وزارت امور خارجه ژاپن؛ روادید و اجازه ورود",
       "url": "https://www.mofa.go.jp/j_info/visit/visa/system/"
+    },
+    {
+      "title": "وزارت امور خارجه؛ شاخص ملی مهارت خواندن SDG 4.6.1",
+      "url": "https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/statistics/goal4.html"
     },
     {
       "title": "وزارت امور خارجه ژاپن؛ سیاست خارجی",
@@ -342,12 +386,20 @@
       "url": "https://www.paralympic.org/paris-2024-paralympic-games/results/medalstandings"
     },
     {
+      "title": "UNEP-WCMC؛ نمایه مناطق حفاظت‌شده ژاپن، اکتبر ۲۰۲۶",
+      "url": "https://www.protectedplanet.net/country/JPN"
+    },
+    {
       "title": "مجلس نمایندگان ژاپن؛ راهنمای پارلمان، فوریه ۲۰۲۶",
       "url": "https://www.shugiin.go.jp/internet/ITDB_english.nsf/html/statics/english/kokkaiannai_e2602.pdf/%24File/kokkaiannai_e2602.pdf"
     },
     {
       "title": "مجلس نمایندگان؛ متن قانون اساسی ژاپن",
       "url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/english/constitution_e.htm"
+    },
+    {
+      "title": "وزارت امور داخلی و ارتباطات ژاپن؛ پوشش پایان سال مالی ۲۰۲۵",
+      "url": "https://www.soumu.go.jp/main_content/001083765.pdf"
     },
     {
       "title": "اداره آمار ژاپن؛ برآورد مقدماتی جمعیت اکتبر ۲۰۲۶",

@@ -39,6 +39,20 @@
       "license_url": "https://commons.wikimedia.org/wiki/Template:PD-shape",
       "changes": "بازترسیم با نسبت ۲ به ۳ و قطر دایره برابر سه‌پنجم ارتفاع؛ خروجی WebP بدون اتلاف",
       "variant": "flag"
+    },
+    {
+      "type": "audio",
+      "id": "japan-national-anthem",
+      "url": "assets/japan-anthem-instrumental.ogg",
+      "title": "کیمی‌گایو؛ سرود ملی ژاپن",
+      "transcript": "اجرای سازی گروه تشریفاتی نیروی دریایی ایالات متحده؛ بدون آواز یا متن خوانده‌شده.",
+      "variant": "instrumental",
+      "duration_seconds": 58.697,
+      "credit": "United States Navy Ceremonial Band؛ اجرای آرشیوی معرفی‌شده در Wikimedia Commons",
+      "license": "Public domain؛ اثر موسیقایی PD-old-100-expired و اجرای رسمی PD-USGov-Military-Navy",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Navy",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kimi_ga_Yo_instrumental.ogg",
+      "changes": "فایل اصلی Ogg Vorbis؛ بدون ویرایش صوت"
     }
   ],
   "illustrations": {

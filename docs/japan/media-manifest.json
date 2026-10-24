@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "cover": {
+      "src": "assets/headers/japan-identity.webp",
+      "alt": "کاخ امپراتوری در توکیو",
+      "caption": "کاخ امپراتوری در توکیو",
+      "credit": "Stefano Vigorelli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Imperial_Palace,_Tokyo_JP.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Imperial Palace, Tokyo JP.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Imperial_Palace%2C_Tokyo_JP.jpg/1280px-Imperial_Palace%2C_Tokyo_JP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "3f71d0006abd78d7ea33891f453881cc424ffd835140cb3f28f5f3eb5b263cd9",
+    "asset_sha256": "702fa4b0b39e39be832ec987e95693b3d5605621bf5d73f9ec671450c6c4d644",
+    "bytes": 93570
+  },
+  "geography": {
+    "cover": {
+      "src": "assets/headers/japan-geography.webp",
+      "alt": "نمای دریاچه بیوا",
+      "caption": "نمای دریاچه بیوا",
+      "credit": "Lonely Planet Japan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Top_view_of_Lake_Biwa.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Top view of Lake Biwa.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Top_view_of_Lake_Biwa.jpg/1280px-Top_view_of_Lake_Biwa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "084869bb2d1df6d9cb24400fcf7044e577d8f528b985e4f6ddce6b10232f543d",
+    "asset_sha256": "2a1850fbbbe317ce8d21363d9c346b5f8a181727b689a52b28d0690623884d2b",
+    "bytes": 168128
+  },
+  "administration": {
+    "cover": {
+      "src": "assets/headers/japan-administration.webp",
+      "alt": "ساختمان دولت کلان‌شهری توکیو در شینجوکو",
+      "caption": "ساختمان دولت کلان‌شهری توکیو در شینجوکو",
+      "credit": "Kakidai",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tokyo_Metropolitan_Government_Building_2012.JPG",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Tokyo Metropolitan Government Building 2012.JPG",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Tokyo_Metropolitan_Government_Building_2012.JPG/1280px-Tokyo_Metropolitan_Government_Building_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "4c9c5a5bc11da06b15f899c3caac343f3b3f6d757e21d30aaaea67ff0257beb4",
+    "asset_sha256": "d5a820ae673e68de4d3689d0b7b6355f745880bb529c36ddebef78bb0a1a635c",
+    "bytes": 167142
+  },
+  "population": {
+    "cover": {
+      "src": "assets/headers/japan-population.webp",
+      "alt": "تقاطع شیبویا در توکیو؛ نمونه‌ای از فضای شهری",
+      "caption": "تقاطع شیبویا در توکیو؛ نمونه‌ای از فضای شهری",
+      "credit": "Benh LIEU SONG (Flickr)",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Tokyo Shibuya Scramble Crossing 2018-10-09.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/1280px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "0e3a6e4cc1ced14cf7ce79f96fc3ec8258beaa9fed670ee650769e9b0ebf7fe1",
+    "asset_sha256": "d654625d100a757e6e1e3356a7a6691ddf513dc4c053259a7eef119773d24f70",
+    "bytes": 205488
+  },
+  "politics": {
+    "cover": {
+      "src": "assets/headers/japan-politics.webp",
+      "alt": "ساختمان پارلمان ملی ژاپن",
+      "caption": "ساختمان پارلمان ملی ژاپن",
+      "credit": "Kakidai",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:National_Diet_Building_02.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:National Diet Building 02.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/National_Diet_Building_02.jpg/1280px-National_Diet_Building_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "8ab63f3ff07ddbd87e4b929ce0234974815429cf08c2b34bd4370a728cd8bf1d",
+    "asset_sha256": "2d37068b996f6207079029809bb11f3be70c8587a70ab5a3709d9733aea80686",
+    "bytes": 192772
+  },
+  "history": {
+    "cover": {
+      "src": "assets/headers/japan-history.webp",
+      "alt": "قلعه هیمه‌جی",
+      "caption": "قلعه هیمه‌جی",
+      "credit": "Nikos Kitsakis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Himeji_castle_in_may_2015.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Himeji castle in may 2015.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Himeji_castle_in_may_2015.jpg/1280px-Himeji_castle_in_may_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "639e9114ea4382ee13405ce60072631af36f9292a8cca7d577f81e4fa52597eb",
+    "asset_sha256": "0fb68a5ca247310e836eac8f71d4cd3017f8e94438ba6f8728beff39cbbf7abd",
+    "bytes": 227878
+  },
+  "economy": {
+    "cover": {
+      "src": "assets/headers/japan-economy.webp",
+      "alt": "نمای هوایی محدوده بندری یوکوهاما",
+      "caption": "نمای هوایی محدوده بندری یوکوهاما",
+      "credit": "Kentaro Iemoto from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Airborne_imagery_Yokohama_City_(4274354758).jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Airborne imagery Yokohama City (4274354758).jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Airborne_imagery_Yokohama_City_%284274354758%29.jpg/1280px-Airborne_imagery_Yokohama_City_%284274354758%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "aaeefb6bdaf01501cf32dfe898a1aa3397c2e7f96242ad637cf8d78b73bd5483",
+    "asset_sha256": "03b7f09c6d4dd1f4bdaf44adef65207749aec4b782c3c99b183cc302f4c97686",
+    "bytes": 169620
+  },
+  "culture": {
+    "cover": {
+      "src": "assets/headers/japan-culture.webp",
+      "alt": "نمونه‌ای از صبحانه در اقامتگاه سنتی کیوتو",
+      "caption": "نمونه‌ای از صبحانه در اقامتگاه سنتی کیوتو",
+      "credit": "MichaelMaggs",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Breakfast_at_Tamahan_Ryokan,_Kyoto.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Breakfast at Tamahan Ryokan, Kyoto.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Breakfast_at_Tamahan_Ryokan%2C_Kyoto.jpg/1280px-Breakfast_at_Tamahan_Ryokan%2C_Kyoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "587e88909ca16379ca232b5c47916fd7dbc076ebb4f6bf2068a8f4cf045adf2f",
+    "asset_sha256": "47ce0e0100e34c6bd275b3265e3294bd858c4e7e0be9ff47f48ff0aafe90eb7c",
+    "bytes": 91226
+  },
+  "education-health": {
+    "cover": {
+      "src": "assets/headers/japan-education-health.webp",
+      "alt": "تالار یاسودا در دانشگاه توکیو",
+      "caption": "تالار یاسودا در دانشگاه توکیو",
+      "credit": "Kakidai",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Yasuda_Auditorium_-_Tokyo_University.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Yasuda Auditorium - Tokyo University.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Yasuda_Auditorium_-_Tokyo_University.jpg/1280px-Yasuda_Auditorium_-_Tokyo_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "866d827647c71f9b8a112deae61241d6f765e30afd15d37173d950ef001194b5",
+    "asset_sha256": "bd2a0fc6bc110a3f6c1437f85e2c0441b022030f3c136d62a38d406c15fbae86",
+    "bytes": 140980
+  },
+  "sports": {
+    "cover": {
+      "src": "assets/headers/japan-sports.webp",
+      "alt": "آیین ورود به میدان سومو؛ سپتامبر ۲۰۱۴",
+      "caption": "آیین ورود به میدان سومو؛ سپتامبر ۲۰۱۴",
+      "credit": "Jeffrey Pauletto",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aki_basho_dohy%C5%8D-iri_on_Sept._28_2014.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Aki basho dohyō-iri on Sept. 28 2014.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Aki_basho_dohy%C5%8D-iri_on_Sept._28_2014.jpg/1280px-Aki_basho_dohy%C5%8D-iri_on_Sept._28_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "3bce492f70934094e7ca860c38aed7b8994846b97564b3c4b71be130e1aa9a72",
+    "asset_sha256": "90edc14a3315da7b7c7968d46d425325dbdda9171ae82b2123da999212032ec1",
+    "bytes": 175786
+  },
+  "infrastructure": {
+    "cover": {
+      "src": "assets/headers/japan-infrastructure.webp",
+      "alt": "قطار شینکانسن N700",
+      "caption": "قطار شینکانسن N700",
+      "credit": "TC411-507 at Japanese Wikipedia",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Shinkansen_N700_z15.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Shinkansen N700 z15.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Shinkansen_N700_z15.jpg/1280px-Shinkansen_N700_z15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "21a8a7cdc58c8ab7c13ae1ac6173c7667d9b2ad0b733fe5ec45ef0f65359b2a5",
+    "asset_sha256": "c19f83fb4c9ba3cf12e00a0fcc99493706d31fdc2ed7985aa83167359a9dd2a1",
+    "bytes": 198950
+  },
+  "travel": {
+    "cover": {
+      "src": "assets/headers/japan-travel.webp",
+      "alt": "مسیر توریی‌های فوشیمی ایناری در کیوتو",
+      "caption": "مسیر توریی‌های فوشیمی ایناری در کیوتو",
+      "credit": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Torii path with lantern at Fushimi Inari Taisha Shrine, Kyoto, Japan.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/1280px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "d6bfb52614f8c25e5389acca9be00ab1e6c23b7a2b0ed5041b9bc36f3180fc95",
+    "asset_sha256": "d7bb3eee13cbb754ce57c812f8708a532598a3160c7b558025bfa26e59c05cec",
+    "bytes": 209350
+  },
+  "environment": {
+    "cover": {
+      "src": "assets/headers/japan-environment.webp",
+      "alt": "چشم‌انداز تالاب کوشیرو در هوکایدو",
+      "caption": "چشم‌انداز تالاب کوشیرو در هوکایدو",
+      "credit": "Kzaral",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kushiro_Marsh,_Shibecha.jpg",
+      "width": 1200,
+      "height": 750,
+      "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+    },
+    "original_title": "File:Kushiro Marsh, Shibecha.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Kushiro_Marsh%2C_Shibecha.jpg/1280px-Kushiro_Marsh%2C_Shibecha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_sha256": "4fde6c9aea5dbcef24eddb7ca6557bd0e32953883931b87948436ca59603d3e4",
+    "asset_sha256": "6b620c89e13d198f42b38ea321f5554a2a573c11d6219455bfff8cc4d5dd1978",
+    "bytes": 229320
+  }
+}

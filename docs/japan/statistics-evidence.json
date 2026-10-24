@@ -1,0 +1,118 @@
+{
+  "checked_at": "2026-10-24",
+  "indicators": [
+    {
+      "id": "NY.GDP.MKTP.PP.CD",
+      "value": 6714043512607.59,
+      "period": "2024",
+      "unit": "تریلیون دلار بین‌المللی جاری",
+      "source_url": "https://api.worldbank.org/v2/country/JPN/indicator/NY.GDP.MKTP.PP.CD?format=json&per_page=70",
+      "definition": "برابری قدرت خرید به قیمت جاری؛ متفاوت از دلار آمریکا با نرخ ارز بازار",
+      "status": "reported"
+    },
+    {
+      "id": "NY.GDP.PCAP.PP.CD",
+      "value": 54156.2687689605,
+      "period": "2024",
+      "unit": "دلار بین‌المللی جاری",
+      "source_url": "https://api.worldbank.org/v2/country/JPN/indicator/NY.GDP.PCAP.PP.CD?format=json&per_page=70",
+      "definition": "برابری قدرت خرید به قیمت جاری؛ متفاوت از دلار آمریکا با نرخ ارز بازار",
+      "status": "reported"
+    },
+    {
+      "id": "four-g-coverage",
+      "value": 98.1,
+      "period": "2024",
+      "unit": "percent",
+      "source_url": "https://unstats.un.org/sdgapi/v1/sdg/Series/Data?seriesCode=IT_MOB_4GNTWK&areaCode=392&pageSize=100",
+      "definition": "جمعیت زیر پوشش حداقل 4G؛ ITU estimate",
+      "status": "estimate"
+    },
+    {
+      "id": "five-g-coverage",
+      "value": 98.6,
+      "period": "2026-03",
+      "unit": "percent",
+      "source_url": "https://www.soumu.go.jp/main_content/001083765.pdf",
+      "definition": "پوشش جمعیتی ترکیبی چهار اپراتور",
+      "status": "reported"
+    },
+    {
+      "id": "electricity-access",
+      "value": 100,
+      "period": "2024",
+      "unit": "percent",
+      "source_url": "https://api.worldbank.org/v2/country/JPN/indicator/EG.ELC.ACCS.ZS?format=json&per_page=70",
+      "definition": "سهم جمعیت دارای دسترسی به برق",
+      "status": "reported"
+    },
+    {
+      "id": "adult-literacy-15-plus",
+      "value": null,
+      "period": "checked 2026-10-24",
+      "unit": "percent",
+      "source_url": "https://api.worldbank.org/v2/country/JPN/indicator/SE.ADT.LITR.ZS?format=json&per_page=70",
+      "definition": "سری سواد پایه بزرگسالان ۱۵+؛ هیچ مقدار گزارش‌شده در پاسخ پایگاه وجود ندارد",
+      "status": "unavailable"
+    },
+    {
+      "id": "terrestrial-protected-coverage",
+      "value": 29.75,
+      "period": "2026-10",
+      "unit": "percent",
+      "source_url": "https://www.protectedplanet.net/country/JPN",
+      "definition": "مساحت خشکی و آب داخلی در مناطق حفاظت‌شده؛ WDPA، بدون OECM",
+      "status": "reported"
+    },
+    {
+      "id": "marine-protected-coverage",
+      "value": 13.79,
+      "period": "2026-10",
+      "unit": "percent",
+      "source_url": "https://www.protectedplanet.net/country/JPN",
+      "definition": "مساحت دریایی و ساحلی مناطق حفاظت‌شده؛ WDPA، بدون OECM",
+      "status": "reported"
+    },
+    {
+      "id": "ER.H2O.FWST.ZS",
+      "value": 36.64367816,
+      "period": "2022",
+      "unit": "percent",
+      "source_url": "https://api.worldbank.org/v2/country/JPN/indicator/ER.H2O.FWST.ZS?format=json&per_page=70",
+      "definition": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+      "status": "reported"
+    },
+    {
+      "id": "AG.LND.FRST.ZS",
+      "value": 68.3407407407407,
+      "period": "2024",
+      "unit": "percent",
+      "source_url": "https://api.worldbank.org/v2/country/JPN/indicator/AG.LND.FRST.ZS?format=json&per_page=70",
+      "definition": "Forest area (% of land area)",
+      "status": "reported"
+    },
+    {
+      "id": "EG.FEC.RNEW.ZS",
+      "value": 8.8,
+      "period": "2021",
+      "unit": "percent",
+      "source_url": "https://api.worldbank.org/v2/country/JPN/indicator/EG.FEC.RNEW.ZS?format=json&per_page=70",
+      "definition": "Renewable energy consumption (% of total final energy consumption)",
+      "status": "reported"
+    },
+    {
+      "id": "renewable-electricity",
+      "value": 23.1,
+      "period": "FY2024",
+      "unit": "percent",
+      "source_url": "https://www.meti.go.jp/press/2026/04/20260414001/20260414001.html",
+      "definition": "سهم تجدیدپذیر شامل برق‌آبی از تولید برق؛ گزارش نهایی",
+      "status": "reported"
+    }
+  ],
+  "notes": [
+    "فقط سواد پایه ۱۵+ فاقد مقدار گزارش‌شده است؛ شاخص مهارت خواندن به‌جای آن جعل نشده است.",
+    "دسترسی مستقیم به صفحه METI در این محیط 403 بود؛ رقم نهایی از نمایه جست‌وجوی همان صفحه رسمی تأیید شد.",
+    "پوشش حفاظتی از داده تعبیه‌شده همان صفحه استخراج شد؛ مقدار 20.3 گزارش ملی قدیمی با پوشش فعلی WDPA یکی نیست."
+  ]
+}

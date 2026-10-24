@@ -1,0 +1,1952 @@
+{
+  "checked_at": "2026-10-24",
+  "baseline": {
+    "repository": "arash377/atlas-countries",
+    "iran_branch": "main",
+    "japan_parent_commit": "52a38cd20f062b2059df6e137d152e001fab1a53"
+  },
+  "all_sections_compared": 13,
+  "topic_comparison": [
+    {
+      "section": "infrastructure",
+      "iran_topic": "road-network",
+      "iran_title": "راه‌ها و جابه‌جایی زمینی",
+      "japan_topics": [
+        "urban-road"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "infrastructure",
+      "iran_topic": "rail-network",
+      "iran_title": "راه‌آهن و پیوند مناطق",
+      "japan_topics": [
+        "rail-network"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "infrastructure",
+      "iran_topic": "urban-mobility",
+      "iran_title": "حمل‌ونقل شهری",
+      "japan_topics": [
+        "urban-road"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "infrastructure",
+      "iran_topic": "aviation",
+      "iran_title": "فرودگاه و حمل‌ونقل هوایی",
+      "japan_topics": [
+        "air-sea"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "infrastructure",
+      "iran_topic": "ports-logistics",
+      "iran_title": "بنادر و مسیرهای دریایی",
+      "japan_topics": [
+        "air-sea"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "infrastructure",
+      "iran_topic": "water-services",
+      "iran_title": "آب، فاضلاب و میراث آبی",
+      "japan_topics": [
+        "water-services"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "infrastructure",
+      "iran_topic": "power-system",
+      "iran_title": "برق و شبکه انرژی",
+      "japan_topics": [
+        "power-energy"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "infrastructure",
+      "iran_topic": "digital-communications",
+      "iran_title": "اینترنت و ارتباطات",
+      "japan_topics": [
+        "digital-access"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "history",
+      "iran_topic": "early-societies",
+      "iran_title": "نخستین شهرها",
+      "japan_topics": [
+        "early-cultures"
+      ],
+      "status": "تطبیق دوره تاریخی",
+      "note": "دوره‌های ایران معادل سلسله‌به‌سلسله ژاپن نیستند؛ این ردیف فقط جایگاه پوشش در روایت تاریخی را نشان می‌دهد."
+    },
+    {
+      "section": "history",
+      "iran_topic": "achaemenids",
+      "iran_title": "هخامنشیان",
+      "japan_topics": [
+        "kofun-asuka-nara"
+      ],
+      "status": "تطبیق دوره تاریخی",
+      "note": "دوره‌های ایران معادل سلسله‌به‌سلسله ژاپن نیستند؛ این ردیف فقط جایگاه پوشش در روایت تاریخی را نشان می‌دهد."
+    },
+    {
+      "section": "history",
+      "iran_topic": "parthians-sasanians",
+      "iran_title": "اشکانیان و ساسانیان",
+      "japan_topics": [
+        "court-warriors"
+      ],
+      "status": "تطبیق دوره تاریخی",
+      "note": "دوره‌های ایران معادل سلسله‌به‌سلسله ژاپن نیستند؛ این ردیف فقط جایگاه پوشش در روایت تاریخی را نشان می‌دهد."
+    },
+    {
+      "section": "history",
+      "iran_topic": "islamic-centuries",
+      "iran_title": "سده‌های نخست اسلامی",
+      "japan_topics": [
+        "medieval-unification"
+      ],
+      "status": "تطبیق دوره تاریخی",
+      "note": "دوره‌های ایران معادل سلسله‌به‌سلسله ژاپن نیستند؛ این ردیف فقط جایگاه پوشش در روایت تاریخی را نشان می‌دهد."
+    },
+    {
+      "section": "history",
+      "iran_topic": "medieval",
+      "iran_title": "سلجوقیان تا تیموریان",
+      "japan_topics": [
+        "medieval-unification"
+      ],
+      "status": "تطبیق دوره تاریخی",
+      "note": "دوره‌های ایران معادل سلسله‌به‌سلسله ژاپن نیستند؛ این ردیف فقط جایگاه پوشش در روایت تاریخی را نشان می‌دهد."
+    },
+    {
+      "section": "history",
+      "iran_topic": "safavid-qajar",
+      "iran_title": "صفویه تا قاجار",
+      "japan_topics": [
+        "edo-society"
+      ],
+      "status": "تطبیق دوره تاریخی",
+      "note": "دوره‌های ایران معادل سلسله‌به‌سلسله ژاپن نیستند؛ این ردیف فقط جایگاه پوشش در روایت تاریخی را نشان می‌دهد."
+    },
+    {
+      "section": "history",
+      "iran_topic": "constitutional-pahlavi",
+      "iran_title": "مشروطه و پهلوی",
+      "japan_topics": [
+        "meiji-state",
+        "war-occupation"
+      ],
+      "status": "تطبیق دوره تاریخی",
+      "note": "دوره‌های ایران معادل سلسله‌به‌سلسله ژاپن نیستند؛ این ردیف فقط جایگاه پوشش در روایت تاریخی را نشان می‌دهد."
+    },
+    {
+      "section": "history",
+      "iran_topic": "republic",
+      "iran_title": "جمهوری اسلامی تا امروز",
+      "japan_topics": [
+        "postwar-reconstruction"
+      ],
+      "status": "تطبیق دوره تاریخی",
+      "note": "دوره‌های ایران معادل سلسله‌به‌سلسله ژاپن نیستند؛ این ردیف فقط جایگاه پوشش در روایت تاریخی را نشان می‌دهد."
+    },
+    {
+      "section": "education-health",
+      "iran_topic": "school-stages",
+      "iran_title": "از دبستان تا دیپلم",
+      "japan_topics": [
+        "school-stages"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "education-health",
+      "iran_topic": "learning-access",
+      "iran_title": "دسترسی و کیفیت یادگیری",
+      "japan_topics": [
+        "learning-life",
+        "research-learning-access"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "education-health",
+      "iran_topic": "higher-education",
+      "iran_title": "دانشگاه و مسیرهای تحصیلی",
+      "japan_topics": [
+        "higher-skills"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "education-health",
+      "iran_topic": "skills-research",
+      "iran_title": "مهارت، پژوهش و سواد",
+      "japan_topics": [
+        "research-learning-access"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "education-health",
+      "iran_topic": "primary-care",
+      "iran_title": "شبکه بهداشت و مراقبت اولیه",
+      "japan_topics": [
+        "health-insurance"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "education-health",
+      "iran_topic": "hospitals-financing",
+      "iran_title": "درمان، بیمه و هزینه",
+      "japan_topics": [
+        "health-insurance"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "education-health",
+      "iran_topic": "health-profile",
+      "iran_title": "چهره سلامت جامعه",
+      "japan_topics": [
+        "life-expectancy",
+        "aging-care"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "education-health",
+      "iran_topic": "equity-resilience",
+      "iran_title": "برابری دسترسی و تاب‌آوری",
+      "japan_topics": [
+        "health-access-equity"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "position",
+      "iran_title": "موقعیت و همسایه‌ها",
+      "japan_topics": [
+        "archipelago"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "mountains",
+      "iran_title": "کوه‌ها و ارتفاعات",
+      "japan_topics": [
+        "mountains-plains"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "deserts",
+      "iran_title": "دشت‌ها و بیابان‌ها",
+      "japan_topics": [
+        "mountains-plains"
+      ],
+      "status": "تطبیق با ویژگی کشور",
+      "note": "بیابان‌های ایران الگوی غالب ژاپن نیستند؛ دشت‌ها و ناهمواری‌های ژاپن معرفی شده‌اند."
+    },
+    {
+      "section": "geography",
+      "iran_topic": "coasts",
+      "iran_title": "سواحل و جزیره‌ها",
+      "japan_topics": [
+        "archipelago",
+        "rivers-coasts"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "water",
+      "iran_title": "رودها، دریاچه‌ها و تالاب‌ها",
+      "japan_topics": [
+        "lakes-wetlands",
+        "rivers-coasts"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "climate",
+      "iran_title": "اقلیم‌های اصلی",
+      "japan_topics": [
+        "regional-climate"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "seasons",
+      "iran_title": "فصل‌ها و ریتم طبیعی",
+      "japan_topics": [
+        "seasons"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "ecosystems",
+      "iran_title": "جنگل‌ها و زیست‌بوم‌ها",
+      "japan_topics": [
+        "ecosystems"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "wildlife",
+      "iran_title": "حیات‌وحش",
+      "japan_topics": [
+        "wildlife"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "resources",
+      "iran_title": "منابع طبیعی",
+      "japan_topics": [
+        "natural-resources"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "geography",
+      "iran_topic": "hazards",
+      "iran_title": "مخاطرات طبیعی",
+      "japan_topics": [
+        "natural-hazards"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "travel-conditions",
+      "iran_title": "شرایط روز سفر",
+      "japan_topics": [
+        "travel-conditions"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "entry-visa",
+      "iran_title": "ورود و روادید",
+      "japan_topics": [
+        "entry-visa"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "seasons-calendar",
+      "iran_title": "فصل و زمان‌بندی",
+      "japan_topics": [
+        "season-planning"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "heritage-cities",
+      "iran_title": "شهر و میراث",
+      "japan_topics": [
+        "destinations"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "nature-routes",
+      "iran_title": "طبیعت و مسیر",
+      "japan_topics": [
+        "destinations"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "transport-planning",
+      "iran_title": "رفت‌وآمد",
+      "japan_topics": [
+        "mobility-stay"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "money-budget",
+      "iran_title": "پول و هزینه",
+      "japan_topics": [
+        "money-dining"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "stay-food",
+      "iran_title": "اقامت و خوراک",
+      "japan_topics": [
+        "mobility-stay",
+        "money-dining"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "etiquette-rules",
+      "iran_title": "آداب و محدودیت‌ها",
+      "japan_topics": [
+        "respect-safety"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "communication-access",
+      "iran_title": "ارتباط و دسترس‌پذیری",
+      "japan_topics": [
+        "communication-access"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "travel",
+      "iran_topic": "health-emergency",
+      "iran_title": "سلامت و کمک فوری",
+      "japan_topics": [
+        "health-emergency"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "administration",
+      "iran_topic": "administrative-layers",
+      "iran_title": "از استان تا روستا",
+      "japan_topics": [
+        "prefectures",
+        "municipalities"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "administration",
+      "iran_topic": "province-centres",
+      "iran_title": "استان‌ها و مرکزهایشان",
+      "japan_topics": [
+        "prefecture-centres"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "administration",
+      "iran_topic": "tehran-capital",
+      "iran_title": "تهران؛ پایتخت و کلان‌شهر",
+      "japan_topics": [
+        "tokyo-capital"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "administration",
+      "iran_topic": "northeast-cities",
+      "iran_title": "مشهد و شهرهای شمال شرق",
+      "japan_topics": [
+        "regional-centres"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "administration",
+      "iran_topic": "historic-urban-centres",
+      "iran_title": "اصفهان، شیراز و شهرهای تاریخی",
+      "japan_topics": [
+        "regional-centres"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "administration",
+      "iran_topic": "coastal-regional-cities",
+      "iran_title": "شهرهای ساحلی و مرکزهای منطقه‌ای",
+      "japan_topics": [
+        "regional-centres"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "administration",
+      "iran_topic": "local-management",
+      "iran_title": "اداره محلی و تفاوت محدوده‌ها",
+      "japan_topics": [
+        "local-services",
+        "regions-not-provinces"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "economy",
+      "iran_topic": "economic-structure",
+      "iran_title": "ساختار اقتصاد",
+      "japan_topics": [
+        "economic-structure"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "economy",
+      "iran_topic": "money-prices",
+      "iran_title": "پول، قیمت و قدرت خرید",
+      "japan_topics": [
+        "yen-prices",
+        "inflation-unemployment"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "economy",
+      "iran_topic": "oil-gas",
+      "iran_title": "نفت، گاز و پتروشیمی",
+      "japan_topics": [
+        "resources-food"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "economy",
+      "iran_topic": "agriculture-food",
+      "iran_title": "کشاورزی و غذای ایران",
+      "japan_topics": [
+        "agriculture-fisheries"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "economy",
+      "iran_topic": "mining-industry",
+      "iran_title": "معدن و صنایع تبدیلی",
+      "japan_topics": [
+        "mining-materials",
+        "manufacturing-trade"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "economy",
+      "iran_topic": "services-trade",
+      "iran_title": "خدمات، بازار و تجارت",
+      "japan_topics": [
+        "services-finance",
+        "trade-indicators"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "economy",
+      "iran_topic": "work-households",
+      "iran_title": "کار، درآمد و زندگی خانوار",
+      "japan_topics": [
+        "employment-change"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "economy",
+      "iran_topic": "economic-outlook",
+      "iran_title": "خواندن وضعیت اقتصادی",
+      "japan_topics": [
+        "gdp-indicators"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "identity",
+      "iran_topic": "name",
+      "iran_title": "نام ایران",
+      "japan_topics": [
+        "country-name"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "identity",
+      "iran_topic": "persia",
+      "iran_title": "ایران و پرشیا",
+      "japan_topics": [
+        "country-name"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "identity",
+      "iran_topic": "flag",
+      "iran_title": "پرچم",
+      "japan_topics": [
+        "national-flag"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "identity",
+      "iran_topic": "symbols",
+      "iran_title": "نشان‌های تاریخی",
+      "japan_topics": [
+        "national-flag",
+        "regional-belonging"
+      ],
+      "status": "پوشش جزئی",
+      "note": "نمادهای تاریخی به تفصیل ایران نیست؛ پرچم و تعلق محلی جای شرح کامل نمادهای تاریخی را نمی‌گیرند."
+    },
+    {
+      "section": "identity",
+      "iran_topic": "anthem",
+      "iran_title": "سرود ملی",
+      "japan_topics": [
+        "national-anthem"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "identity",
+      "iran_topic": "calendar",
+      "iran_title": "تقویم و مناسبت‌ها",
+      "japan_topics": [
+        "civil-calendar",
+        "annual-calendar"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "identity",
+      "iran_topic": "belonging",
+      "iran_title": "هویت و تعلق",
+      "japan_topics": [
+        "regional-belonging"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "sports",
+      "iran_topic": "football",
+      "iran_title": "فوتبال و فرهنگ هواداری",
+      "japan_topics": [
+        "football-leagues"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "sports",
+      "iran_topic": "futsal",
+      "iran_title": "فوتسال؛ قدرتی در آسیا",
+      "japan_topics": [
+        "football-leagues"
+      ],
+      "status": "تطبیق با ورزش‌های شاخص",
+      "note": "شرح اختصاصی فوتسال و والیبال افزوده نشده؛ ژاپن علاوه بر فوتبال، بیسبال، سومو و ورزش زمستانی دارد."
+    },
+    {
+      "section": "sports",
+      "iran_topic": "wrestling",
+      "iran_title": "کشتی؛ سنت و مدال",
+      "japan_topics": [
+        "sumo-ring"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "sports",
+      "iran_topic": "strength-combat",
+      "iran_title": "وزنه‌برداری و ورزش‌های رزمی",
+      "japan_topics": [
+        "martial-arts"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "sports",
+      "iran_topic": "volleyball",
+      "iran_title": "والیبال؛ سالن، ساحل و تیم ملی",
+      "japan_topics": [
+        "community-sport"
+      ],
+      "status": "تطبیق با ورزش‌های شاخص",
+      "note": "شرح اختصاصی فوتسال و والیبال افزوده نشده؛ ژاپن علاوه بر فوتبال، بیسبال، سومو و ورزش زمستانی دارد."
+    },
+    {
+      "section": "sports",
+      "iran_topic": "traditional-sports",
+      "iran_title": "ورزش‌های بومی و زورخانه",
+      "japan_topics": [
+        "sumo-ring",
+        "martial-arts"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "sports",
+      "iran_topic": "olympic-paralympic",
+      "iran_title": "المپیک، پارالمپیک و حضور زنان",
+      "japan_topics": [
+        "olympic-paralympic"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "politics",
+      "iran_topic": "constitutional-system",
+      "iran_title": "ساختار نظام",
+      "japan_topics": [
+        "constitutional-order"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "politics",
+      "iran_topic": "leadership",
+      "iran_title": "رهبری و خبرگان",
+      "japan_topics": [
+        "cabinet-emperor"
+      ],
+      "status": "تطبیق با نظام کشور",
+      "note": "خبرگان و شورای نگهبان همتای مستقیم ژاپنی ندارند؛ نقش نمادین امپراتور و سازوکار قضایی توضیح داده شده است."
+    },
+    {
+      "section": "politics",
+      "iran_topic": "executive",
+      "iran_title": "رئیس‌جمهور و دولت",
+      "japan_topics": [
+        "cabinet-emperor",
+        "elections"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "politics",
+      "iran_topic": "parliament",
+      "iran_title": "مجلس",
+      "japan_topics": [
+        "diet-parliament"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "politics",
+      "iran_topic": "review-bodies",
+      "iran_title": "نهادهای نظارتی",
+      "japan_topics": [
+        "public-rights"
+      ],
+      "status": "تطبیق با نظام کشور",
+      "note": "خبرگان و شورای نگهبان همتای مستقیم ژاپنی ندارند؛ نقش نمادین امپراتور و سازوکار قضایی توضیح داده شده است."
+    },
+    {
+      "section": "politics",
+      "iran_topic": "local-government",
+      "iran_title": "اداره محلی",
+      "japan_topics": [
+        "justice-local"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "politics",
+      "iran_topic": "rights-justice",
+      "iran_title": "قضا و حقوق عمومی",
+      "japan_topics": [
+        "public-rights"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "politics",
+      "iran_topic": "foreign-relations",
+      "iran_title": "روابط بین‌الملل",
+      "japan_topics": [
+        "foreign-relations",
+        "peace-security"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "social-etiquette",
+      "iran_title": "احترام، مهمان‌نوازی و زبان معاشرت",
+      "japan_topics": [
+        "daily-etiquette"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "family",
+      "iran_title": "خانواده، دوستی و گردهمایی",
+      "japan_topics": [
+        "family-social-life"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "festivals",
+      "iran_title": "تقویمی از نو شدن و گردهمایی",
+      "japan_topics": [
+        "living-practices"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "cuisine",
+      "iran_title": "آشپزی؛ تنوع طعم و شیوه پخت",
+      "japan_topics": [
+        "food-culture"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "clothing",
+      "iran_title": "پوشاک؛ رنگ، مهارت و هویت محلی",
+      "japan_topics": [
+        "clothing"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "literature",
+      "iran_title": "ادبیات؛ از شاهنامه تا روایت معاصر",
+      "japan_topics": [
+        "literature-story"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "music",
+      "iran_title": "موسیقی؛ دستگاه، بداهه و صداهای محلی",
+      "japan_topics": [
+        "music-beliefs"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "cinema",
+      "iran_title": "سینما و نمایش؛ روایت با تصویر و اجرا",
+      "japan_topics": [
+        "cinema-theatre"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "arts",
+      "iran_title": "هنر و صنایع دستی؛ از خط تا نقش و بافت",
+      "japan_topics": [
+        "visual-arts-crafts"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "architecture",
+      "iran_title": "معماری؛ سازگاری با اقلیم و ساختن فضای جمعی",
+      "japan_topics": [
+        "architecture-space"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "regions",
+      "iran_title": "تفاوت‌های منطقه‌ای؛ چند مسیر برای شناخت",
+      "japan_topics": [
+        "regional-cultures"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "culture",
+      "iran_topic": "living-heritage",
+      "iran_title": "میراث زنده؛ مهارت‌هایی که با انجام دادن می‌مانند",
+      "japan_topics": [
+        "living-practices"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "environment",
+      "iran_topic": "water-resources",
+      "iran_title": "آب؛ فراتر از کم‌بارشی",
+      "japan_topics": [
+        "water-wetlands"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "environment",
+      "iran_topic": "subsidence-soil",
+      "iran_title": "فرونشست و سلامت خاک",
+      "japan_topics": [
+        "air-soil"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "environment",
+      "iran_topic": "wetlands",
+      "iran_title": "تالاب‌ها و جریان زندگی",
+      "japan_topics": [
+        "water-wetlands"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "environment",
+      "iran_topic": "air-and-dust",
+      "iran_title": "هوا، آلودگی و گردوغبار",
+      "japan_topics": [
+        "air-soil"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "environment",
+      "iran_topic": "forests-habitats",
+      "iran_title": "جنگل، مرتع و پیوستگی زیستگاه",
+      "japan_topics": [
+        "forest-landscapes"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "environment",
+      "iran_topic": "wildlife-protection",
+      "iran_title": "تنوع زیستی و مناطق حفاظت‌شده",
+      "japan_topics": [
+        "species-protection",
+        "biodiversity-policy"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "environment",
+      "iran_topic": "waste-climate-governance",
+      "iran_title": "پسماند، تغییر اقلیم و مدیریت آینده",
+      "japan_topics": [
+        "climate-circularity"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "population",
+      "iran_topic": "population-size",
+      "iran_title": "اندازه و تغییر جمعیت",
+      "japan_topics": [
+        "population-count",
+        "population-growth"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "population",
+      "iran_topic": "age-structure",
+      "iran_title": "سن و دگرگونی جمعیت",
+      "japan_topics": [
+        "aging-society"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "population",
+      "iran_topic": "settlement",
+      "iran_title": "شهر، روستا و پراکندگی",
+      "japan_topics": [
+        "settlement-pattern"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "population",
+      "iran_topic": "languages",
+      "iran_title": "زبان‌ها و چندزبانگی",
+      "japan_topics": [
+        "linguistic-diversity"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "population",
+      "iran_topic": "identities",
+      "iran_title": "قومیت و هویت‌های اجتماعی",
+      "japan_topics": [
+        "linguistic-diversity"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "population",
+      "iran_topic": "religion",
+      "iran_title": "دین، مذهب و باور",
+      "japan_topics": [
+        "religious-landscape"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "population",
+      "iran_topic": "migration",
+      "iran_title": "مهاجرت و جابه‌جایی",
+      "japan_topics": [
+        "migration-households"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "population",
+      "iran_topic": "households",
+      "iran_title": "خانوار و روابط اجتماعی",
+      "japan_topics": [
+        "household-change"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    },
+    {
+      "section": "population",
+      "iran_topic": "wellbeing",
+      "iran_title": "رفاه، دسترسی و نابرابری",
+      "japan_topics": [
+        "social-wellbeing"
+      ],
+      "status": "پوشش موضوعی دارد",
+      "note": ""
+    }
+  ],
+  "field_comparison": [
+    {
+      "section": "infrastructure",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "پیش‌شماره بین‌المللی تلفن",
+        "دامنه اینترنتی کشور",
+        "منطقه زمانی",
+        "جهت رانندگی",
+        "پوشش جمعیتی LTE یا WiMAX",
+        "پوشش جمعیتی 5G",
+        "اشتراک فعال پهن‌باند همراه",
+        "دسترسی جمعیت به برق",
+        "طول مسیر تاریخی راه‌آهن سراسری",
+        "پوشش جمعیتی LTE یا وایمکس",
+        "پوشش جمعیتی 5G",
+        "اشتراک فعال پهن‌باند همراه"
+      ],
+      "japan_table_fields": [
+        "راه‌آهن",
+        "شینکانسن",
+        "جاده و اتوبوس",
+        "دریا و هوا",
+        "انرژی و ارتباطات",
+        "پیش‌شماره کشور",
+        "دامنه کشوری",
+        "زمان استاندارد",
+        "جهت رانندگی",
+        "افراد استفاده‌کننده از اینترنت",
+        "شماره‌گیری بین‌المللی",
+        "دامنه کشوری",
+        "زمان استاندارد"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "history",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "سکونت شهری در شوش",
+        "شاهنشاهی هخامنشی",
+        "شاهنشاهی ساسانی",
+        "شکل‌گیری دولت صفوی",
+        "فرمان مشروطیت",
+        "آغاز سلطنت پهلوی",
+        "انقلاب ۱۳۵۷",
+        "همه‌پرسی جمهوری اسلامی",
+        "جنگ ایران و عراق",
+        "بازنگری قانون اساسی"
+      ],
+      "japan_table_fields": [
+        "جومون و یایویی",
+        "هی‌آن؛ ۷۹۴ تا ۱۱۸۵",
+        "حکومت توکوگاوا",
+        "۱۸۶۸",
+        "۱۹۴۵",
+        "۱۹۴۷",
+        "۷۱۰",
+        "۷۹۴",
+        "اواخر سده دوازدهم تا ۱۳۳۳",
+        "سده چهاردهم تا ۱۵۷۳",
+        "۱۶۰۳",
+        "۱۹۵۲",
+        "۱۹۷۲"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "education-health",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "metrics",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "سواد بزرگسالان ۱۵ ساله و بیشتر",
+        "آموزش اجباری",
+        "سن معمول ورود به دبستان",
+        "ساختار مدرسه تا دیپلم",
+        "امید به زندگی در بدو تولد",
+        "مرگ‌ومیر کودکان زیر پنج سال",
+        "هزینه جاری سلامت",
+        "پزشک به ازای جمعیت",
+        "ابتدایی",
+        "متوسطه اول",
+        "متوسطه دوم"
+      ],
+      "japan_table_fields": [
+        "دبستان",
+        "متوسطه اول",
+        "متوسطه دوم",
+        "آموزش پس از مدرسه",
+        "نظام درمان",
+        "امید به زندگی مردان در بدو تولد",
+        "امید به زندگی زنان در بدو تولد",
+        "آموزش اجباری",
+        "مرگ‌ومیر شیرخواران",
+        "پزشک فعال در مراقبت پزشکی",
+        "تحقیق و توسعه نسبت به GDP",
+        "مرگ‌ومیر زیر پنج سال",
+        "هزینه جاری سلامت"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "geography",
+      "iran_root_fields": [
+        "country_code",
+        "facts",
+        "intro",
+        "key_tables",
+        "language",
+        "map_points",
+        "neighbors",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "facts",
+        "intro",
+        "key_tables",
+        "language",
+        "map_points",
+        "metrics",
+        "neighbors",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "قاره و موقعیت",
+        "مساحت گزارش‌شده",
+        "همسایگان زمینی",
+        "نام همسایگان زمینی",
+        "آب‌های پیرامونی",
+        "بلندترین قله",
+        "رشته‌کوه‌های اصلی",
+        "اقلیم‌های شاخص",
+        "بیابان‌های شناخته‌شده"
+      ],
+      "japan_table_fields": [
+        "مساحت در معرفی دولت",
+        "چهار جزیره بزرگ",
+        "بلندترین قله",
+        "شمار جزایر در بررسی GSI",
+        "همسایگان زمینی",
+        "آب‌های پیرامونی",
+        "دشت مهم",
+        "رود شینانو",
+        "رود تونه",
+        "رود ایشیکاری",
+        "دریاچه بیوا",
+        "دریاچه کاسومیگائورا",
+        "دریاچه ساروما"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "travel",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "دوشاخه‌های متداول",
+        "برق شهری",
+        "اورژانس پزشکی",
+        "آتش‌نشانی",
+        "پلیس",
+        "واحد پرداخت",
+        "کارت بانکی خارجی",
+        "روادید و اجازه ورود",
+        "زمان مناسب سفر",
+        "اورژانس پزشکی",
+        "آتش‌نشانی",
+        "پلیس"
+      ],
+      "japan_table_fields": [
+        "ورود با گذرنامه عادی ایران",
+        "پرداخت",
+        "فصل سفر",
+        "ازدحام تعطیلات",
+        "ولتاژ متداول",
+        "فرکانس",
+        "دوشاخه رایج",
+        "پلیس",
+        "آتش‌نشانی و آمبولانس",
+        "راهنمای مسافر JNTO"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "administration",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "تعداد استان‌ها",
+        "پایتخت",
+        "پرجمعیت‌ترین شهر",
+        "ترتیب تقسیمات اصلی",
+        "مرکز استان البرز",
+        "کانون زیارتی شمال شرق",
+        "شهرهای تاریخی شاخص",
+        "مرکز بندری مهم جنوب",
+        "آذربایجان شرقی",
+        "آذربایجان غربی",
+        "اردبیل",
+        "اصفهان",
+        "البرز",
+        "ایلام",
+        "بوشهر",
+        "تهران",
+        "چهارمحال و بختیاری",
+        "خراسان جنوبی",
+        "خراسان رضوی",
+        "خراسان شمالی",
+        "خوزستان",
+        "زنجان",
+        "سمنان",
+        "سیستان و بلوچستان",
+        "فارس",
+        "قزوین",
+        "قم",
+        "کردستان",
+        "کرمان",
+        "کرمانشاه",
+        "کهگیلویه و بویراحمد",
+        "گلستان",
+        "گیلان",
+        "لرستان",
+        "مازندران",
+        "مرکزی",
+        "هرمزگان",
+        "همدان",
+        "یزد"
+      ],
+      "japan_table_fields": [
+        "واحدهای استانی",
+        "شهرداری‌ها",
+        "توکیو",
+        "ناحیه جغرافیایی",
+        "هوکایدو",
+        "آئوموری",
+        "ایواته",
+        "میاگی",
+        "آکیتا",
+        "یاماگاتا",
+        "فوکوشیما",
+        "ایباراکی",
+        "توچیگی",
+        "گونما",
+        "سایتاما",
+        "چیبا",
+        "توکیو",
+        "کاناگاوا",
+        "نیگاتا",
+        "تویاما",
+        "ایشیکاوا",
+        "فوکویی",
+        "یاماناشی",
+        "ناگانو",
+        "گیفو",
+        "شیزوئوکا",
+        "آیچی",
+        "میه",
+        "شیگا",
+        "کیوتو",
+        "اوساکا",
+        "هیوگو",
+        "نارا",
+        "واکایاما",
+        "توتوری",
+        "شیمانه",
+        "اوکایاما",
+        "هیروشیما",
+        "یاماگوچی",
+        "توکوشیما",
+        "کاگاوا",
+        "اهیمه",
+        "کوچی",
+        "فوکوئوکا",
+        "ساگا",
+        "ناگاساکی",
+        "کوماموتو",
+        "اوئیتا",
+        "میازاکی",
+        "کاگوشیما",
+        "اوکیناوا"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "economy",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "metrics",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "تولید ناخالص داخلی اسمی",
+        "تولید ناخالص داخلی سرانه",
+        "رشد واقعی اقتصاد",
+        "تورم قیمت مصرف‌کننده",
+        "نرخ بیکاری",
+        "سهم کشاورزی، جنگلداری و ماهیگیری",
+        "سهم صنعت، شامل ساختمان",
+        "سهم خدمات",
+        "ارزش صادرات کالا",
+        "کالاهای عمده صادراتی",
+        "مقصدهای اصلی نام‌گذاری‌شده",
+        "رده‌های دیگر در میان پنج مقصد اول",
+        "تعداد شریک صادراتی ثبت‌شده",
+        "ارزش واردات کالا",
+        "کالاهای عمده وارداتی",
+        "کشورهای اصلی تأمین‌کننده",
+        "تعداد شریک وارداتی ثبت‌شده",
+        "تراز تجارت کالایی"
+      ],
+      "japan_table_fields": [
+        "GDP اسمی",
+        "رشد واقعی GDP",
+        "رشد اسمی GDP",
+        "GDP اسمی دلاری",
+        "GDP سرانه اسمی",
+        "تورم عمومی مصرف‌کننده",
+        "تورم بدون غذای تازه",
+        "نرخ بیکاری",
+        "صادرات کالا",
+        "واردات کالا",
+        "تراز تجارت کالا",
+        "واحد پول",
+        "انتشار اسکناس",
+        "فعالیت‌های مهم",
+        "نمونه صنایع",
+        "چالش‌های ساختاری",
+        "بخش اول؛ کشاورزی، جنگلداری و شیلات",
+        "بخش دوم؛ صنعت و ساخت‌وساز",
+        "بخش سوم؛ خدمات",
+        "صادرات",
+        "واردات"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "identity",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "نام کوتاه",
+        "نام رسمی",
+        "نام انگلیسی",
+        "پایتخت",
+        "زبان و خط رسمی",
+        "واحد پول",
+        "کد دوحرفی کشور",
+        "کد سه‌حرفی کشور",
+        "کد عددی کشور",
+        "پرچم رسمی",
+        "تقویم رسمی"
+      ],
+      "japan_table_fields": [
+        "نام فارسی و انگلیسی",
+        "نام بومی",
+        "پایتخت",
+        "جایگاه جغرافیایی",
+        "زبان اصلی و خط",
+        "زبان‌ها و گویش‌های محلی",
+        "واحد پول",
+        "پیش‌شماره بین‌المللی",
+        "دامنه اینترنتی کشوری",
+        "کد دوحرفی",
+        "کد سه‌حرفی",
+        "کد عددی",
+        "تقویم مدنی",
+        "آغاز سال",
+        "آغاز سال مالی",
+        "گاه‌شماری دوره‌ای",
+        "منطقه زمانی",
+        "وضعیت دین رسمی",
+        "پرچم",
+        "سرود ملی"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "sports",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "نخستین اعزام رسمی کاروان المپیک",
+        "نخستین مدال المپیک",
+        "مدال‌های المپیک پاریس",
+        "رشته‌های مدال‌آور پاریس",
+        "مدال‌های پارالمپیک پاریس",
+        "طلای والیبال نشسته مردان",
+        "قهرمانی فوتسال مردان آسیا",
+        "ورزش‌ها و آیین‌های بومی شاخص"
+      ],
+      "japan_table_fields": [
+        "سومو",
+        "جودو و دیگر هنرهای رزمی",
+        "بیسبال",
+        "فوتبال حرفه‌ای",
+        "میزبانی المپیک",
+        "ژاپن"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "politics",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "نوع حکومت",
+        "ساختار قانون‌گذاری",
+        "رهبر",
+        "رئیس‌جمهور",
+        "رئیس مجلس",
+        "دوره ریاست‌جمهوری",
+        "تعداد قانونی کرسی‌های مجلس",
+        "حداقل سن رأی در انتخابات مجلس",
+        "اعضای شورای نگهبان"
+      ],
+      "japan_table_fields": [
+        "قانون اساسی کنونی",
+        "امپراتور",
+        "پارلمان یا دایت",
+        "کابینه",
+        "دیوان عالی",
+        "نوع نظام",
+        "نخست‌وزیر",
+        "امپراتور کنونی",
+        "کرسی‌های مجلس نمایندگان",
+        "سن رأی"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "culture",
+      "iran_root_fields": [
+        "country_code",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "زبان ادبی شاخص",
+        "جشن آغاز سال",
+        "جشن شبانه شناخته‌شده",
+        "خوراک‌های شناخته‌شده",
+        "هنرها و صنایع‌دستی",
+        "سازهای شناخته‌شده",
+        "چهره‌های ادبی شناخته‌شده",
+        "ویژگی معاشرتی قابل توجه"
+      ],
+      "japan_table_fields": [
+        "خوراک",
+        "ادبیات",
+        "موسیقی",
+        "فرهنگ تصویری",
+        "معماری"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "environment",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "پوشش جنگلی",
+        "پوشش حفاظتی خشکی و آب‌های داخلی",
+        "پوشش حفاظتی دریایی و ساحلی",
+        "تنش آبی",
+        "انتشار سرانه دی‌اکسیدکربن",
+        "سهم انرژی تجدیدپذیر",
+        "تالاب‌های ثبت‌شده بین‌المللی",
+        "زیست‌بوم‌های شاخص",
+        "گونه شاخص حفاظتی"
+      ],
+      "japan_table_fields": [
+        "زیست‌بوم‌ها",
+        "ساتویاما",
+        "راهبرد تنوع زیستی",
+        "اقلیم",
+        "تمایز ضروری",
+        "سطح جنگلی نسبت به خشکی",
+        "انتشار CO2 سرانه",
+        "گونه‌های در معرض تهدید",
+        "سایت‌های مهم تنوع زیستی خشکی تحت حفاظت"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    },
+    {
+      "section": "population",
+      "iran_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "metrics",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "japan_root_fields": [
+        "country_code",
+        "intro",
+        "key_tables",
+        "language",
+        "metrics",
+        "revision",
+        "schema_version",
+        "section",
+        "title",
+        "topics",
+        "updated_at"
+      ],
+      "iran_table_fields": [
+        "جمعیت کل",
+        "تراکم جمعیت",
+        "سهم جمعیت شهری",
+        "رشد سالانه جمعیت",
+        "سهم کودکان زیر ۱۵ سال",
+        "سهم جمعیت ۶۰ ساله و بیشتر",
+        "نرخ باروری کل",
+        "زبان‌ها",
+        "جامعه‌های دینی",
+        "فارسی",
+        "کردی، لری، گیلکی، مازندرانی و بلوچی",
+        "ترکی آذربایجانی، ترکمنی و دیگر گونه‌های ترکی",
+        "عربی، ارمنی و آشوری/گونه‌های آرامی نو"
+      ],
+      "japan_table_fields": [
+        "جمعیت کشور",
+        "سهم ۶۵ساله و بیشتر",
+        "اتباع خارجی مقیم",
+        "خانوارها",
+        "جمعیت برآوردی جدیدتر",
+        "نرخ تغییر سالانه جمعیت",
+        "تغییر میان دو سرشماری",
+        "باروری کل",
+        "زبان غالب",
+        "سنت‌های دینی اصلی",
+        "زبان غالب",
+        "زبان بومی شمال",
+        "ریوکیویی",
+        "دیگر گونه در فهرست حفاظت",
+        "شینتو و بودیسم",
+        "مسیحیت و دیگر سنت‌ها",
+        "چارچوب حقوقی دین",
+        "زیر ۱۵ سال",
+        "۱۵ تا ۶۴ سال",
+        "۶۵ سال و بیشتر",
+        "تراکم جمعیت",
+        "سهم جمعیت شهری"
+      ],
+      "note": "فهرست واقعی فیلدها برای ممیزی؛ برابری نام‌ها به معنی برابری تعریف یا سال نیست. موارد عددی باقی‌مانده در remaining_gaps آمده‌اند."
+    }
+  ],
+  "remaining_gaps": [
+    "نصب و آزمون تعاملی روی دستگاه انجام نشده است.",
+    "دریافت APK از CI به علت پرشدن سهمیه ذخیره آرتیفکت GitHub انجام نشد؛ ساخت و آزمون‌ها موفق بودند.",
+    "نرخ سواد پایه ۱۵+ در سری رسمی بانک جهانی داده گزارش‌شده ندارد؛ مقدار خالی همراه دلیل حفظ شده است.",
+    "متن تفصیلی نمادهای تاریخی و شرح اختصاصی بعضی ورزش‌ها همچنان از نمونه ایران کوتاه‌تر است."
+  ],
+  "content_coverage_complete": false,
+  "media_complete": true,
+  "map_code_updated": true,
+  "statistics_review": "statistics-evidence.json"
+}

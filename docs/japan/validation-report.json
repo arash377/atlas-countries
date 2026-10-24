@@ -9,7 +9,7 @@
   "country_code": "JPN",
   "sections_count": 13,
   "topics_count": 78,
-  "prose_words": 5802,
+  "prose_words": 7050,
   "unique_source_urls": 72,
   "sections": [
     {
@@ -117,5 +117,6 @@
   ],
   "editorial_note": "Reported omissions corrected in identity, population, economy and health. Remaining topic gaps are explicitly listed in the coverage audit.",
   "content_coverage_complete": false,
-  "coverage_audit": "COVERAGE-AUDIT-FA.md"
+  "coverage_audit": "COVERAGE-AUDIT-FA.md",
+  "date": "2026-10-24"
 }

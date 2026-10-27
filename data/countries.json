@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 17,
+  "revision": 18,
   "updated_at": "2026-10-27",
   "countries": [
     {
@@ -660,9 +660,9 @@
         },
         "identity": {
           "path": "data/countries/ITA/identity.json",
-          "revision": 1,
+          "revision": 2,
           "updated_at": "2026-10-27",
-          "byte_length": 11597
+          "byte_length": 12949
         },
         "infrastructure": {
           "path": "data/countries/ITA/infrastructure.json",

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "country_code": "ITA",
   "section": "identity",
-  "revision": 1,
+  "revision": 2,
   "updated_at": "2026-10-27",
   "language": "fa",
   "title": "شناسنامه و نمادهای ایتالیا",
@@ -93,6 +93,22 @@
           "روزنامه رسمی؛ قانون ۱۸۱/۲۰۱۷ درباره سرود ملی",
           "https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=17G00195&atto.dataPubblicazioneGazzetta=2017-12-15&tipoSerie=serie_generale&tipoVigenza=originario"
         ]
+      ],
+      "blocks": [
+        {
+          "type": "audio",
+          "id": "italy-national-anthem",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Inno_di_Mameli_instrumental.ogg",
+          "title": "سرود ملی ایتالیا؛ نسخهٔ سازی",
+          "transcript": "اجرای بی‌کلام «Il Canto degli Italiani» از سوی گروه موسیقی نیروی دریایی ایتالیا؛ مدت و فرمت بر پایه فراداده صفحه فایل.",
+          "credit": "آهنگساز: Michele Novaro؛ اجرای ساز: Italian Navy Band؛ اجرای آرشیوی با منبع اعلام‌شده از وزارت دفاع ایتالیا.",
+          "license": "ترکیب موسیقی در مالکیت عمومی؛ صفحه فایل Commons برای اجرای ضبط‌شده نیز وضعیت PD را با انتساب به اعلام وزارت دفاع ایتالیا ثبت کرده است.",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Inno_di_Mameli_instrumental.ogg",
+          "license_url": "https://commons.wikimedia.org/wiki/Template:PD-because",
+          "changes": "بدون تبدیل؛ پخش از فایل Ogg Vorbis میزبانی‌شده در Wikimedia Commons.",
+          "variant": "instrumental",
+          "duration_seconds": 92.0
+        }
       ]
     }
   ],

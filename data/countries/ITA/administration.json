@@ -2,7 +2,7 @@
   "schema_version": 1,
   "country_code": "ITA",
   "section": "administration",
-  "revision": 1,
+  "revision": 2,
   "updated_at": "2026-10-27",
   "language": "fa",
   "title": "تقسیمات کشوری و شهرهای ایتالیا",
@@ -60,6 +60,35 @@
         [
           "اتحادیه اروپا؛ پروفایل کشور ایتالیا",
           "https://european-union.europa.eu/principles-countries-history/country-profiles/italy_en"
+        ]
+      ]
+    },
+    {
+      "id": "administration-municipalities",
+      "title": "استان‌ها، شهرهای کلان‌شهری و شهرداری‌ها",
+      "lead": "زیر سطح مناطق، واحدهای اداری محلی با عنوان‌ها و اختیارات متفاوت فعالیت می‌کنند.",
+      "parts": [
+        [
+          "واحدهای سطح دوم",
+          "استان‌ها و شهرهای کلان‌شهری میان منطقه و شهرداری قرار می‌گیرند؛ ترتیبات بعضی قلمروها ویژه است و شمار واحدها با اصلاحات اداری تغییر می‌کند."
+        ],
+        [
+          "شهرداری‌ها",
+          "شهرداری (comune) واحد اصلی اداره محلی و ثبت جمعیت است. Istat در ۲۱ فوریه ۲۰۲۶ تعداد ۷٬۸۹۴ شهرداری ثبت کرد."
+        ],
+        [
+          "رم و مناطق ویژه",
+          "رم هم پایتخت کشور و هم واحد کلان‌شهری با جایگاه ویژه است. ترنتو و بولتسانو در ساختار خودمختار ترنتینو آلتو آدیجه اختیارات خاص دارند."
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ آمار جغرافیایی شهرداری‌ها",
+          "https://www.istat.it/classificazione/principali-statistiche-geografiche-sui-comuni/"
+        ],
+        [
+          "قانون اساسی ایتالیا؛ مجلس سنا",
+          "https://www.senato.it/sites/default/files/media-documents/Costituzione_INGLESE.pdf"
         ]
       ]
     }
@@ -216,6 +245,43 @@
         [
           "Istat؛ اطلاعات سرزمینی و نقشه‌نگاری، شامل واحدهای اداری",
           "https://www.istat.it/en/statistical-themes/environment-and-territory/territory-and-cartography/"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "id": "admin-counts-current",
+      "title": "شمار واحدهای اداری",
+      "columns": [
+        "سطح",
+        "شمار",
+        "مبنای زمانی"
+      ],
+      "rows": [
+        [
+          "مناطق",
+          "۲۰",
+          "قانون اساسی"
+        ],
+        [
+          "مناطق با اساسنامه ویژه",
+          "۵",
+          "درون ۲۰ منطقه"
+        ],
+        [
+          "شهرداری‌ها",
+          "۷٬۸۹۴",
+          "Istat؛ ۲۱ فوریه ۲۰۲۶"
+        ]
+      ],
+      "sources": [
+        [
+          "قانون اساسی ایتالیا",
+          "https://www.senato.it/sites/default/files/media-documents/Costituzione_INGLESE.pdf"
+        ],
+        [
+          "Istat؛ واحدهای اداری",
+          "https://www.istat.it/classificazione/principali-statistiche-geografiche-sui-comuni/"
         ]
       ]
     }

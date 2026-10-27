@@ -2,7 +2,7 @@
   "schema_version": 1,
   "country_code": "ITA",
   "section": "education-health",
-  "revision": 1,
+  "revision": 2,
   "updated_at": "2026-10-27",
   "language": "fa",
   "title": "آموزش، علم و سلامت ایتالیا",
@@ -27,6 +27,28 @@
       "status": "estimate",
       "definition": "امید به زندگی دوره‌ای بر پایه الگوی مرگ‌ومیر همان سال برای زنان.",
       "source_url": "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
+    },
+    {
+      "id": "tertiary-education-25-34",
+      "label": "دارندگان مدرک عالی، سن ۲۵–۳۴",
+      "value": 31.6,
+      "unit": "percent",
+      "period": "۲۰۲۴",
+      "status": "reported",
+      "definition": "سهم گروه سنی با مدرک آموزش عالی؛ نه نرخ ثبت‌نام دانشگاه.",
+      "source_url": "https://www.istat.it/comunicato-stampa/livelli-di-istruzione-e-ritorni-occupazionali-anno-2024/",
+      "precision": 1
+    },
+    {
+      "id": "early-school-leavers",
+      "label": "ترک زودهنگام آموزش",
+      "value": 8.0,
+      "unit": "percent",
+      "period": "۲۰۲۴",
+      "status": "reported",
+      "definition": "سهم ۱۸–۲۴ ساله‌های با حداکثر تحصیلات متوسطه اول که در آموزش/تربیت نیستند.",
+      "source_url": "https://www.istat.it/en/publication/2025-sdgs-report/",
+      "precision": 1
     }
   ],
   "topics": [
@@ -91,6 +113,72 @@
           "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
         ]
       ]
+    },
+    {
+      "id": "education-attainment-2024",
+      "title": "تحصیلات و تکمیل آموزش",
+      "lead": "شاخص تحصیلاتِ کسب‌شده با ثبت‌نام، سواد و مهارت‌های آزمونی یکسان نیست.",
+      "parts": [
+        [
+          "مدرک بزرگسالان",
+          "در ۲۰۲۴، ۶۶٫۷٪ افراد ۲۵ تا ۶۴ ساله دست‌کم مدرک متوسطه دوم داشتند؛ ۲۲٫۳٪ این گروه مدرک عالی داشتند."
+        ],
+        [
+          "جوانان",
+          "در ۲۰۲۴، ۳۱٫۶٪ افراد ۲۵ تا ۳۴ ساله مدرک آموزش عالی داشتند؛ این سهم با نرخ ورود یا ثبت‌نام دانشگاه تفاوت دارد."
+        ],
+        [
+          "ترک زودهنگام",
+          "سهم ترک زودهنگام آموزش و تربیت میان ۱۸ تا ۲۴ ساله‌ها در ۲۰۲۴ برابر ۸٪ بود، بر پایه تعریف شاخص Istat/اتحادیه اروپا."
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ سطح تحصیلات و بازده اشتغال، ۲۰۲۴",
+          "https://www.istat.it/comunicato-stampa/livelli-di-istruzione-e-ritorni-occupazionali-anno-2024/"
+        ],
+        [
+          "Istat؛ گزارش SDG ۲۰۲۵",
+          "https://www.istat.it/en/publication/2025-sdgs-report/"
+        ],
+        [
+          "وزارت آموزش ایتالیا",
+          "https://www.mim.gov.it/"
+        ]
+      ]
+    },
+    {
+      "id": "health-capacity-and-outcomes",
+      "title": "امید به زندگی و ظرفیت درمان",
+      "lead": "نظام سلامت ملی چارچوب همگانی دارد، ولی عرضه درمان و دسترسی میان مناطق متفاوت است.",
+      "parts": [
+        [
+          "امید به زندگی",
+          "برآورد ۲۰۲۵ Istat هنگام تولد: مردان ۸۱٫۷ سال و زنان ۸۵٫۷ سال؛ شاخص دوره‌ای و بر اساس الگوی مرگ‌ومیر همان سال."
+        ],
+        [
+          "تخت بیمارستانی",
+          "Istat در ۲۰۲۲ برای هر ۱۰٬۰۰۰ نفر ۳۰٫۳ تخت بیمارستانی گزارش کرد؛ نرخ منطقه‌ای از ۲۷٫۱ در جنوب تا ۳۲٫۵ در شمال‌غرب بود."
+        ],
+        [
+          "چالش‌ها",
+          "سالمندی، بیماری مزمن، پیشگیری و تفاوت دسترسی/زمان انتظار موضوع‌های مهم‌اند. آمار تخت ۲۰۲۲ را نباید با آمار جدیدتر سلامت یکی دانست."
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ گزارش SDG ۲۰۲۵",
+          "https://www.istat.it/en/publication/2025-sdgs-report/"
+        ],
+        [
+          "Istat؛ شاخص‌های جمعیتی سال ۲۰۲۵",
+          "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
+        ],
+        [
+          "رصدخانه اروپایی نظام سلامت؛ ایتالیا",
+          "https://eurohealthobservatory.who.int/countries/italy"
+        ]
+      ]
     }
   ],
   "facts": [],
@@ -120,7 +208,7 @@
         ],
         [
           "سواد/ثبت‌نام/تکمیل",
-          "در این نسخه فاقد رقم قابل استناد با تعریف و دوره مشخص"
+          "در جدول آماری جداگانه آمده؛ مدرک تحصیلی با مهارت خواندن آزمونی یکسان نیست"
         ],
         [
           "آموزش عالی",
@@ -165,13 +253,13 @@
         ],
         [
           "مرگ‌ومیر نوزادان",
-          "فاقد رقم در این نسخه",
-          "نیازمند سنجه مستقیم و سال مشخص"
+          "در این نسخه عددگذاری نشده",
+          "درصد/نرخ با سال و روش نیازمند استخراج مستقیم"
         ],
         [
           "نیروی درمان/تخت/هزینه",
-          "فاقد رقم در این نسخه",
-          "تعریف نیروی کار و مخرج پوشش باید مشخص شود"
+          "تخت بیمارستان: جدول آماری جداگانه",
+          "Istat ۲۰۲۲؛ نیرو و هزینه هنوز در این نسخه نیست"
         ]
       ],
       "sources": [
@@ -188,6 +276,82 @@
           "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
         ]
       ]
+    },
+    {
+      "type": "table",
+      "id": "education-stats-2024",
+      "title": "دستاورد آموزشی در ۲۰۲۴",
+      "columns": [
+        "شاخص",
+        "مقدار",
+        "جامعه/تعریف"
+      ],
+      "rows": [
+        [
+          "حداقل مدرک متوسطه دوم",
+          "۶۶٫۷٪",
+          "۲۵–۶۴ ساله‌ها"
+        ],
+        [
+          "مدرک آموزش عالی",
+          "۲۲٫۳٪",
+          "۲۵–۶۴ ساله‌ها"
+        ],
+        [
+          "مدرک آموزش عالی",
+          "۳۱٫۶٪",
+          "۲۵–۳۴ ساله‌ها"
+        ],
+        [
+          "ترک زودهنگام آموزش",
+          "۸٫۰٪",
+          "۱۸–۲۴ ساله‌ها"
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ تحصیلات و بازده اشتغال ۲۰۲۴",
+          "https://www.istat.it/comunicato-stampa/livelli-di-istruzione-e-ritorni-occupazionali-anno-2024/"
+        ],
+        [
+          "Istat؛ SDGs ۲۰۲۵",
+          "https://www.istat.it/en/publication/2025-sdgs-report/"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "id": "health-bed-density-2022",
+      "title": "تخت بیمارستانی؛ داده ۲۰۲۲",
+      "columns": [
+        "محدوده",
+        "تخت به‌ازای ۱۰٬۰۰۰ نفر",
+        "سال"
+      ],
+      "rows": [
+        [
+          "کل کشور",
+          "۳۰٫۳",
+          "۲۰۲۲"
+        ],
+        [
+          "شمال‌غرب",
+          "۳۲٫۵",
+          "۲۰۲۲"
+        ],
+        [
+          "جنوب",
+          "۲۷٫۱",
+          "۲۰۲۲"
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ SDGs ۲۰۲۵",
+          "https://www.istat.it/en/publication/2025-sdgs-report/"
+        ]
+      ],
+      "note": "این داده از امید به زندگی ۲۰۲۵ قدیمی‌تر است."
     }
   ]
 }

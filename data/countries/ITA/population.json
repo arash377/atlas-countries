@@ -2,7 +2,7 @@
   "schema_version": 1,
   "country_code": "ITA",
   "section": "population",
-  "revision": 1,
+  "revision": 2,
   "updated_at": "2026-10-27",
   "language": "fa",
   "title": "جمعیت و جامعه ایتالیا",
@@ -63,6 +63,39 @@
       "definition": "میانگین دوره‌ای فرزند به‌ازای هر زن بر پایه نرخ‌های سنی همان سال.",
       "source_url": "https://www.istat.it/en/press-release/demographic-indicators-year-2025/",
       "precision": 1
+    },
+    {
+      "id": "single-person-households",
+      "label": "خانوارهای یک‌نفره",
+      "value": 37.1,
+      "unit": "percent",
+      "period": "میانگین ۲۰۲۴–۲۰۲۵",
+      "status": "estimate",
+      "definition": "سهم خانوارهای مقیم با یک عضو از کل خانوارها.",
+      "source_url": "https://www.istat.it/en/press-release/demographic-indicators-year-2025/",
+      "precision": 1
+    },
+    {
+      "id": "average-household-size",
+      "label": "اندازه متوسط خانوار",
+      "value": 2.2,
+      "unit": "count",
+      "period": "میانگین ۲۰۲۴–۲۰۲۵",
+      "status": "estimate",
+      "definition": "میانگین تعداد اعضای خانوار مقیم، نفر به‌ازای خانوار.",
+      "source_url": "https://www.istat.it/en/press-release/demographic-indicators-year-2025/",
+      "precision": 1
+    },
+    {
+      "id": "foreign-citizens-resident",
+      "label": "ساکنان با تابعیت خارجی",
+      "value": 5560000,
+      "unit": "person",
+      "period": "۱ ژانویه ۲۰۲۶",
+      "status": "estimate",
+      "definition": "ساکنان دارای تابعیت غیرایتالیایی؛ نه شاخص محل تولد یا هویت مهاجر.",
+      "source_url": "https://www.istat.it/en/press-release/demographic-indicators-year-2025/",
+      "precision": 0
     }
   ],
   "topics": [
@@ -113,6 +146,60 @@
         [
           "Istat؛ شاخص‌های جمعیتی سال ۲۰۲۵",
           "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
+        ]
+      ]
+    },
+    {
+      "id": "population-household-change",
+      "title": "خانوارهای کوچک‌تر و سالمندی",
+      "lead": "تحول خانوار در کنار سالمندی و باروری پایین، نیازهای مراقبتی و ترکیب اجتماعی را تغییر می‌دهد.",
+      "parts": [
+        [
+          "ساختار خانوار",
+          "در میانگین ۲۰۲۴–۲۰۲۵ شمار خانوارها حدود ۲۶٫۶ میلیون بود؛ ۳۷٫۱٪ یک‌نفره، ۲۸٫۴٪ زوج دارای فرزند و کمی بیش از ۲۰٪ زوج بدون فرزند بودند."
+        ],
+        [
+          "اندازه متوسط",
+          "متوسط اندازه خانوار به ۲٫۲ نفر رسیده است. میانگین اعضا با تعداد خانواده‌های دارای رابطه والد-فرزند یکی نیست."
+        ],
+        [
+          "تفسیر آماری",
+          "سهم خانوارها بر پایه نوع سکونت تعریف می‌شود؛ درصد خانوارها را نمی‌توان به‌عنوان سهم افراد یا سهم قومی/دینی تفسیر کرد."
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ شاخص‌های جمعیتی سال ۲۰۲۵",
+          "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
+        ]
+      ]
+    },
+    {
+      "id": "population-religion-language",
+      "title": "زبان‌ها، باورها و محدودیت داده",
+      "lead": "ایتالیا از نظر زبان و باور متنوع است، اما اندازه‌گیری ملی این ویژگی‌ها روش و پوشش همسان ندارد.",
+      "parts": [
+        [
+          "زبان",
+          "ایتالیایی زبان رسمی است؛ آلمانی، فرانسوی، اسلوونیایی، ساردی، لادین و دیگر زبان‌های اقلیت در مناطق مشخص حمایت قانونی دارند. همه گویش‌های محلی را نمی‌توان در یک دسته واحد قرار داد."
+        ],
+        [
+          "دین و آزادی وجدان",
+          "جمهوری دین رسمی دولتی تعیین نمی‌کند و آزادی دین را تضمین می‌کند. در این مجموعه، سرشماری سراسری معتبری که وابستگی دینی همه ساکنان را یکسان اندازه بگیرد یافت نشد."
+        ],
+        [
+          "قومیت",
+          "آمار رسمی ملی با تعریف همسان برای دسته‌بندی قومی جمعیت در این فایل در دسترس نیست؛ به همین دلیل درصد قومی ساخته یا برآورد نشده است."
+        ]
+      ],
+      "sources": [
+        [
+          "قانون اساسی ایتالیا؛ مجلس سنا",
+          "https://www.senato.it/sites/default/files/media-documents/Costituzione_INGLESE.pdf"
+        ],
+        [
+          "قانون ۴۸۲/۱۹۹۹؛ حمایت زبانی",
+          "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=099G0557&atto.dataPubblicazioneGazzetta=1999-12-20&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=&generaTabId=true&qId=&tabID=&tipoDettaglio=vigente&title=lbl.dettaglioAtto"
         ]
       ]
     }
@@ -227,6 +314,45 @@
           "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
         ]
       ]
+    },
+    {
+      "type": "table",
+      "id": "households-2024-25",
+      "title": "خانوار در میانگین ۲۰۲۴–۲۰۲۵",
+      "columns": [
+        "شاخص",
+        "مقدار",
+        "تعریف"
+      ],
+      "rows": [
+        [
+          "شمار خانوار",
+          "۲۶٫۶ میلیون",
+          "خانوارهای مقیم"
+        ],
+        [
+          "خانوار یک‌نفره",
+          "۳۷٫۱٪",
+          "سهم از کل خانوارها"
+        ],
+        [
+          "زوج دارای فرزند",
+          "۲۸٫۴٪",
+          "سهم از کل خانوارها"
+        ],
+        [
+          "اندازه متوسط",
+          "۲٫۲ نفر",
+          "اعضا به‌ازای خانوار"
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ شاخص‌های جمعیتی سال ۲۰۲۵",
+          "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
+        ]
+      ],
+      "note": "ردیف‌ها همه انواع خانوار را نشان نمی‌دهند."
     }
   ]
 }

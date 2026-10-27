@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "country_code": "ITA",
+  "section": "identity",
+  "revision": 1,
+  "updated_at": "2026-10-27",
+  "language": "fa",
+  "title": "شناسنامه و نمادهای ایتالیا",
+  "intro": "ایتالیا در جنوب اروپا، جمهوری پارلمانی و عضو اتحادیه اروپا است. این بخش نام، نمادها و اطلاعات پایه را از قانون و منابع مرجع جدا می‌کند.",
+  "metrics": [],
+  "topics": [
+    {
+      "id": "name-and-state",
+      "title": "نام کشور و صورت حقوقی",
+      "lead": "نام کوتاه کشور در فارسی «ایتالیا» و در ایتالیایی Italia است؛ صورت رسمی آن جمهوری ایتالیا است.",
+      "parts": [
+        [
+          "نام در تاریخ",
+          "نام Italia از روزگار باستان برای بخش‌هایی از شبه‌جزیره به کار می‌رفت و دامنه معنایی آن در دوره روم گسترش یافت. دولت ملی یکپارچه در ۱۸۶۱ پادشاهی ایتالیا نام گرفت؛ پس از همه‌پرسی ۱۹۴۶ و پایان سلطنت، جمهوری برقرار شد."
+        ],
+        [
+          "پایتخت و شهر بزرگ",
+          "رم پایتخت قانونی جمهوری است. شهر رم مرکز نهادهای ریاست‌جمهوری، پارلمان و دولت است. میلان بزرگ‌ترین شهر ایتالیا بر پایه جمعیت شهرداری در سرشماری‌های اخیر است؛ تعریف «شهر» با ناحیه کلان‌شهری تفاوت دارد."
+        ],
+        [
+          "زبان و دین",
+          "ایتالیایی زبان رسمی جمهوری است. قانون اساسی آزادی دین را تضمین می‌کند و دین رسمی دولتی تعیین نمی‌کند؛ رابطه دولت و کلیسای کاتولیک در ماده ۷ و توافق با دیگر ادیان در ماده ۸ تنظیم شده است."
+        ]
+      ],
+      "sources": [
+        [
+          "قانون اساسی جمهوری ایتالیا؛ متن انگلیسی مجلس سنا",
+          "https://www.senato.it/sites/default/files/media-documents/Costituzione_INGLESE.pdf"
+        ],
+        [
+          "اتحادیه اروپا؛ پروفایل کشور ایتالیا",
+          "https://european-union.europa.eu/principles-countries-history/country-profiles/italy_en"
+        ],
+        [
+          "آکادمی دلا کروچا؛ ریشه و گسترش نام Italia",
+          "https://accademiadellacrusca.it/it/consulenza/il-nome-dellitalia/309"
+        ],
+        [
+          "قانون ۴۸۲/۱۹۹۹؛ زبان رسمی ایتالیایی و حمایت از زبان‌های تاریخی اقلیت",
+          "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=099G0557&atto.dataPubblicazioneGazzetta=1999-12-20&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=&generaTabId=true&qId=&tabID=&tipoDettaglio=vigente&title=lbl.dettaglioAtto"
+        ]
+      ]
+    },
+    {
+      "id": "symbols-and-calendar",
+      "title": "نمادها، تقویم و زندگی روزمره",
+      "lead": "پرچم سه‌رنگ و سرود ملی از نمادهای رسمی‌اند؛ مشخصات عملی مانند زمان و برق برای سفر نیز در این بخش آمده است.",
+      "parts": [
+        [
+          "پرچم و نشان",
+          "ماده ۱۲ قانون اساسی پرچم جمهوری را سه نوار عمودی هم‌اندازه به رنگ‌های سبز، سفید و سرخ تعریف می‌کند. نشان جمهوری ایتالیا نماد دولتی دیگری است و با پرچم یکسان نیست."
+        ],
+        [
+          "سرود و روز ملی",
+          "سرود ملی «Il Canto degli Italiani» است که با نام «سرود ماملی» نیز شناخته می‌شود. روز جمهوری در ۲ ژوئن، یادبود همه‌پرسی ۱۹۴۶ است. از ۲۰۲۶، ۴ اکتبر نیز طبق قانون ۱۵۱/۲۰۲۵ تعطیل رسمی ملی به افتخار فرانچسکو آسیزی است."
+        ],
+        [
+          "زمان، رانندگی و برق",
+          "منطقه زمانی اصلی Europe/Rome است: زمستان UTC+1 و تابستان UTC+2. ساعت تابستانی طبق قاعده اتحادیه اروپا اجرا می‌شود. رانندگی در سمت راست است. برق خانگی معمولاً ۲۳۰ ولت و ۵۰ هرتز است؛ شکل پریزها می‌تواند با نوع دوشاخه تفاوت داشته باشد."
+        ],
+        [
+          "تقویم و سال مالی",
+          "تقویم میلادی/گرگوری در امور رسمی استفاده می‌شود. سال تقویمی از ۱ ژانویه تا ۳۱ دسامبر است. سال مالی دولت با سال تقویمی هم‌پوشان است؛ دوره گزارش شرکت‌ها ممکن است طبق مقررات حسابداری و اساسنامه متفاوت باشد."
+        ]
+      ],
+      "sources": [
+        [
+          "قانون اساسی جمهوری ایتالیا؛ متن انگلیسی مجلس سنا",
+          "https://www.senato.it/sites/default/files/media-documents/Costituzione_INGLESE.pdf"
+        ],
+        [
+          "ریاست‌جمهوری ایتالیا؛ رئیس‌جمهور و نمادهای ملی",
+          "https://www.quirinale.it/it/pagine/english"
+        ],
+        [
+          "IANA؛ منطقه زمانی Europe/Rome",
+          "https://www.iana.org/time-zones"
+        ],
+        [
+          "اتحادیه اروپا؛ زمان تابستانی",
+          "https://transport.ec.europa.eu/transport-themes/summer-time_en"
+        ],
+        [
+          "اتحادیه اروپا؛ پروفایل کشور ایتالیا",
+          "https://european-union.europa.eu/principles-countries-history/country-profiles/italy_en"
+        ],
+        [
+          "روزنامه رسمی؛ قانون ۱۸۱/۲۰۱۷ درباره سرود ملی",
+          "https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=17G00195&atto.dataPubblicazioneGazzetta=2017-12-15&tipoSerie=serie_generale&tipoVigenza=originario"
+        ]
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "مختصات تقریبی رم",
+      "value": "۴۱٫۹۰۲۸° شمالی، ۱۲٫۴۹۶۴° شرقی",
+      "source": "https://www.geonames.org/3169070/rome.html"
+    },
+    {
+      "label": "کد کشور",
+      "value": "ITA",
+      "source": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "neighbors": [],
+  "map_points": [],
+  "key_tables": [
+    {
+      "type": "table",
+      "id": "identity-basics",
+      "title": "اطلاعات پایه",
+      "columns": [
+        "موضوع",
+        "مشخصات"
+      ],
+      "rows": [
+        [
+          "نام رسمی",
+          "جمهوری ایتالیا؛ Repubblica Italiana"
+        ],
+        [
+          "نام کوتاه",
+          "ایتالیا؛ Italia"
+        ],
+        [
+          "پایتخت",
+          "رم؛ Rome / Roma"
+        ],
+        [
+          "قاره و ناحیه",
+          "اروپا؛ جنوب اروپا"
+        ],
+        [
+          "ISO 3166-1",
+          "IT؛ ITA؛ کد عددی ۳۸۰"
+        ],
+        [
+          "پیش‌شماره تلفن",
+          "+39"
+        ],
+        [
+          "دامنه اینترنتی",
+          "‎.it؛ دامنه جغرافیایی ملی"
+        ],
+        [
+          "واحد پول",
+          "یورو؛ €؛ EUR"
+        ],
+        [
+          "منطقه زمانی",
+          "Europe/Rome؛ UTC+1 زمستان، UTC+2 تابستان"
+        ],
+        [
+          "جهت رانندگی",
+          "سمت راست"
+        ],
+        [
+          "برق خانگی",
+          "۲۳۰ ولت، ۵۰ هرتز؛ نوع پریز متغیر"
+        ],
+        [
+          "زبان رسمی",
+          "ایتالیایی؛ زبان‌های اقلیتِ حمایت‌شده در قانون جداگانه‌اند"
+        ],
+        [
+          "دین رسمی",
+          "دین رسمی دولتی ندارد"
+        ],
+        [
+          "سال تقویمی/مالی",
+          "۱ ژانویه تا ۳۱ دسامبر؛ سال مالی دولت هم‌زمان با سال تقویمی"
+        ]
+      ],
+      "sources": [
+        [
+          "قانون اساسی جمهوری ایتالیا؛ متن انگلیسی مجلس سنا",
+          "https://www.senato.it/sites/default/files/media-documents/Costituzione_INGLESE.pdf"
+        ],
+        [
+          "ISO 3166؛ کدهای کشور",
+          "https://www.iso.org/iso-3166-country-codes.html"
+        ],
+        [
+          "اتحادیه بین‌المللی مخابرات؛ شماره‌گذاری کشورها",
+          "https://www.itu.int/oth/T0202.aspx?parent=T0202"
+        ],
+        [
+          "IANA؛ منطقه زمانی Europe/Rome",
+          "https://www.iana.org/time-zones"
+        ],
+        [
+          "اتحادیه اروپا؛ زمان تابستانی",
+          "https://transport.ec.europa.eu/transport-themes/summer-time_en"
+        ],
+        [
+          "اتحادیه اروپا؛ پروفایل کشور ایتالیا",
+          "https://european-union.europa.eu/principles-countries-history/country-profiles/italy_en"
+        ],
+        [
+          "NIC.it؛ مرجع ثبت دامنه ملی ‎.it",
+          "https://www.nic.it/en"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "id": "national-symbols",
+      "title": "نمادهای جمهوری",
+      "columns": [
+        "نماد",
+        "وضعیت و مبنا"
+      ],
+      "rows": [
+        [
+          "پرچم",
+          "سه نوار عمودی سبز، سفید و سرخ؛ ماده ۱۲ قانون اساسی"
+        ],
+        [
+          "نشان جمهوری",
+          "نشان رسمی جمهوری ایتالیا؛ مصوب ۱۹۴۸"
+        ],
+        [
+          "سرود",
+          "Il Canto degli Italiani؛ سرود ملی"
+        ],
+        [
+          "روز ملی",
+          "۲ ژوئن؛ روز جمهوری"
+        ],
+        [
+          "نام بومی",
+          "Italia؛ نام رسمی Repubblica Italiana"
+        ],
+        [
+          "تعطیل رسمی ملی",
+          "۴ اکتبر؛ روز ملی سن فرانچسکو از ۲۰۲۶، قانون ۱۵۱/۲۰۲۵"
+        ]
+      ],
+      "sources": [
+        [
+          "قانون اساسی جمهوری ایتالیا؛ متن انگلیسی مجلس سنا",
+          "https://www.senato.it/sites/default/files/media-documents/Costituzione_INGLESE.pdf"
+        ],
+        [
+          "ریاست‌جمهوری ایتالیا؛ رئیس‌جمهور و نمادهای ملی",
+          "https://www.quirinale.it/it/pagine/english"
+        ],
+        [
+          "روزنامه رسمی جمهوری ایتالیا؛ قانون ۸ اکتبر ۲۰۲۵ شماره ۱۵۱، ایجاد روز ملی سن فرانچسکو",
+          "https://www.gazzettaufficiale.it/eli/id/2025/10/10/25G00153/sg"
+        ],
+        [
+          "روزنامه رسمی؛ قانون ۱۵۱/۲۰۲۵",
+          "https://www.gazzettaufficiale.it/eli/id/2025/10/10/25G00153/sg"
+        ]
+      ]
+    }
+  ]
+}

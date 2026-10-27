@@ -54,3 +54,28 @@
 
 
 در آخرین نسخه، کل ایتالیا ۴۰ جدول با ۲۱۱ ردیف و ۲۴ شاخص دارد. این مقادیر با تعداد ایران (۱۵ جدول، ۱۲۵ ردیف) و ژاپن (۳۷ جدول، ۱۸۳ ردیف) از مخزن `main` در زمان بررسی سنجیده شده‌اند. ایتالیا از نظر شمار موضوع هنوز از دو مرجع عقب‌تر است و شکاف‌های فهرست‌شده باید در بازبینی‌های بعدی دنبال شوند.
+
+
+## رسانه‌های تصویری افزوده‌شده — ۲۰۲۶-۱۰-۲۸
+
+پرچم ایتالیا به‌صورت SVG برداریِ سه نوار عمودی هم‌اندازه، با نسبت ۳:۲ و بر پایهٔ اصل ۱۲ و راهنمای رسمی رنگ‌ها در assets/italy-flag.svg افزوده شد. هندسه ساده است؛ رنگ‌های نمایش دیجیتال با کدهای RGB متعارف متناظر با پنتون‌های اعلام‌شدهٔ دولت تنظیم شده‌اند. طرح هندسی پرچم در Commons به‌عنوان PD-shape توصیف شده است؛ فایل SVG اطلس با CC0 منتشر می‌شود.
+
+برای ۱۲ بخش دیگر، تصویر مستند از صفحهٔ فایل Wikimedia Commons پیوند داده شده است. اپ از پیوند HTTPS پشتیبانی می‌کند؛ تصاویر عکاسی در مخزن کپی نشده‌اند و برای نمایش نسخهٔ ۱۲۰۰ پیکسلی از سرویس Commons درخواست می‌شوند. ابعاد ثبت‌شده در فهرست، ابعاد فایل اصلی در صفحهٔ Commons است.
+
+| بخش | تصویر | پدیدآورنده | مجوز | صفحهٔ منبع | ابعاد اصلی |
+|---|---|---|---|---|---|
+| identity | پرچم جمهوری ایتالیا؛ سه نوار عمودی هم‌اندازه با نسبت ۳:۲ | بازترسیم هندسی اطلس بر پایهٔ اصل ۱۲ قانون اساسی و مشخصات رسمی رنگ | طرح هندسی پرچم در مالکیت عمومی؛ فایل SVG بازترسیمی اطلس با مجوز CC0 | https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg | 1500×1000 |
+| geography | دولومیت‌ها، بخشی از آلپ ایتالیا | Mona Hassan Abo-Abda | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Dolomites.jpg | 5822×3887 |
+| administration | کاخ مونته‌چیتوریو، رم | Nicola.gelmi | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Palazzo_Montecitorio.jpg | 4160×2336 |
+| population | خیابان‌های شهر رم | Haneen abu omar | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Street_in_Rome_Italy.jpg | 1504×2016 |
+| politics | کاخ کویریناله، رم | Krzysztof Golik (Tournasol7) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Quirinal_Palace_in_Rome.jpg | 5218×3572 |
+| history | کولوسئوم، یادمان برجای‌مانده از روم باستان | Minimum-herb | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Photo_of_The_Colosseum_in_Rome,_Italy.jpg | 4032×3024 |
+| economy | بندر جنوا و حمل‌ونقل کانتینری | Jordiferrer | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:UASC_container_ship_at_Genoa_-_SECH.jpg | 2592×1944 |
+| culture | کارناوال ونیز | Sami3310 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Venetian_Carnival_Festival.jpg | 1200×1600 |
+| education-health | یکی از ساختمان‌های دانشگاه بولونیا | Armin Kleiner | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bologna,_Via_Capo_di_Lucca,_University_building.jpg | 5815×3877 |
+| sports | ورزشگاه تراستِوِره، نمونه‌ای از زیرساخت ورزشی محلی | Gabrieleciufio | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Collina_stadium.jpg | 1010×469 |
+| infrastructure | قطار فرچیاروسا، شبکهٔ ریلی پرسرعت ایتالیا | Lorenzo Gaudenzi | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Frecciarossa_Trenitalia.jpg | 4138×2747 |
+| travel | کانال‌های ونیز | Artur Staszewski | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Venice_Canal,_Italy.jpg | 4806×3333 |
+| environment | درهٔ واله دل بووه در پارک اتنا، سیسیل | Giglio Domenico Mirko | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Alba_alla_Valle_del_Bove_-_Etna.jpg | 5184×3456 |
+
+در این پیوندها اپ فایل اصلی را از Commons نمی‌گیرد؛ نشانی Special:FilePath درخواست نسخهٔ بازاندازه‌شده را می‌دهد. دسترسی به تصویر وابسته به اینترنت و پاسخ‌گویی میزبان Commons است.

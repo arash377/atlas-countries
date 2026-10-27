@@ -2,8 +2,8 @@
   "schema_version": 1,
   "country_code": "ITA",
   "section": "identity",
-  "revision": 4,
-  "updated_at": "2026-10-27",
+  "revision": 5,
+  "updated_at": "2026-10-28",
   "language": "fa",
   "title": "شناسنامه و نمادهای ایتالیا",
   "intro": "ایتالیا در جنوب اروپا، جمهوری پارلمانی و عضو اتحادیه اروپا است. این بخش نام، نمادها و اطلاعات پایه را از قانون و منابع مرجع جدا می‌کند.",
@@ -66,6 +66,10 @@
         [
           "تقویم و سال مالی",
           "تقویم میلادی/گرگوری در امور رسمی استفاده می‌شود. سال تقویمی از ۱ ژانویه تا ۳۱ دسامبر است. سال مالی دولت با سال تقویمی هم‌پوشان است؛ دوره گزارش شرکت‌ها ممکن است طبق مقررات حسابداری و اساسنامه متفاوت باشد."
+        ],
+        [
+          "تناسب و رنگ پرچم",
+          "اصل ۱۲ قانون اساسی سه نوار عمودی هم‌اندازه را تعیین می‌کند. نسبت معمول تصویر پرچم ۳ به ۲ است. راهنمای تشریفات دولت ایتالیا رنگ‌های رسمی را با کدهای پنتون مشخص می‌کند؛ نسخهٔ برداری این اطلس بر همان طرح ساده و هندسهٔ قانونی تکیه دارد."
         ]
       ],
       "sources": [
@@ -92,9 +96,30 @@
         [
           "روزنامه رسمی؛ قانون ۱۸۱/۲۰۱۷ درباره سرود ملی",
           "https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=17G00195&atto.dataPubblicazioneGazzetta=2017-12-15&tipoSerie=serie_generale&tipoVigenza=originario"
+        ],
+        [
+          "دولت ایتالیا؛ راهنمای پرچم و رنگ‌های رسمی",
+          "https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/bandiera.html"
+        ],
+        [
+          "مجلس سنای ایتالیا؛ قانون اساسی، اصل ۱۲",
+          "https://www.senato.it/istituzione/la-costituzione/principi-fondamentali/articolo-12"
         ]
       ],
       "blocks": [
+        {
+          "type": "image",
+          "id": "italy-national-flag",
+          "url": "assets/italy-flag.svg",
+          "alt": "پرچم ایتالیا با سه نوار عمودی هم‌اندازه به رنگ سبز، سفید و سرخ",
+          "caption": "پرچم جمهوری ایتالیا؛ سه نوار عمودی هم‌اندازه با نسبت ۳:۲",
+          "credit": "بازترسیم هندسی اطلس بر پایهٔ اصل ۱۲ قانون اساسی و مشخصات رسمی رنگ",
+          "license": "طرح هندسی پرچم در مالکیت عمومی؛ فایل SVG بازترسیمی اطلس با مجوز CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "source_url": "https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/bandiera.html",
+          "variant": "flag",
+          "changes": "بازترسیم برداری اختصاصی با سه نوار برابر و نسبت ۳:۲؛ هندسه بر اساس مشخصات رسمی، رنگ دیجیتال بر اساس رنگ‌های رسمی اعلام‌شده."
+        },
         {
           "type": "audio",
           "id": "italy-national-anthem",

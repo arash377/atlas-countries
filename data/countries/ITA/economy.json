@@ -2,7 +2,7 @@
   "schema_version": 1,
   "country_code": "ITA",
   "section": "economy",
-  "revision": 2,
+  "revision": 3,
   "updated_at": "2026-10-27",
   "language": "fa",
   "title": "اقتصاد و کار در ایتالیا",
@@ -50,6 +50,17 @@
       "status": "estimate",
       "definition": "سهم افراد مقیم در خانوارهای زیر آستانه فقر مطلق Istat؛ با خطر فقر نسبی یکی نیست.",
       "source_url": "https://www.istat.it/en/press-release/poverty-in-italy-year-2024/",
+      "precision": 1
+    },
+    {
+      "id": "public-debt-to-gdp",
+      "label": "بدهی دولت عمومی نسبت به GDP",
+      "value": 136.7,
+      "unit": "percent",
+      "period": "پایان سال ۲۰۲۵؛ اعلان دوم ۲۰۲۶",
+      "status": "reported",
+      "definition": "بدهی دولت عمومی مطابق چارچوب ESA 2010 نسبت به GDP؛ داده اعلان دوم Eurostat.",
+      "source_url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-21102026-ap",
       "precision": 1
     }
   ],
@@ -179,6 +190,97 @@
         [
           "Istat؛ فقر در سال ۲۰۲۴",
           "https://www.istat.it/en/press-release/poverty-in-italy-year-2024/"
+        ]
+      ]
+    },
+    {
+      "id": "economy-public-debt-and-budget",
+      "title": "بدهی عمومی و بودجه دولت",
+      "lead": "بدهی انباشته را از کسری یک‌ساله جدا باید خواند؛ دو شاخص دوره و ماهیت متفاوت دارند.",
+      "parts": [
+        [
+          "بدهی دولت",
+          "Eurostat در اعلان دوم سال ۲۰۲۶، بدهی دولت عمومی ایتالیا در پایان ۲۰۲۵ را ۱۳۶٫۷٪ GDP گزارش کرد. این نسبت ESA 2010 و داده‌های اعلان دوم است."
+        ],
+        [
+          "مقدار اسمی",
+          "بانک مرکزی ایتالیا بدهی پایان ۲۰۲۵ را ۳٬۰۹۵٫۵ میلیارد یورو اعلام کرد؛ این موجودی پایان سال است، نه کسری سالانه."
+        ],
+        [
+          "کسری بودجه",
+          "Istat برای ۲۰۲۵ خالص استقراض دولت عمومی را ۳٫۱٪ GDP گزارش کرد؛ کسری جریان سالانه است و با بدهی موجود انباشته یکی نیست."
+        ]
+      ],
+      "sources": [
+        [
+          "Eurostat؛ بدهی و کسری دولت، اعلان دوم ۲۰۲۵",
+          "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-21102026-ap"
+        ],
+        [
+          "بانک مرکزی ایتالیا؛ بدهی عمومی ۲۰۲۵",
+          "https://www.bancaditalia.it/pubblicazioni/finanza-pubblica/2026-finanza-pubblica/en_statistiche_FPI_20260216.pdf?language_id=1"
+        ],
+        [
+          "Istat؛ حساب‌های ملی ۲۰۱۰–۲۰۲۵",
+          "https://www.istat.it/wp-content/uploads/2026/09/ANNUAL-NATIONAL-ACCOUNTS_2010-2025.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "economy-central-bank-and-euro",
+      "title": "یورو، بانک مرکزی اروپا و نظام مالی",
+      "lead": "سیاست پولی ایتالیا در چارچوب یوروسیستم و بانک مرکزی اروپا انجام می‌شود.",
+      "parts": [
+        [
+          "پول مشترک",
+          "ایتالیا از اعضای منطقه یورو است؛ نرخ سیاستی پولی در سطح بانک مرکزی اروپا تعیین می‌شود."
+        ],
+        [
+          "بانک مرکزی ایتالیا",
+          "بانک مرکزی ایتالیا عضو یوروسیستم است و در نظارت بانکی، ثبات مالی، آمار و عملیات پولی مشترک نقش دارد."
+        ],
+        [
+          "دولت و بازار بدهی",
+          "دولت از طریق اوراق قرضه منابع مالی جذب می‌کند؛ هزینه تأمین مالی به نرخ بازار، سررسید، اعتبار مالی و سیاست پولی وابسته است."
+        ]
+      ],
+      "sources": [
+        [
+          "اتحادیه اروپا؛ پروفایل ایتالیا",
+          "https://european-union.europa.eu/principles-countries-history/country-profiles/italy_en"
+        ],
+        [
+          "بانک مرکزی ایتالیا؛ نقش و وظایف",
+          "https://www.bancaditalia.it/chi-siamo/funzioni-governance/index.html?com.dotmarketing.htmlpage.language=1"
+        ]
+      ]
+    },
+    {
+      "id": "economy-sectoral-patterns",
+      "title": "کشاورزی، صنعت، خدمات و تفاوت منطقه‌ای",
+      "lead": "ساختار تولیدی ایتالیا با شبکه بنگاه‌های تخصصی، صنعت صادرات‌محور و خدمات گسترده شناخته می‌شود.",
+      "parts": [
+        [
+          "صنعت",
+          "ماشین‌آلات، خودرو، دارو، فلزات، کالاهای طراحی‌محور و صنایع غذایی در صادرات و زنجیره تولید نقش دارند."
+        ],
+        [
+          "کشاورزی",
+          "انگور، زیتون، غلات، لبنیات و محصولات منطقه‌ای پایه بسیاری از زنجیره‌های غذایی‌اند؛ آب‌وهوا و اندازه مزرعه بر بازده اثر دارد."
+        ],
+        [
+          "خدمات",
+          "گردشگری، حمل‌ونقل، خرده‌فروشی، امور مالی و خدمات عمومی بخش بزرگی از فعالیت اقتصادی را تشکیل می‌دهند؛ وابستگی منطقه‌ای متفاوت است."
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ گزارش رقابت‌پذیری بخش‌های تولیدی ۲۰۲۶",
+          "https://www.istat.it/wp-content/uploads/2026/03/Report-Competitiveness-2026-Executive-Summary_Final.pdf"
+        ],
+        [
+          "Istat؛ جریان گردشگری سال ۲۰۲۴",
+          "https://www.istat.it/comunicato-stampa/i-flussi-turistici-anno-2024/"
         ]
       ]
     }
@@ -421,6 +523,48 @@
           "https://www.istat.it/en/press-release/annual-national-accounts-year-2025/"
         ]
       ]
+    },
+    {
+      "type": "table",
+      "id": "public-debt-2025",
+      "title": "مالیه دولت عمومی؛ سال ۲۰۲۵",
+      "columns": [
+        "شاخص",
+        "مقدار",
+        "تعریف/مبنای زمانی"
+      ],
+      "rows": [
+        [
+          "بدهی دولت عمومی",
+          "۱۳۶٫۷٪ GDP",
+          "پایان ۲۰۲۵؛ اعلان دوم ESA 2010"
+        ],
+        [
+          "بدهی اسمی",
+          "۳٬۰۹۵٫۵ میلیارد یورو",
+          "پایان ۲۰۲۵؛ موجودی بدهی بانک مرکزی"
+        ],
+        [
+          "کسری خالص",
+          "۳٫۱٪ GDP",
+          "۲۰۲۵؛ جریان سالانه دولت عمومی"
+        ]
+      ],
+      "sources": [
+        [
+          "Eurostat؛ بدهی و کسری دولت، اعلان دوم ۲۰۲۵",
+          "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-21102026-ap"
+        ],
+        [
+          "بانک مرکزی ایتالیا؛ بدهی عمومی ۲۰۲۵",
+          "https://www.bancaditalia.it/pubblicazioni/finanza-pubblica/2026-finanza-pubblica/en_statistiche_FPI_20260216.pdf?language_id=1"
+        ],
+        [
+          "Istat؛ حساب‌های ملی ۲۰۲۵",
+          "https://www.istat.it/wp-content/uploads/2026/09/ANNUAL-NATIONAL-ACCOUNTS_2010-2025.pdf"
+        ]
+      ],
+      "note": "نسبت Eurostat با اعلان دوم و ESA 2010 است؛ بدهی اسمی موجودی پایان سال و کسری جریان سالانه است."
     }
   ]
 }

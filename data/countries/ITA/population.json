@@ -2,7 +2,7 @@
   "schema_version": 1,
   "country_code": "ITA",
   "section": "population",
-  "revision": 2,
+  "revision": 3,
   "updated_at": "2026-10-27",
   "language": "fa",
   "title": "جمعیت و جامعه ایتالیا",
@@ -95,6 +95,17 @@
       "status": "estimate",
       "definition": "ساکنان دارای تابعیت غیرایتالیایی؛ نه شاخص محل تولد یا هویت مهاجر.",
       "source_url": "https://www.istat.it/en/press-release/demographic-indicators-year-2025/",
+      "precision": 0
+    },
+    {
+      "id": "population-projection-2050",
+      "label": "جمعیت برآوردی سناریوی میانه",
+      "value": 54700000,
+      "unit": "person",
+      "period": "سال ۲۰۵۰؛ پایه پیش‌بینی ۱ ژانویه ۲۰۲۴",
+      "status": "projection",
+      "definition": "سناریوی میانه Istat؛ نتیجه به فرض‌های باروری، بقا و مهاجرت وابسته است.",
+      "source_url": "https://www.istat.it/en/press-release/population-and-household-projections-base-1-1-2024/",
       "precision": 0
     }
   ],
@@ -200,6 +211,89 @@
         [
           "قانون ۴۸۲/۱۹۹۹؛ حمایت زبانی",
           "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=099G0557&atto.dataPubblicazioneGazzetta=1999-12-20&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=&generaTabId=true&qId=&tabID=&tipoDettaglio=vigente&title=lbl.dettaglioAtto"
+        ]
+      ]
+    },
+    {
+      "id": "population-regional-distribution",
+      "title": "توزیع منطقه‌ای و تفاوت رشد",
+      "lead": "تغییر جمعیت میان شمال، مرکز، جنوب و جزایر یکسان نیست و روند ملی میانگین همین تفاوت‌هاست.",
+      "parts": [
+        [
+          "رشد منطقه‌ای ۲۰۲۵",
+          "در ۲۰۲۵ نرخ تغییر جمعیت در ترنتینو آلتو آدیجه +۴٫۲ در هزار، امیلیا رومانیا +۳٫۴ و لومباردیا +۳٫۲ بود؛ در باسیلیکاتا −۹٫۰، مولیزه −۶٫۵ و ساردینیا −۵٫۱ در هزار گزارش شد."
+        ],
+        [
+          "جغرافیای استقرار",
+          "شهرهای شمالی و مرکزی و برخی نواحی ساحلی جذب جمعیت و فعالیت اقتصادی دارند؛ مناطق داخلی، روستایی و جزیره‌ای با دسترسی خدماتی متفاوت‌اند."
+        ],
+        [
+          "مفهوم شهری",
+          "درصد شهرنشینی به تعریف مرکز شهری وابسته است؛ تعریف سازمان ملل، اتحادیه اروپا و شهرداری‌ها ممکن است تفاوت داشته باشد."
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ شاخص‌های جمعیتی ۲۰۲۵",
+          "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
+        ],
+        [
+          "Istat؛ سرشماری و پویایی جمعیت ۲۰۲۴",
+          "https://www.istat.it/comunicato-stampa/censimento-e-dinamica-della-popolazione-anno-2024/"
+        ]
+      ]
+    },
+    {
+      "id": "population-projection-and-dependency",
+      "title": "پیش‌بینی جمعیت و وابستگی سنی",
+      "lead": "پیش‌بینی سناریو است و نباید به‌عنوان شمارش قطعی آینده خوانده شود.",
+      "parts": [
+        [
+          "سناریوی میانه",
+          "Istat در پیش‌بینی بر پایه ۱ ژانویه ۲۰۲۴ جمعیت را حدود ۵۹ میلیون در آن زمان و ۵۴٫۷ میلیون در ۲۰۵۰ برآورد می‌کند."
+        ],
+        [
+          "پیرشدن جمعیت",
+          "افزایش بقا و باروری پایین نسبت سالمندان به سنین کاری را بالا می‌برد؛ مهاجرت خالص می‌تواند روند را تغییر دهد."
+        ],
+        [
+          "محدودیت",
+          "پیش‌بینی به فرض‌های باروری، امید زندگی و مهاجرت وابسته است و دوره‌های جدید برآورد آن را بازنگری می‌کنند."
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ پیش‌بینی جمعیت و خانوار از پایه ۱ ژانویه ۲۰۲۴",
+          "https://www.istat.it/en/press-release/population-and-household-projections-base-1-1-2024/"
+        ],
+        [
+          "Istat؛ شاخص‌های جمعیتی ۲۰۲۵",
+          "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
+        ]
+      ]
+    },
+    {
+      "id": "population-demographic-balance",
+      "title": "توازن طبیعی و مهاجرت",
+      "lead": "کاهش طبیعی جمعیت در ۲۰۲۵ تا حدی با تراز مثبت مهاجرت خارجی جبران شد.",
+      "parts": [
+        [
+          "تولد و مرگ",
+          "Istat حدود ۳۵۵ هزار تولد و ۶۵۲ هزار مرگ را برای ۲۰۲۵ گزارش می‌کند؛ ارقام مقدماتی‌اند."
+        ],
+        [
+          "تراز مهاجرت",
+          "حدود ۴۴۰ هزار ورود و ۱۴۴ هزار خروج از/به خارج، تراز بین‌المللی تقریبی +۲۹۶ هزار نفر را می‌سازد."
+        ],
+        [
+          "تفسیر",
+          "تغییر جمعیت کل شامل تولد، مرگ، جابه‌جایی داخلی و مهاجرت خارجی است؛ دو رقم خالص را با هم جمع نکنید مگر تعریف تراز و دوره یکسان باشد."
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ شاخص‌های جمعیتی ۲۰۲۵",
+          "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
         ]
       ]
     }
@@ -353,6 +447,55 @@
         ]
       ],
       "note": "ردیف‌ها همه انواع خانوار را نشان نمی‌دهند."
+    },
+    {
+      "type": "table",
+      "id": "regional-population-change-2025",
+      "title": "تغییر جمعیت منطقه‌ای در ۲۰۲۵",
+      "columns": [
+        "منطقه",
+        "تغییر در هزار نفر",
+        "وضعیت"
+      ],
+      "rows": [
+        [
+          "ترنتینو آلتو آدیجه",
+          "+۴٫۲",
+          "افزایش بیشتر"
+        ],
+        [
+          "امیلیا رومانیا",
+          "+۳٫۴",
+          "افزایش"
+        ],
+        [
+          "لومباردیا",
+          "+۳٫۲",
+          "افزایش"
+        ],
+        [
+          "باسیلیکاتا",
+          "−۹٫۰",
+          "کاهش بیشتر"
+        ],
+        [
+          "مولیزه",
+          "−۶٫۵",
+          "کاهش"
+        ],
+        [
+          "ساردینیا",
+          "−۵٫۱",
+          "کاهش"
+        ]
+      ],
+      "sources": [
+        [
+          "Istat؛ شاخص‌های جمعیتی ۲۰۲۵",
+          "https://www.istat.it/en/press-release/demographic-indicators-year-2025/"
+        ]
+      ],
+      "note": "نرخ تغییر منطقه‌ای در هزار نفر است، نه درصد و نه تغییر شمار مطلق."
     }
   ]
 }

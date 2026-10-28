@@ -2,7 +2,7 @@
   "schema_version": 1,
   "country_code": "ITA",
   "section": "identity",
-  "revision": 5,
+  "revision": 6,
   "updated_at": "2026-10-28",
   "language": "fa",
   "title": "شناسنامه و نمادهای ایتالیا",
@@ -123,16 +123,16 @@
         {
           "type": "audio",
           "id": "italy-national-anthem",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Inno_di_Mameli_instrumental.ogg",
+          "url": "assets/italy-anthem-instrumental.ogg",
           "title": "سرود ملی ایتالیا؛ نسخهٔ سازی",
           "transcript": "اجرای بی‌کلام «Il Canto degli Italiani» از سوی گروه موسیقی نیروی دریایی ایتالیا؛ مدت و فرمت بر پایه فراداده صفحه فایل.",
           "credit": "آهنگساز: Michele Novaro؛ اجرای ساز: Italian Navy Band؛ اجرای آرشیوی با منبع اعلام‌شده از وزارت دفاع ایتالیا.",
           "license": "ترکیب موسیقی در مالکیت عمومی؛ صفحه فایل Commons برای اجرای ضبط‌شده نیز وضعیت PD را با انتساب به اعلام وزارت دفاع ایتالیا ثبت کرده است.",
           "source_url": "https://commons.wikimedia.org/wiki/File:Inno_di_Mameli_instrumental.ogg",
           "license_url": "https://commons.wikimedia.org/wiki/Template:PD-because",
-          "changes": "بدون تبدیل؛ پخش از فایل Ogg Vorbis میزبانی‌شده در Wikimedia Commons.",
+          "changes": "فایل اصلی Ogg Vorbis با اجرای سازی بدون تبدیل یا تغییر محتوا در مخزن قرار گرفته است.",
           "variant": "instrumental",
-          "duration_seconds": 92.0
+          "duration_seconds": 92.13678
         }
       ]
     },

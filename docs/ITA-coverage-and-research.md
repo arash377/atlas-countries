@@ -56,26 +56,28 @@
 در آخرین نسخه، کل ایتالیا ۴۰ جدول با ۲۱۱ ردیف و ۲۴ شاخص دارد. این مقادیر با تعداد ایران (۱۵ جدول، ۱۲۵ ردیف) و ژاپن (۳۷ جدول، ۱۸۳ ردیف) از مخزن `main` در زمان بررسی سنجیده شده‌اند. ایتالیا از نظر شمار موضوع هنوز از دو مرجع عقب‌تر است و شکاف‌های فهرست‌شده باید در بازبینی‌های بعدی دنبال شوند.
 
 
-## رسانه‌های تصویری افزوده‌شده — ۲۰۲۶-۱۰-۲۸
+## رسانه‌های تصویری و صوتیِ بسته‌بندی‌شده — ۲۰۲۶-۱۰-۲۸
 
-پرچم ایتالیا به‌صورت SVG برداریِ سه نوار عمودی هم‌اندازه، با نسبت ۳:۲ و بر پایهٔ اصل ۱۲ و راهنمای رسمی رنگ‌ها در assets/italy-flag.svg افزوده شد. هندسه ساده است؛ رنگ‌های نمایش دیجیتال با کدهای RGB متعارف متناظر با پنتون‌های اعلام‌شدهٔ دولت تنظیم شده‌اند. طرح هندسی پرچم در Commons به‌عنوان PD-shape توصیف شده است؛ فایل SVG اطلس با CC0 منتشر می‌شود.
+پرچم ایتالیا در assets/italy-flag.svg یک بازترسیم برداری با سه نوار عمودی برابر و نسبت ۳:۲ است؛ اصل ۱۲ قانون اساسی رنگ‌ها و نوارهای برابر را تعیین می‌کند و دفتر تشریفات دولت کدهای پنتون را منتشر کرده است. هندسهٔ سادهٔ پرچم در Commons به‌عنوان PD-shape ثبت شده؛ SVG اطلس با CC0 منتشر می‌شود.
 
-برای ۱۲ بخش دیگر، تصویر مستند از صفحهٔ فایل Wikimedia Commons پیوند داده شده است. اپ از پیوند HTTPS پشتیبانی می‌کند؛ تصاویر عکاسی در مخزن کپی نشده‌اند و برای نمایش نسخهٔ ۱۲۰۰ پیکسلی از سرویس Commons درخواست می‌شوند. ابعاد ثبت‌شده در فهرست، ابعاد فایل اصلی در صفحهٔ Commons است.
+۱۲ عکس مستند از Wikimedia Commons بارگیری شدند، در صورت وجود چرخش EXIF اصلاح شد و به WebP با کیفیت ۸۴ تبدیل شدند؛ هیچ برشی اعمال نشد. نسخه‌های مشتق‌شده با انتساب و همان مجوز سازگار با مجوز اصلی توزیع می‌شوند. فایل‌ها اکنون در assets/headers/italy-*.webp در همین مخزن‌اند.
 
-| بخش | تصویر | پدیدآورنده | مجوز | صفحهٔ منبع | ابعاد اصلی |
-|---|---|---|---|---|---|
-| identity | پرچم جمهوری ایتالیا؛ سه نوار عمودی هم‌اندازه با نسبت ۳:۲ | بازترسیم هندسی اطلس بر پایهٔ اصل ۱۲ قانون اساسی و مشخصات رسمی رنگ | طرح هندسی پرچم در مالکیت عمومی؛ فایل SVG بازترسیمی اطلس با مجوز CC0 | https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg | 1500×1000 |
-| geography | دولومیت‌ها، بخشی از آلپ ایتالیا | Mona Hassan Abo-Abda | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Dolomites.jpg | 5822×3887 |
-| administration | کاخ مونته‌چیتوریو، رم | Nicola.gelmi | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Palazzo_Montecitorio.jpg | 4160×2336 |
-| population | خیابان‌های شهر رم | Haneen abu omar | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Street_in_Rome_Italy.jpg | 1504×2016 |
-| politics | کاخ کویریناله، رم | Krzysztof Golik (Tournasol7) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Quirinal_Palace_in_Rome.jpg | 5218×3572 |
-| history | کولوسئوم، یادمان برجای‌مانده از روم باستان | Minimum-herb | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Photo_of_The_Colosseum_in_Rome,_Italy.jpg | 4032×3024 |
-| economy | بندر جنوا و حمل‌ونقل کانتینری | Jordiferrer | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:UASC_container_ship_at_Genoa_-_SECH.jpg | 2592×1944 |
-| culture | کارناوال ونیز | Sami3310 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Venetian_Carnival_Festival.jpg | 1200×1600 |
-| education-health | یکی از ساختمان‌های دانشگاه بولونیا | Armin Kleiner | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bologna,_Via_Capo_di_Lucca,_University_building.jpg | 5815×3877 |
-| sports | ورزشگاه تراستِوِره، نمونه‌ای از زیرساخت ورزشی محلی | Gabrieleciufio | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Collina_stadium.jpg | 1010×469 |
-| infrastructure | قطار فرچیاروسا، شبکهٔ ریلی پرسرعت ایتالیا | Lorenzo Gaudenzi | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Frecciarossa_Trenitalia.jpg | 4138×2747 |
-| travel | کانال‌های ونیز | Artur Staszewski | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Venice_Canal,_Italy.jpg | 4806×3333 |
-| environment | درهٔ واله دل بووه در پارک اتنا، سیسیل | Giglio Domenico Mirko | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Alba_alla_Valle_del_Bove_-_Etna.jpg | 5184×3456 |
+| بخش | مسیر فایل | شرح | پدیدآورنده | مجوز | صفحهٔ منبع | ابعاد منبع → فایل نهایی | بایت |
+|---|---|---|---|---|---|---:|---:|
+| identity | assets/italy-flag.svg | پرچم جمهوری ایتالیا؛ سه نوار عمودی هم‌اندازه با نسبت ۳:۲ | بازترسیم هندسی اطلس بر پایهٔ اصل ۱۲ قانون اساسی و مشخصات رسمی رنگ | طرح هندسی پرچم در مالکیت عمومی؛ فایل SVG بازترسیمی اطلس با مجوز CC0 | https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg | 1500×1000 → 1500×1000 | 312 |
+| geography | assets/headers/italy-geography.webp | دولومیت‌ها، بخشی از آلپ ایتالیا | Mona Hassan Abo-Abda | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Dolomites.jpg | 5822×3887 → 1280×855 | 194894 |
+| administration | assets/headers/italy-administration.webp | کاخ مونته‌چیتوریو، رم | Nicola.gelmi | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Palazzo_Montecitorio.jpg | 4160×2336 → 1280×719 | 227144 |
+| population | assets/headers/italy-population.webp | خیابان‌های شهر رم | Haneen abu omar | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Street_in_Rome_Italy.jpg | 1504×2016 → 1280×1716 | 448370 |
+| politics | assets/headers/italy-politics.webp | کاخ کویریناله، رم | Krzysztof Golik (Tournasol7) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Quirinal_Palace_in_Rome.jpg | 5218×3572 → 1280×876 | 178510 |
+| history | assets/headers/italy-history.webp | کولوسئوم، یادمان برجای‌مانده از روم باستان | Minimum-herb | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Photo_of_The_Colosseum_in_Rome,_Italy.jpg | 4032×3024 → 1280×960 | 293958 |
+| economy | assets/headers/italy-economy.webp | بندر جنوا و حمل‌ونقل کانتینری | Jordiferrer | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:UASC_container_ship_at_Genoa_-_SECH.jpg | 2592×1944 → 1280×960 | 168706 |
+| culture | assets/headers/italy-culture.webp | کارناوال ونیز | Sami3310 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Venetian_Carnival_Festival.jpg | 1200×1600 → 1200×1600 | 190770 |
+| education-health | assets/headers/italy-education-health.webp | یکی از ساختمان‌های دانشگاه بولونیا | Armin Kleiner | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bologna,_Via_Capo_di_Lucca,_University_building.jpg | 5815×3877 → 1280×853 | 210782 |
+| sports | assets/headers/italy-sports.webp | ورزشگاه تراستِوِره، نمونه‌ای از زیرساخت ورزشی محلی | Gabrieleciufio | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Collina_stadium.jpg | 1010×469 → 1010×469 | 85050 |
+| infrastructure | assets/headers/italy-infrastructure.webp | قطار فرچیاروسا، شبکهٔ ریلی پرسرعت ایتالیا | Lorenzo Gaudenzi | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Frecciarossa_Trenitalia.jpg | 4138×2747 → 1280×850 | 197276 |
+| travel | assets/headers/italy-travel.webp | کانال‌های ونیز | Artur Staszewski | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Venice_Canal,_Italy.jpg | 4806×3333 → 1280×888 | 358822 |
+| environment | assets/headers/italy-environment.webp | درهٔ واله دل بووه در پارک اتنا، سیسیل | Giglio Domenico Mirko | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Alba_alla_Valle_del_Bove_-_Etna.jpg | 5184×3456 → 1280×853 | 328644 |
 
-در این پیوندها اپ فایل اصلی را از Commons نمی‌گیرد؛ نشانی Special:FilePath درخواست نسخهٔ بازاندازه‌شده را می‌دهد. دسترسی به تصویر وابسته به اینترنت و پاسخ‌گویی میزبان Commons است.
+تصویر جلد کشور: assets/italy-rome.webp؛ عکاس Diliff، مجوز CC BY-SA 2.5، ابعاد ۱۲۰۰×۷۰۴، ۱۴۶۱۵۸ بایت.
+
+سرود: assets/italy-anthem-instrumental.ogg؛ منبع اجرا: Italian Navy Band؛ سازندهٔ ملودی Michele Novaro و ترانه‌سرا Goffredo Mameli. صفحهٔ Commons، خودِ تصنیف و اجرای مشخص را در مالکیت عمومی ثبت می‌کند و منبع ضبط را وزارت دفاع ایتالیا می‌داند. فایل بدون تبدیل نگهداری شده؛ Ogg Vorbis، ۱۱٬۰۲۵ هرتز، استریو، ۹۲٫۱۳۷ ثانیه و 722248 بایت. منبع: https://commons.wikimedia.org/wiki/File:Inno_di_Mameli_instrumental.ogg.

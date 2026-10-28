@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 21,
+  "revision": 22,
   "updated_at": "2026-10-28",
   "countries": [
     {
@@ -660,9 +660,9 @@
         },
         "identity": {
           "path": "data/countries/ITA/identity.json",
-          "revision": 5,
+          "revision": 6,
           "updated_at": "2026-10-28",
-          "byte_length": 22738
+          "byte_length": 22736
         },
         "infrastructure": {
           "path": "data/countries/ITA/infrastructure.json",
@@ -721,8 +721,9 @@
           "source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
           "width": 1500,
           "height": 1000,
-          "changes": "بازترسیم برداری اختصاصی با سه نوار برابر و نسبت ۳:۲؛ هندسه بر اساس مشخصات رسمی، رنگ دیجیتال بر اساس رنگ‌های رسمی اعلام‌شده.",
-          "position": "50% 50%"
+          "changes": "بازترسیم برداری با سه نوار هم‌اندازه و نسبت ۳:۲ بر مبنای اصل ۱۲ و کدهای رنگ رسمی؛ فایل SVG در مخزن.",
+          "position": "50% 50%",
+          "byte_length": 312
         },
         "geography": {
           "alt": "چشم‌انداز کوهستانی دولومیت‌ها در شمال ایتالیا",
@@ -731,11 +732,12 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:Dolomites.jpg",
-          "width": 5822,
-          "height": 3887,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 855,
+          "src": "assets/headers/italy-geography.webp",
+          "changes": "تصویر اصلی 5822×3887 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 194894
         },
         "administration": {
           "alt": "کاخ مونته‌چیتوریو در رم، محل مجلس نمایندگان ایتالیا",
@@ -744,11 +746,12 @@
           "license": "CC BY 3.0",
           "license_url": "https://creativecommons.org/licenses/by/3.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:Palazzo_Montecitorio.jpg",
-          "width": 4160,
-          "height": 2336,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Montecitorio.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 719,
+          "src": "assets/headers/italy-administration.webp",
+          "changes": "تصویر اصلی 4160×2336 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 227144
         },
         "population": {
           "alt": "خیابانی در رم؛ نمونه‌ای از بافت شهری ایتالیا",
@@ -757,11 +760,12 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:Street_in_Rome_Italy.jpg",
-          "width": 1504,
-          "height": 2016,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Street_in_Rome_Italy.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 1716,
+          "src": "assets/headers/italy-population.webp",
+          "changes": "تصویر اصلی 1504×2016 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 448370
         },
         "politics": {
           "alt": "کاخ کویریناله در رم، مقر ریاست‌جمهوری ایتالیا",
@@ -770,11 +774,12 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:Quirinal_Palace_in_Rome.jpg",
-          "width": 5218,
-          "height": 3572,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Quirinal_Palace_in_Rome.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 876,
+          "src": "assets/headers/italy-politics.webp",
+          "changes": "تصویر اصلی 5218×3572 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 178510
         },
         "history": {
           "alt": "نمای بیرونی کولوسئوم در رم",
@@ -783,11 +788,12 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:Photo_of_The_Colosseum_in_Rome,_Italy.jpg",
-          "width": 4032,
-          "height": 3024,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo_of_The_Colosseum_in_Rome%2C_Italy.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 960,
+          "src": "assets/headers/italy-history.webp",
+          "changes": "تصویر اصلی 4032×3024 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 293958
         },
         "economy": {
           "alt": "کشتی کانتینری در بندر جنوا",
@@ -796,11 +802,12 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:UASC_container_ship_at_Genoa_-_SECH.jpg",
-          "width": 2592,
-          "height": 1944,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/UASC_container_ship_at_Genoa_-_SECH.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 960,
+          "src": "assets/headers/italy-economy.webp",
+          "changes": "تصویر اصلی 2592×1944 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 168706
         },
         "culture": {
           "alt": "پوشاک و نقاب‌های کارناوال ونیز",
@@ -811,9 +818,10 @@
           "source_url": "https://commons.wikimedia.org/wiki/File:Venetian_Carnival_Festival.jpg",
           "width": 1200,
           "height": 1600,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Venetian_Carnival_Festival.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "src": "assets/headers/italy-culture.webp",
+          "changes": "تصویر اصلی 1200×1600 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 190770
         },
         "education-health": {
           "alt": "ساختمان دانشگاه بولونیا در خیابان کاپو دی لوکا",
@@ -822,11 +830,12 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:Bologna,_Via_Capo_di_Lucca,_University_building.jpg",
-          "width": 5815,
-          "height": 3877,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bologna%2C_Via_Capo_di_Lucca%2C_University_building.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 853,
+          "src": "assets/headers/italy-education-health.webp",
+          "changes": "تصویر اصلی 5815×3877 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 210782
         },
         "sports": {
           "alt": "ورزشگاه تراستِوِره در رم",
@@ -837,9 +846,10 @@
           "source_url": "https://commons.wikimedia.org/wiki/File:Collina_stadium.jpg",
           "width": 1010,
           "height": 469,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Collina_stadium.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "src": "assets/headers/italy-sports.webp",
+          "changes": "تصویر اصلی 1010×469 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 85050
         },
         "infrastructure": {
           "alt": "قطار تندروی فِرِچّاروسّا متعلق به ترنیتالیا",
@@ -848,11 +858,12 @@
           "license": "CC BY-SA 3.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:Frecciarossa_Trenitalia.jpg",
-          "width": 4138,
-          "height": 2747,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Frecciarossa_Trenitalia.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 850,
+          "src": "assets/headers/italy-infrastructure.webp",
+          "changes": "تصویر اصلی 4138×2747 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 197276
         },
         "travel": {
           "alt": "کانالی در شهر ونیز",
@@ -861,11 +872,12 @@
           "license": "CC BY-SA 2.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:Venice_Canal,_Italy.jpg",
-          "width": 4806,
-          "height": 3333,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Venice_Canal%2C_Italy.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 888,
+          "src": "assets/headers/italy-travel.webp",
+          "changes": "تصویر اصلی 4806×3333 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 358822
         },
         "environment": {
           "alt": "سپیده‌دم بر فراز دره واله دل بووه در دامنهٔ اتنا",
@@ -874,11 +886,12 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
           "source_url": "https://commons.wikimedia.org/wiki/File:Alba_alla_Valle_del_Bove_-_Etna.jpg",
-          "width": 5184,
-          "height": 3456,
-          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Alba_alla_Valle_del_Bove_-_Etna.jpg?width=1200",
-          "changes": "نسخهٔ بازاندازه‌شدهٔ Wikimedia Commons با عرض درخواستی ۱۲۰۰ پیکسل؛ فایل از صفحهٔ منبع بارگیری می‌شود و در مخزن کپی نشده است.",
-          "position": "50% 50%"
+          "width": 1280,
+          "height": 853,
+          "src": "assets/headers/italy-environment.webp",
+          "changes": "تصویر اصلی 5184×3456 پیکسل؛ نسخهٔ حداکثر ۱۲۸۰ پیکسلی از Commons، چرخش EXIF در صورت وجود، تبدیل به WebP کیفیت ۸۴، بدون برش.",
+          "position": "50% 50%",
+          "byte_length": 328644
         }
       }
     }

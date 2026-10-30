@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 23,
+  "revision": 24,
   "updated_at": "2026-10-30",
   "countries": [
     {
@@ -312,7 +312,12 @@
         }
       },
       "continent": "آسیا",
-      "added_order": 1
+      "added_order": 1,
+      "area_km2": 1648195,
+      "map_location": {
+        "latitude": 32,
+        "longitude": 53
+      }
     },
     {
       "name": "ژاپن",
@@ -590,6 +595,11 @@
           "height": 750,
           "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
         }
+      },
+      "area_km2": 377930,
+      "map_location": {
+        "latitude": 36,
+        "longitude": 138
       }
     },
     {
@@ -893,7 +903,3290 @@
           "position": "50% 50%",
           "byte_length": 328644
         }
+      },
+      "area_km2": 301336,
+      "map_location": {
+        "latitude": 42.83333333,
+        "longitude": 12.83333333
       }
+    },
+    {
+      "name": "آرژانتین",
+      "flag": "🇦🇷",
+      "capital": "Buenos Aires",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ARG",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 4,
+      "area_km2": 2780400,
+      "map_location": {
+        "latitude": -34,
+        "longitude": -64
+      }
+    },
+    {
+      "name": "آفریقای جنوبی",
+      "flag": "🇿🇦",
+      "capital": "Pretoria",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ZAF",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 5,
+      "area_km2": 1221037,
+      "map_location": {
+        "latitude": -29,
+        "longitude": 24
+      }
+    },
+    {
+      "name": "آلبانی",
+      "flag": "🇦🇱",
+      "capital": "Tirana",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ALB",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 6,
+      "area_km2": 28748,
+      "map_location": {
+        "latitude": 41,
+        "longitude": 20
+      }
+    },
+    {
+      "name": "آلمان",
+      "flag": "🇩🇪",
+      "capital": "Berlin",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "DEU",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 7,
+      "area_km2": 357114,
+      "map_location": {
+        "latitude": 51,
+        "longitude": 9
+      }
+    },
+    {
+      "name": "آنتیگوا و باربودا",
+      "flag": "🇦🇬",
+      "capital": "Saint John's",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ATG",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 8,
+      "area_km2": 442,
+      "map_location": {
+        "latitude": 17.05,
+        "longitude": -61.8
+      }
+    },
+    {
+      "name": "آندورا",
+      "flag": "🇦🇩",
+      "capital": "Andorra la Vella",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "AND",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 9,
+      "area_km2": 468,
+      "map_location": {
+        "latitude": 42.5,
+        "longitude": 1.5
+      }
+    },
+    {
+      "name": "آنگولا",
+      "flag": "🇦🇴",
+      "capital": "Luanda",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "AGO",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 10,
+      "area_km2": 1246700,
+      "map_location": {
+        "latitude": -12.5,
+        "longitude": 18.5
+      }
+    },
+    {
+      "name": "اتحاد قُمُر",
+      "flag": "🇰🇲",
+      "capital": "Moroni",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "COM",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 11,
+      "area_km2": 1862,
+      "map_location": {
+        "latitude": -12.16666666,
+        "longitude": 44.25
+      }
+    },
+    {
+      "name": "اتریش",
+      "flag": "🇦🇹",
+      "capital": "Vienna",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "AUT",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 12,
+      "area_km2": 83871,
+      "map_location": {
+        "latitude": 47.33333333,
+        "longitude": 13.33333333
+      }
+    },
+    {
+      "name": "اِتیوپی",
+      "flag": "🇪🇹",
+      "capital": "Addis Ababa",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ETH",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 13,
+      "area_km2": 1104300,
+      "map_location": {
+        "latitude": 8,
+        "longitude": 38
+      }
+    },
+    {
+      "name": "اردن",
+      "flag": "🇯🇴",
+      "capital": "Amman",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "JOR",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 14,
+      "area_km2": 89342,
+      "map_location": {
+        "latitude": 31,
+        "longitude": 36
+      }
+    },
+    {
+      "name": "ارمنستان",
+      "flag": "🇦🇲",
+      "capital": "Yerevan",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ARM",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 15,
+      "area_km2": 29743,
+      "map_location": {
+        "latitude": 40,
+        "longitude": 45
+      }
+    },
+    {
+      "name": "اروگوئه",
+      "flag": "🇺🇾",
+      "capital": "Montevideo",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "URY",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 16,
+      "area_km2": 181034,
+      "map_location": {
+        "latitude": -33,
+        "longitude": -56
+      }
+    },
+    {
+      "name": "اریتره",
+      "flag": "🇪🇷",
+      "capital": "Asmara",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ERI",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 17,
+      "area_km2": 117600,
+      "map_location": {
+        "latitude": 15,
+        "longitude": 39
+      }
+    },
+    {
+      "name": "ازبکستان",
+      "flag": "🇺🇿",
+      "capital": "Tashkent",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "UZB",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 18,
+      "area_km2": 447400,
+      "map_location": {
+        "latitude": 41,
+        "longitude": 64
+      }
+    },
+    {
+      "name": "اسپانیا",
+      "flag": "🇪🇸",
+      "capital": "Madrid",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ESP",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 19,
+      "area_km2": 505992,
+      "map_location": {
+        "latitude": 40,
+        "longitude": -4
+      }
+    },
+    {
+      "name": "استرالیا",
+      "flag": "🇦🇺",
+      "capital": "Canberra",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "AUS",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 20,
+      "area_km2": 7692024,
+      "map_location": {
+        "latitude": -27,
+        "longitude": 133
+      }
+    },
+    {
+      "name": "اِستونی",
+      "flag": "🇪🇪",
+      "capital": "Tallinn",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "EST",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 21,
+      "area_km2": 45227,
+      "map_location": {
+        "latitude": 59,
+        "longitude": 26
+      }
+    },
+    {
+      "name": "اِسلُواکی",
+      "flag": "🇸🇰",
+      "capital": "Bratislava",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SVK",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 22,
+      "area_km2": 49037,
+      "map_location": {
+        "latitude": 48.66666666,
+        "longitude": 19.5
+      }
+    },
+    {
+      "name": "اسلوونی",
+      "flag": "🇸🇮",
+      "capital": "Ljubljana",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SVN",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 23,
+      "area_km2": 20273,
+      "map_location": {
+        "latitude": 46.11666666,
+        "longitude": 14.81666666
+      }
+    },
+    {
+      "name": "اسواتینی",
+      "flag": "🇸🇿",
+      "capital": "Lobamba",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SWZ",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 24,
+      "area_km2": 17364,
+      "map_location": {
+        "latitude": -26.5,
+        "longitude": 31.5
+      }
+    },
+    {
+      "name": "افغانستان",
+      "flag": "🇦🇫",
+      "capital": "Kabul",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "AFG",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 25,
+      "area_km2": 652230,
+      "map_location": {
+        "latitude": 33,
+        "longitude": 65
+      }
+    },
+    {
+      "name": "اکوادور",
+      "flag": "🇪🇨",
+      "capital": "Quito",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ECU",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 26,
+      "area_km2": 276841,
+      "map_location": {
+        "latitude": -2,
+        "longitude": -77.5
+      }
+    },
+    {
+      "name": "الجزایر",
+      "flag": "🇩🇿",
+      "capital": "Algiers",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "DZA",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 27,
+      "area_km2": 2381741,
+      "map_location": {
+        "latitude": 28,
+        "longitude": 3
+      }
+    },
+    {
+      "name": "السالوادور",
+      "flag": "🇸🇻",
+      "capital": "San Salvador",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SLV",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 28,
+      "area_km2": 21041,
+      "map_location": {
+        "latitude": 13.83333333,
+        "longitude": -88.91666666
+      }
+    },
+    {
+      "name": "امارات",
+      "flag": "🇦🇪",
+      "capital": "Abu Dhabi",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ARE",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 29,
+      "area_km2": 83600,
+      "map_location": {
+        "latitude": 24,
+        "longitude": 54
+      }
+    },
+    {
+      "name": "اندونزی",
+      "flag": "🇮🇩",
+      "capital": "Jakarta",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "IDN",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 30,
+      "area_km2": 1904569,
+      "map_location": {
+        "latitude": -5,
+        "longitude": 120
+      }
+    },
+    {
+      "name": "انگلیس",
+      "flag": "🇬🇧",
+      "capital": "London",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GBR",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 31,
+      "area_km2": 242900,
+      "map_location": {
+        "latitude": 54,
+        "longitude": -2
+      }
+    },
+    {
+      "name": "اوکراین",
+      "flag": "🇺🇦",
+      "capital": "Kyiv",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "UKR",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 32,
+      "area_km2": 603500,
+      "map_location": {
+        "latitude": 49,
+        "longitude": 32
+      }
+    },
+    {
+      "name": "اوگاندا",
+      "flag": "🇺🇬",
+      "capital": "Kampala",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "UGA",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 33,
+      "area_km2": 241550,
+      "map_location": {
+        "latitude": 1,
+        "longitude": 32
+      }
+    },
+    {
+      "name": "ایالات متحده آمریکا",
+      "flag": "🇺🇸",
+      "capital": "Washington D.C.",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "USA",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 34,
+      "area_km2": 9372610,
+      "map_location": {
+        "latitude": 38,
+        "longitude": -97
+      }
+    },
+    {
+      "name": "ایرلند",
+      "flag": "🇮🇪",
+      "capital": "Dublin",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "IRL",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 35,
+      "area_km2": 70273,
+      "map_location": {
+        "latitude": 53,
+        "longitude": -8
+      }
+    },
+    {
+      "name": "ایسلند",
+      "flag": "🇮🇸",
+      "capital": "Reykjavik",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ISL",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 36,
+      "area_km2": 103000,
+      "map_location": {
+        "latitude": 65,
+        "longitude": -18
+      }
+    },
+    {
+      "name": "باربادوس",
+      "flag": "🇧🇧",
+      "capital": "Bridgetown",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BRB",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 37,
+      "area_km2": 430,
+      "map_location": {
+        "latitude": 13.16666666,
+        "longitude": -59.53333333
+      }
+    },
+    {
+      "name": "باهاما",
+      "flag": "🇧🇸",
+      "capital": "Nassau",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BHS",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 38,
+      "area_km2": 13943,
+      "map_location": {
+        "latitude": 24.25,
+        "longitude": -76
+      }
+    },
+    {
+      "name": "بحرین",
+      "flag": "🇧🇭",
+      "capital": "Manama",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BHR",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 39,
+      "area_km2": 765,
+      "map_location": {
+        "latitude": 26,
+        "longitude": 50.55
+      }
+    },
+    {
+      "name": "برزیل",
+      "flag": "🇧🇷",
+      "capital": "Brasília",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BRA",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 40,
+      "area_km2": 8515767,
+      "map_location": {
+        "latitude": -10,
+        "longitude": -55
+      }
+    },
+    {
+      "name": "برونئی",
+      "flag": "🇧🇳",
+      "capital": "Bandar Seri Begawan",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BRN",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 41,
+      "area_km2": 5765,
+      "map_location": {
+        "latitude": 4.5,
+        "longitude": 114.66666666
+      }
+    },
+    {
+      "name": "بلاروس",
+      "flag": "🇧🇾",
+      "capital": "Minsk",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BLR",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 42,
+      "area_km2": 207600,
+      "map_location": {
+        "latitude": 53,
+        "longitude": 28
+      }
+    },
+    {
+      "name": "بلژیک",
+      "flag": "🇧🇪",
+      "capital": "Brussels",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BEL",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 43,
+      "area_km2": 30528,
+      "map_location": {
+        "latitude": 50.83333333,
+        "longitude": 4
+      }
+    },
+    {
+      "name": "بلغارستان",
+      "flag": "🇧🇬",
+      "capital": "Sofia",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BGR",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 44,
+      "area_km2": 110879,
+      "map_location": {
+        "latitude": 43,
+        "longitude": 25
+      }
+    },
+    {
+      "name": "بلیز",
+      "flag": "🇧🇿",
+      "capital": "Belmopan",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BLZ",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 45,
+      "area_km2": 22966,
+      "map_location": {
+        "latitude": 17.25,
+        "longitude": -88.75
+      }
+    },
+    {
+      "name": "بنگلادش",
+      "flag": "🇧🇩",
+      "capital": "Dhaka",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BGD",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 46,
+      "area_km2": 147570,
+      "map_location": {
+        "latitude": 24,
+        "longitude": 90
+      }
+    },
+    {
+      "name": "بنین",
+      "flag": "🇧🇯",
+      "capital": "Porto-Novo",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BEN",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 47,
+      "area_km2": 112622,
+      "map_location": {
+        "latitude": 9.5,
+        "longitude": 2.25
+      }
+    },
+    {
+      "name": "بوتان",
+      "flag": "🇧🇹",
+      "capital": "Thimphu",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BTN",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 48,
+      "area_km2": 38394,
+      "map_location": {
+        "latitude": 27.5,
+        "longitude": 90.5
+      }
+    },
+    {
+      "name": "بوتسوانا",
+      "flag": "🇧🇼",
+      "capital": "Gaborone",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BWA",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 49,
+      "area_km2": 582000,
+      "map_location": {
+        "latitude": -22,
+        "longitude": 24
+      }
+    },
+    {
+      "name": "بورکینافاسو",
+      "flag": "🇧🇫",
+      "capital": "Ouagadougou",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BFA",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 50,
+      "area_km2": 272967,
+      "map_location": {
+        "latitude": 13,
+        "longitude": -2
+      }
+    },
+    {
+      "name": "بوروندی",
+      "flag": "🇧🇮",
+      "capital": "Gitega",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BDI",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 51,
+      "area_km2": 27834,
+      "map_location": {
+        "latitude": -3.5,
+        "longitude": 30
+      }
+    },
+    {
+      "name": "بوسنی و هرزگوین",
+      "flag": "🇧🇦",
+      "capital": "Sarajevo",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BIH",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 52,
+      "area_km2": 51209,
+      "map_location": {
+        "latitude": 44,
+        "longitude": 18
+      }
+    },
+    {
+      "name": "بولیوی",
+      "flag": "🇧🇴",
+      "capital": "Sucre",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "BOL",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 53,
+      "area_km2": 1098581,
+      "map_location": {
+        "latitude": -17,
+        "longitude": -65
+      }
+    },
+    {
+      "name": "پاپوآ گینه نو",
+      "flag": "🇬🇳",
+      "capital": "Conakry",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GIN",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 54,
+      "area_km2": 245857,
+      "map_location": {
+        "latitude": 11,
+        "longitude": -10
+      }
+    },
+    {
+      "name": "پاپوآ گینه نو",
+      "flag": "🇵🇬",
+      "capital": "Port Moresby",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PNG",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 55,
+      "area_km2": 462840,
+      "map_location": {
+        "latitude": -6,
+        "longitude": 147
+      }
+    },
+    {
+      "name": "پاراگوئه",
+      "flag": "🇵🇾",
+      "capital": "Asunción",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PRY",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 56,
+      "area_km2": 406752,
+      "map_location": {
+        "latitude": -23,
+        "longitude": -58
+      }
+    },
+    {
+      "name": "پاکستان",
+      "flag": "🇵🇰",
+      "capital": "Islamabad",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PAK",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 57,
+      "area_km2": 881912,
+      "map_location": {
+        "latitude": 30,
+        "longitude": 70
+      }
+    },
+    {
+      "name": "پالائو",
+      "flag": "🇵🇼",
+      "capital": "Ngerulmud",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PLW",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 58,
+      "area_km2": 459,
+      "map_location": {
+        "latitude": 7.5,
+        "longitude": 134.5
+      }
+    },
+    {
+      "name": "پاناما",
+      "flag": "🇵🇦",
+      "capital": "Panama City",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PAN",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 59,
+      "area_km2": 75417,
+      "map_location": {
+        "latitude": 9,
+        "longitude": -80
+      }
+    },
+    {
+      "name": "پرتغال",
+      "flag": "🇵🇹",
+      "capital": "Lisbon",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PRT",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 60,
+      "area_km2": 92090,
+      "map_location": {
+        "latitude": 39.5,
+        "longitude": -8
+      }
+    },
+    {
+      "name": "پرو",
+      "flag": "🇵🇪",
+      "capital": "Lima",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PER",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 61,
+      "area_km2": 1285216,
+      "map_location": {
+        "latitude": -10,
+        "longitude": -76
+      }
+    },
+    {
+      "name": "تاجیکِستان",
+      "flag": "🇹🇯",
+      "capital": "Dushanbe",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TJK",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 62,
+      "area_km2": 143100,
+      "map_location": {
+        "latitude": 39,
+        "longitude": 71
+      }
+    },
+    {
+      "name": "تانزانیا",
+      "flag": "🇹🇿",
+      "capital": "Dodoma",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TZA",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 63,
+      "area_km2": 945087,
+      "map_location": {
+        "latitude": -6,
+        "longitude": 35
+      }
+    },
+    {
+      "name": "تایلند",
+      "flag": "🇹🇭",
+      "capital": "Bangkok",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "THA",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 64,
+      "area_km2": 513120,
+      "map_location": {
+        "latitude": 15,
+        "longitude": 100
+      }
+    },
+    {
+      "name": "ترکمنستان",
+      "flag": "🇹🇲",
+      "capital": "Ashgabat",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TKM",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 65,
+      "area_km2": 488100,
+      "map_location": {
+        "latitude": 40,
+        "longitude": 60
+      }
+    },
+    {
+      "name": "ترکیه",
+      "flag": "🇹🇷",
+      "capital": "Ankara",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TUR",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 66,
+      "area_km2": 783562,
+      "map_location": {
+        "latitude": 39,
+        "longitude": 35
+      }
+    },
+    {
+      "name": "ترینیداد و توباگو",
+      "flag": "🇹🇹",
+      "capital": "Port of Spain",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TTO",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 67,
+      "area_km2": 5130,
+      "map_location": {
+        "latitude": 11,
+        "longitude": -61
+      }
+    },
+    {
+      "name": "توگو",
+      "flag": "🇹🇬",
+      "capital": "Lomé",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TGO",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 68,
+      "area_km2": 56785,
+      "map_location": {
+        "latitude": 8,
+        "longitude": 1.16666666
+      }
+    },
+    {
+      "name": "تونس",
+      "flag": "🇹🇳",
+      "capital": "Tunis",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TUN",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 69,
+      "area_km2": 163610,
+      "map_location": {
+        "latitude": 34,
+        "longitude": 9
+      }
+    },
+    {
+      "name": "تونگا",
+      "flag": "🇹🇴",
+      "capital": "Nuku'alofa",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TON",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 70,
+      "area_km2": 747,
+      "map_location": {
+        "latitude": -20,
+        "longitude": -175
+      }
+    },
+    {
+      "name": "تووالو",
+      "flag": "🇹🇻",
+      "capital": "Funafuti",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TUV",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 71,
+      "area_km2": 26,
+      "map_location": {
+        "latitude": -8,
+        "longitude": 178
+      }
+    },
+    {
+      "name": "تیمور شرقی",
+      "flag": "🇹🇱",
+      "capital": "Dili",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TLS",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 72,
+      "area_km2": 14874,
+      "map_location": {
+        "latitude": -8.83333333,
+        "longitude": 125.91666666
+      }
+    },
+    {
+      "name": "جامائیکا",
+      "flag": "🇯🇲",
+      "capital": "Kingston",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "JAM",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 73,
+      "area_km2": 10991,
+      "map_location": {
+        "latitude": 18.25,
+        "longitude": -77.5
+      }
+    },
+    {
+      "name": "جزایر سلیمان",
+      "flag": "🇸🇧",
+      "capital": "Honiara",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SLB",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 74,
+      "area_km2": 28896,
+      "map_location": {
+        "latitude": -8,
+        "longitude": 159
+      }
+    },
+    {
+      "name": "جزایر مارشال",
+      "flag": "🇲🇭",
+      "capital": "Majuro",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MHL",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 75,
+      "area_km2": 181,
+      "map_location": {
+        "latitude": 9,
+        "longitude": 168
+      }
+    },
+    {
+      "name": "جمهوری آذربایجان",
+      "flag": "🇦🇿",
+      "capital": "Baku",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "AZE",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 76,
+      "area_km2": 86600,
+      "map_location": {
+        "latitude": 40.5,
+        "longitude": 47.5
+      }
+    },
+    {
+      "name": "جمهوری آفریقای مرکزی",
+      "flag": "🇨🇫",
+      "capital": "Bangui",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CAF",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 77,
+      "area_km2": 622984,
+      "map_location": {
+        "latitude": 7,
+        "longitude": 21
+      }
+    },
+    {
+      "name": "جمهوری چک",
+      "flag": "🇨🇿",
+      "capital": "Prague",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CZE",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 78,
+      "area_km2": 78865,
+      "map_location": {
+        "latitude": 49.75,
+        "longitude": 15.5
+      }
+    },
+    {
+      "name": "جمهوری دومینیکن",
+      "flag": "🇩🇴",
+      "capital": "Santo Domingo",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "DOM",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 79,
+      "area_km2": 48671,
+      "map_location": {
+        "latitude": 19,
+        "longitude": -70.66666666
+      }
+    },
+    {
+      "name": "جمهوری کُنگو",
+      "flag": "🇨🇬",
+      "capital": "Brazzaville",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "COG",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 80,
+      "area_km2": 342000,
+      "map_location": {
+        "latitude": -1,
+        "longitude": 15
+      }
+    },
+    {
+      "name": "جیبوتی",
+      "flag": "🇩🇯",
+      "capital": "Djibouti",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "DJI",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 81,
+      "area_km2": 23200,
+      "map_location": {
+        "latitude": 11.5,
+        "longitude": 43
+      }
+    },
+    {
+      "name": "چاد",
+      "flag": "🇹🇩",
+      "capital": "N'Djamena",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "TCD",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 82,
+      "area_km2": 1284000,
+      "map_location": {
+        "latitude": 15,
+        "longitude": 19
+      }
+    },
+    {
+      "name": "چین",
+      "flag": "🇨🇳",
+      "capital": "Beijing",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CHN",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 83,
+      "area_km2": 9706961,
+      "map_location": {
+        "latitude": 35,
+        "longitude": 105
+      }
+    },
+    {
+      "name": "دانمارک",
+      "flag": "🇩🇰",
+      "capital": "Copenhagen",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "DNK",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 84,
+      "area_km2": 43094,
+      "map_location": {
+        "latitude": 56,
+        "longitude": 10
+      }
+    },
+    {
+      "name": "دماغهٔ سبز",
+      "flag": "🇨🇻",
+      "capital": "Praia",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CPV",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 85,
+      "area_km2": 4033,
+      "map_location": {
+        "latitude": 16,
+        "longitude": -24
+      }
+    },
+    {
+      "name": "دومینیکا",
+      "flag": "🇩🇲",
+      "capital": "Roseau",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "DMA",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 86,
+      "area_km2": 751,
+      "map_location": {
+        "latitude": 15.41666666,
+        "longitude": -61.33333333
+      }
+    },
+    {
+      "name": "رواندا",
+      "flag": "🇷🇼",
+      "capital": "Kigali",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "RWA",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 87,
+      "area_km2": 26338,
+      "map_location": {
+        "latitude": -2,
+        "longitude": 30
+      }
+    },
+    {
+      "name": "روسیه",
+      "flag": "🇷🇺",
+      "capital": "Moscow",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "RUS",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 88,
+      "area_km2": 17098242,
+      "map_location": {
+        "latitude": 60,
+        "longitude": 100
+      }
+    },
+    {
+      "name": "رومانی",
+      "flag": "🇷🇴",
+      "capital": "Bucharest",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ROU",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 89,
+      "area_km2": 238391,
+      "map_location": {
+        "latitude": 46,
+        "longitude": 25
+      }
+    },
+    {
+      "name": "زامبیا",
+      "flag": "🇿🇲",
+      "capital": "Lusaka",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ZMB",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 90,
+      "area_km2": 752612,
+      "map_location": {
+        "latitude": -15,
+        "longitude": 30
+      }
+    },
+    {
+      "name": "زیمبابوه",
+      "flag": "🇿🇼",
+      "capital": "Harare",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ZWE",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 91,
+      "area_km2": 390757,
+      "map_location": {
+        "latitude": -20,
+        "longitude": 30
+      }
+    },
+    {
+      "name": "سائوتومه و پرنسیپ",
+      "flag": "🇸🇹",
+      "capital": "São Tomé",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "STP",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 92,
+      "area_km2": 964,
+      "map_location": {
+        "latitude": 1,
+        "longitude": 7
+      }
+    },
+    {
+      "name": "ساحل عاج",
+      "flag": "🇨🇮",
+      "capital": "Yamoussoukro",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CIV",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 93,
+      "area_km2": 322463,
+      "map_location": {
+        "latitude": 8,
+        "longitude": -5
+      }
+    },
+    {
+      "name": "ساموآ",
+      "flag": "🇼🇸",
+      "capital": "Apia",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "WSM",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 94,
+      "area_km2": 2842,
+      "map_location": {
+        "latitude": -13.58333333,
+        "longitude": -172.33333333
+      }
+    },
+    {
+      "name": "سان مارینو",
+      "flag": "🇸🇲",
+      "capital": "City of San Marino",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SMR",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 95,
+      "area_km2": 61,
+      "map_location": {
+        "latitude": 43.76666666,
+        "longitude": 12.41666666
+      }
+    },
+    {
+      "name": "سری‌لانکا",
+      "flag": "🇱🇰",
+      "capital": "Colombo",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LKA",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 96,
+      "area_km2": 65610,
+      "map_location": {
+        "latitude": 7,
+        "longitude": 81
+      }
+    },
+    {
+      "name": "سنت کیتس و نویس",
+      "flag": "🇰🇳",
+      "capital": "Basseterre",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "KNA",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 97,
+      "area_km2": 261,
+      "map_location": {
+        "latitude": 17.33333333,
+        "longitude": -62.75
+      }
+    },
+    {
+      "name": "سنت لوسیا",
+      "flag": "🇱🇨",
+      "capital": "Castries",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LCA",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 98,
+      "area_km2": 616,
+      "map_location": {
+        "latitude": 13.88333333,
+        "longitude": -60.96666666
+      }
+    },
+    {
+      "name": "سنت وینسنت و گرنادین‌ها",
+      "flag": "🇻🇨",
+      "capital": "Kingstown",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "VCT",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 99,
+      "area_km2": 389,
+      "map_location": {
+        "latitude": 13.25,
+        "longitude": -61.2
+      }
+    },
+    {
+      "name": "سنگاپور",
+      "flag": "🇸🇬",
+      "capital": "Singapore",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SGP",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 100,
+      "area_km2": 710,
+      "map_location": {
+        "latitude": 1.36666666,
+        "longitude": 103.8
+      }
+    },
+    {
+      "name": "سنگال",
+      "flag": "🇸🇳",
+      "capital": "Dakar",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SEN",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 101,
+      "area_km2": 196722,
+      "map_location": {
+        "latitude": 14,
+        "longitude": -14
+      }
+    },
+    {
+      "name": "سوئد",
+      "flag": "🇸🇪",
+      "capital": "Stockholm",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SWE",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 102,
+      "area_km2": 450295,
+      "map_location": {
+        "latitude": 62,
+        "longitude": 15
+      }
+    },
+    {
+      "name": "سوئیس",
+      "flag": "🇨🇭",
+      "capital": "Bern",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CHE",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 103,
+      "area_km2": 41284,
+      "map_location": {
+        "latitude": 47,
+        "longitude": 8
+      }
+    },
+    {
+      "name": "سودان",
+      "flag": "🇸🇩",
+      "capital": "Khartoum",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SDN",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 104,
+      "area_km2": 1886068,
+      "map_location": {
+        "latitude": 15,
+        "longitude": 30
+      }
+    },
+    {
+      "name": "سودان جنوبی",
+      "flag": "🇸🇸",
+      "capital": "Juba",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SSD",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 105,
+      "area_km2": 619745,
+      "map_location": {
+        "latitude": 7,
+        "longitude": 30
+      }
+    },
+    {
+      "name": "سورینام",
+      "flag": "🇸🇷",
+      "capital": "Paramaribo",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SUR",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 106,
+      "area_km2": 163820,
+      "map_location": {
+        "latitude": 4,
+        "longitude": -56
+      }
+    },
+    {
+      "name": "سوریه",
+      "flag": "🇸🇾",
+      "capital": "Damascus",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SYR",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 107,
+      "area_km2": 185180,
+      "map_location": {
+        "latitude": 35,
+        "longitude": 38
+      }
+    },
+    {
+      "name": "سومالی",
+      "flag": "🇸🇴",
+      "capital": "Mogadishu",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SOM",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 108,
+      "area_km2": 637657,
+      "map_location": {
+        "latitude": 10,
+        "longitude": 49
+      }
+    },
+    {
+      "name": "سیرالئون",
+      "flag": "🇸🇱",
+      "capital": "Freetown",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SLE",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 109,
+      "area_km2": 71740,
+      "map_location": {
+        "latitude": 8.5,
+        "longitude": -11.5
+      }
+    },
+    {
+      "name": "سیشل",
+      "flag": "🇸🇨",
+      "capital": "Victoria",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SYC",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 110,
+      "area_km2": 452,
+      "map_location": {
+        "latitude": -4.58333333,
+        "longitude": 55.66666666
+      }
+    },
+    {
+      "name": "شیلی",
+      "flag": "🇨🇱",
+      "capital": "Santiago",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CHL",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 111,
+      "area_km2": 756102,
+      "map_location": {
+        "latitude": -30,
+        "longitude": -71
+      }
+    },
+    {
+      "name": "صربستان",
+      "flag": "🇷🇸",
+      "capital": "Belgrade",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SRB",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 112,
+      "area_km2": 88361,
+      "map_location": {
+        "latitude": 44,
+        "longitude": 21
+      }
+    },
+    {
+      "name": "عراق",
+      "flag": "🇮🇶",
+      "capital": "Baghdad",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "IRQ",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 113,
+      "area_km2": 438317,
+      "map_location": {
+        "latitude": 33,
+        "longitude": 44
+      }
+    },
+    {
+      "name": "عربستان سعودی",
+      "flag": "🇸🇦",
+      "capital": "Riyadh",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "SAU",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 114,
+      "area_km2": 2149690,
+      "map_location": {
+        "latitude": 25,
+        "longitude": 45
+      }
+    },
+    {
+      "name": "عمان",
+      "flag": "🇴🇲",
+      "capital": "Muscat",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "OMN",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 115,
+      "area_km2": 309500,
+      "map_location": {
+        "latitude": 21,
+        "longitude": 57
+      }
+    },
+    {
+      "name": "غنا",
+      "flag": "🇬🇭",
+      "capital": "Accra",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GHA",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 116,
+      "area_km2": 238533,
+      "map_location": {
+        "latitude": 8,
+        "longitude": -2
+      }
+    },
+    {
+      "name": "فرانسه",
+      "flag": "🇫🇷",
+      "capital": "Paris",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "FRA",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 117,
+      "area_km2": 551695,
+      "map_location": {
+        "latitude": 46,
+        "longitude": 2
+      }
+    },
+    {
+      "name": "فلسطین",
+      "flag": "🇵🇸",
+      "capital": "Ramallah",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PSE",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 118,
+      "area_km2": 6220,
+      "map_location": {
+        "latitude": 31.9,
+        "longitude": 35.2
+      }
+    },
+    {
+      "name": "فلسطين اشغالی",
+      "flag": "🇮🇱",
+      "capital": "Jerusalem",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "ISR",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 119,
+      "area_km2": 20770,
+      "map_location": {
+        "latitude": 31.47,
+        "longitude": 35.13
+      }
+    },
+    {
+      "name": "فنلاند",
+      "flag": "🇫🇮",
+      "capital": "Helsinki",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "FIN",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 120,
+      "area_km2": 338424,
+      "map_location": {
+        "latitude": 64,
+        "longitude": 26
+      }
+    },
+    {
+      "name": "فیجی",
+      "flag": "🇫🇯",
+      "capital": "Suva",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "FJI",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 121,
+      "area_km2": 18272,
+      "map_location": {
+        "latitude": -18,
+        "longitude": 175
+      }
+    },
+    {
+      "name": "فیلیپین",
+      "flag": "🇵🇭",
+      "capital": "Manila",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PHL",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 122,
+      "area_km2": 342353,
+      "map_location": {
+        "latitude": 13,
+        "longitude": 122
+      }
+    },
+    {
+      "name": "قِبرِس",
+      "flag": "🇨🇾",
+      "capital": "Nicosia",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CYP",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 123,
+      "area_km2": 9251,
+      "map_location": {
+        "latitude": 35,
+        "longitude": 33
+      }
+    },
+    {
+      "name": "قرقیزستان",
+      "flag": "🇰🇬",
+      "capital": "Bishkek",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "KGZ",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 124,
+      "area_km2": 199951,
+      "map_location": {
+        "latitude": 41,
+        "longitude": 75
+      }
+    },
+    {
+      "name": "قزاقستان",
+      "flag": "🇰🇿",
+      "capital": "Astana",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "KAZ",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 125,
+      "area_km2": 2724900,
+      "map_location": {
+        "latitude": 48,
+        "longitude": 68
+      }
+    },
+    {
+      "name": "قطر",
+      "flag": "🇶🇦",
+      "capital": "Doha",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "QAT",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 126,
+      "area_km2": 11586,
+      "map_location": {
+        "latitude": 25.5,
+        "longitude": 51.25
+      }
+    },
+    {
+      "name": "کاستاریکا",
+      "flag": "🇨🇷",
+      "capital": "San José",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CRI",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 127,
+      "area_km2": 51100,
+      "map_location": {
+        "latitude": 10,
+        "longitude": -84
+      }
+    },
+    {
+      "name": "کامبوج",
+      "flag": "🇰🇭",
+      "capital": "Phnom Penh",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "KHM",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 128,
+      "area_km2": 181035,
+      "map_location": {
+        "latitude": 13,
+        "longitude": 105
+      }
+    },
+    {
+      "name": "کامِرون",
+      "flag": "🇨🇲",
+      "capital": "Yaoundé",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CMR",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 129,
+      "area_km2": 475442,
+      "map_location": {
+        "latitude": 6,
+        "longitude": 12
+      }
+    },
+    {
+      "name": "کانادا",
+      "flag": "🇨🇦",
+      "capital": "Ottawa",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CAN",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 130,
+      "area_km2": 9984670,
+      "map_location": {
+        "latitude": 60,
+        "longitude": -95
+      }
+    },
+    {
+      "name": "کرُواسی",
+      "flag": "🇭🇷",
+      "capital": "Zagreb",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "HRV",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 131,
+      "area_km2": 56594,
+      "map_location": {
+        "latitude": 45.16666666,
+        "longitude": 15.5
+      }
+    },
+    {
+      "name": "کرهٔ جنوبی",
+      "flag": "🇰🇷",
+      "capital": "Seoul",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "KOR",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 132,
+      "area_km2": 100210,
+      "map_location": {
+        "latitude": 37,
+        "longitude": 127.5
+      }
+    },
+    {
+      "name": "کُره شمالی",
+      "flag": "🇰🇵",
+      "capital": "Pyongyang",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "PRK",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 133,
+      "area_km2": 120538,
+      "map_location": {
+        "latitude": 40,
+        "longitude": 127
+      }
+    },
+    {
+      "name": "کلمبیا",
+      "flag": "🇨🇴",
+      "capital": "Bogotá",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "COL",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 134,
+      "area_km2": 1141748,
+      "map_location": {
+        "latitude": 4,
+        "longitude": -72
+      }
+    },
+    {
+      "name": "کنگو دموکراتیک",
+      "flag": "🇨🇩",
+      "capital": "Kinshasa",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "COD",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 135,
+      "area_km2": 2344858,
+      "map_location": {
+        "latitude": 0,
+        "longitude": 25
+      }
+    },
+    {
+      "name": "کنیا",
+      "flag": "🇰🇪",
+      "capital": "Nairobi",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "KEN",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 136,
+      "area_km2": 580367,
+      "map_location": {
+        "latitude": 1,
+        "longitude": 38
+      }
+    },
+    {
+      "name": "کوبا",
+      "flag": "🇨🇺",
+      "capital": "Havana",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "CUB",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 137,
+      "area_km2": 109884,
+      "map_location": {
+        "latitude": 21.5,
+        "longitude": -80
+      }
+    },
+    {
+      "name": "کُویت",
+      "flag": "🇰🇼",
+      "capital": "Kuwait City",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "KWT",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 138,
+      "area_km2": 17818,
+      "map_location": {
+        "latitude": 29.5,
+        "longitude": 45.75
+      }
+    },
+    {
+      "name": "کیریباتی",
+      "flag": "🇰🇮",
+      "capital": "South Tarawa",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "KIR",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 139,
+      "area_km2": 811,
+      "map_location": {
+        "latitude": 1.41666666,
+        "longitude": 173
+      }
+    },
+    {
+      "name": "گابن",
+      "flag": "🇬🇦",
+      "capital": "Libreville",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GAB",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 140,
+      "area_km2": 267668,
+      "map_location": {
+        "latitude": -1,
+        "longitude": 11.75
+      }
+    },
+    {
+      "name": "گامبیا",
+      "flag": "🇬🇲",
+      "capital": "Banjul",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GMB",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 141,
+      "area_km2": 10689,
+      "map_location": {
+        "latitude": 13.46666666,
+        "longitude": -16.56666666
+      }
+    },
+    {
+      "name": "گرجستان",
+      "flag": "🇬🇪",
+      "capital": "Tbilisi",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GEO",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 142,
+      "area_km2": 69700,
+      "map_location": {
+        "latitude": 42,
+        "longitude": 43.5
+      }
+    },
+    {
+      "name": "گرنادا",
+      "flag": "🇬🇩",
+      "capital": "St. George's",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GRD",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 143,
+      "area_km2": 344,
+      "map_location": {
+        "latitude": 12.11666666,
+        "longitude": -61.66666666
+      }
+    },
+    {
+      "name": "گواتِمالا",
+      "flag": "🇬🇹",
+      "capital": "Guatemala City",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GTM",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 144,
+      "area_km2": 108889,
+      "map_location": {
+        "latitude": 15.5,
+        "longitude": -90.25
+      }
+    },
+    {
+      "name": "گویان",
+      "flag": "🇬🇾",
+      "capital": "Georgetown",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GUY",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 145,
+      "area_km2": 214969,
+      "map_location": {
+        "latitude": 5,
+        "longitude": -59
+      }
+    },
+    {
+      "name": "گینه استوایی",
+      "flag": "🇬🇶",
+      "capital": "Ciudad de la Paz",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GNQ",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 146,
+      "area_km2": 28051,
+      "map_location": {
+        "latitude": 2,
+        "longitude": 10
+      }
+    },
+    {
+      "name": "گینه بیسائو",
+      "flag": "🇬🇼",
+      "capital": "Bissau",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GNB",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 147,
+      "area_km2": 36125,
+      "map_location": {
+        "latitude": 12,
+        "longitude": -15
+      }
+    },
+    {
+      "name": "لائوس",
+      "flag": "🇱🇦",
+      "capital": "Vientiane",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LAO",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 148,
+      "area_km2": 236800,
+      "map_location": {
+        "latitude": 18,
+        "longitude": 105
+      }
+    },
+    {
+      "name": "لبنان",
+      "flag": "🇱🇧",
+      "capital": "Beirut",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LBN",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 149,
+      "area_km2": 10452,
+      "map_location": {
+        "latitude": 33.83333333,
+        "longitude": 35.83333333
+      }
+    },
+    {
+      "name": "لتونی",
+      "flag": "🇱🇻",
+      "capital": "Riga",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LVA",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 150,
+      "area_km2": 64559,
+      "map_location": {
+        "latitude": 57,
+        "longitude": 25
+      }
+    },
+    {
+      "name": "لسوتو",
+      "flag": "🇱🇸",
+      "capital": "Maseru",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LSO",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 151,
+      "area_km2": 30355,
+      "map_location": {
+        "latitude": -29.5,
+        "longitude": 28.5
+      }
+    },
+    {
+      "name": "لوکزامبورگ",
+      "flag": "🇱🇺",
+      "capital": "Luxembourg",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LUX",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 152,
+      "area_km2": 2586,
+      "map_location": {
+        "latitude": 49.75,
+        "longitude": 6.16666666
+      }
+    },
+    {
+      "name": "لهستان",
+      "flag": "🇵🇱",
+      "capital": "Warsaw",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "POL",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 153,
+      "area_km2": 312679,
+      "map_location": {
+        "latitude": 52,
+        "longitude": 20
+      }
+    },
+    {
+      "name": "لیبـِریا",
+      "flag": "🇱🇷",
+      "capital": "Monrovia",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LBR",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 154,
+      "area_km2": 111369,
+      "map_location": {
+        "latitude": 6.5,
+        "longitude": -9.5
+      }
+    },
+    {
+      "name": "لیبی",
+      "flag": "🇱🇾",
+      "capital": "Tripoli",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LBY",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 155,
+      "area_km2": 1759540,
+      "map_location": {
+        "latitude": 25,
+        "longitude": 17
+      }
+    },
+    {
+      "name": "لیتوانیایی‌ها",
+      "flag": "🇱🇹",
+      "capital": "Vilnius",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LTU",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 156,
+      "area_km2": 65300,
+      "map_location": {
+        "latitude": 56,
+        "longitude": 24
+      }
+    },
+    {
+      "name": "لیختن‌اشتاین",
+      "flag": "🇱🇮",
+      "capital": "Vaduz",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "LIE",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 157,
+      "area_km2": 160,
+      "map_location": {
+        "latitude": 47.26666666,
+        "longitude": 9.53333333
+      }
+    },
+    {
+      "name": "ماداگاسکار",
+      "flag": "🇲🇬",
+      "capital": "Antananarivo",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MDG",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 158,
+      "area_km2": 587041,
+      "map_location": {
+        "latitude": -20,
+        "longitude": 47
+      }
+    },
+    {
+      "name": "مالاوی",
+      "flag": "🇲🇼",
+      "capital": "Lilongwe",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MWI",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 159,
+      "area_km2": 118484,
+      "map_location": {
+        "latitude": -13.5,
+        "longitude": 34
+      }
+    },
+    {
+      "name": "مالت",
+      "flag": "🇲🇹",
+      "capital": "Valletta",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MLT",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 160,
+      "area_km2": 316,
+      "map_location": {
+        "latitude": 35.83333333,
+        "longitude": 14.58333333
+      }
+    },
+    {
+      "name": "مالدیو",
+      "flag": "🇲🇻",
+      "capital": "Malé",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MDV",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 161,
+      "area_km2": 300,
+      "map_location": {
+        "latitude": 3.25,
+        "longitude": 73
+      }
+    },
+    {
+      "name": "مالزی",
+      "flag": "🇲🇾",
+      "capital": "Kuala Lumpur",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MYS",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 162,
+      "area_km2": 330803,
+      "map_location": {
+        "latitude": 2.5,
+        "longitude": 112.5
+      }
+    },
+    {
+      "name": "مالی",
+      "flag": "🇲🇱",
+      "capital": "Bamako",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MLI",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 163,
+      "area_km2": 1240192,
+      "map_location": {
+        "latitude": 17,
+        "longitude": -4
+      }
+    },
+    {
+      "name": "مجارستان",
+      "flag": "🇭🇺",
+      "capital": "Budapest",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "HUN",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 164,
+      "area_km2": 93028,
+      "map_location": {
+        "latitude": 47,
+        "longitude": 20
+      }
+    },
+    {
+      "name": "مراکش",
+      "flag": "🇲🇦",
+      "capital": "Rabat",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MAR",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 165,
+      "area_km2": 446550,
+      "map_location": {
+        "latitude": 32,
+        "longitude": -5
+      }
+    },
+    {
+      "name": "مصر",
+      "flag": "🇪🇬",
+      "capital": "Cairo",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "EGY",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 166,
+      "area_km2": 1002450,
+      "map_location": {
+        "latitude": 27,
+        "longitude": 30
+      }
+    },
+    {
+      "name": "مغولستان",
+      "flag": "🇲🇳",
+      "capital": "Ulan Bator",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MNG",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 167,
+      "area_km2": 1564110,
+      "map_location": {
+        "latitude": 46,
+        "longitude": 105
+      }
+    },
+    {
+      "name": "مقدونیه شمالی",
+      "flag": "🇲🇰",
+      "capital": "Skopje",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MKD",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 168,
+      "area_km2": 25713,
+      "map_location": {
+        "latitude": 41.83333333,
+        "longitude": 22
+      }
+    },
+    {
+      "name": "مکزیک",
+      "flag": "🇲🇽",
+      "capital": "Mexico City",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MEX",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 169,
+      "area_km2": 1964375,
+      "map_location": {
+        "latitude": 23,
+        "longitude": -102
+      }
+    },
+    {
+      "name": "موریتانی",
+      "flag": "🇲🇷",
+      "capital": "Nouakchott",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MRT",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 170,
+      "area_km2": 1030700,
+      "map_location": {
+        "latitude": 20,
+        "longitude": -12
+      }
+    },
+    {
+      "name": "موریس",
+      "flag": "🇲🇺",
+      "capital": "Port Louis",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MUS",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 171,
+      "area_km2": 2040,
+      "map_location": {
+        "latitude": -20.28333333,
+        "longitude": 57.55
+      }
+    },
+    {
+      "name": "موزامبیک",
+      "flag": "🇲🇿",
+      "capital": "Maputo",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MOZ",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 172,
+      "area_km2": 801590,
+      "map_location": {
+        "latitude": -18.25,
+        "longitude": 35
+      }
+    },
+    {
+      "name": "مولداوی",
+      "flag": "🇲🇩",
+      "capital": "Chișinău",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MDA",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 173,
+      "area_km2": 33846,
+      "map_location": {
+        "latitude": 47,
+        "longitude": 29
+      }
+    },
+    {
+      "name": "موناکو",
+      "flag": "🇲🇨",
+      "capital": "Monaco",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MCO",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 174,
+      "area_km2": 2.02,
+      "map_location": {
+        "latitude": 43.73333333,
+        "longitude": 7.4
+      }
+    },
+    {
+      "name": "مونته‌نگرو",
+      "flag": "🇲🇪",
+      "capital": "Podgorica",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MNE",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 175,
+      "area_km2": 13812,
+      "map_location": {
+        "latitude": 42.5,
+        "longitude": 19.3
+      }
+    },
+    {
+      "name": "میانمار",
+      "flag": "🇲🇲",
+      "capital": "Naypyidaw",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "MMR",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 176,
+      "area_km2": 676578,
+      "map_location": {
+        "latitude": 22,
+        "longitude": 98
+      }
+    },
+    {
+      "name": "میکرونزی",
+      "flag": "🇫🇲",
+      "capital": "Palikir",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "FSM",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 177,
+      "area_km2": 702,
+      "map_location": {
+        "latitude": 6.91666666,
+        "longitude": 158.25
+      }
+    },
+    {
+      "name": "نائورو",
+      "flag": "🇳🇷",
+      "capital": "Yaren",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "NRU",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 178,
+      "area_km2": 21,
+      "map_location": {
+        "latitude": -0.53333333,
+        "longitude": 166.91666666
+      }
+    },
+    {
+      "name": "نامیبیا",
+      "flag": "🇳🇦",
+      "capital": "Windhoek",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "NAM",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 179,
+      "area_km2": 825615,
+      "map_location": {
+        "latitude": -22,
+        "longitude": 17
+      }
+    },
+    {
+      "name": "نپال",
+      "flag": "🇳🇵",
+      "capital": "Kathmandu",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "NPL",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 180,
+      "area_km2": 147181,
+      "map_location": {
+        "latitude": 28,
+        "longitude": 84
+      }
+    },
+    {
+      "name": "نروژ",
+      "flag": "🇳🇴",
+      "capital": "Oslo",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "NOR",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 181,
+      "area_km2": 323802,
+      "map_location": {
+        "latitude": 62,
+        "longitude": 10
+      }
+    },
+    {
+      "name": "نیجر",
+      "flag": "🇳🇪",
+      "capital": "Niamey",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "NER",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 182,
+      "area_km2": 1267000,
+      "map_location": {
+        "latitude": 16,
+        "longitude": 8
+      }
+    },
+    {
+      "name": "نیجریه",
+      "flag": "🇳🇬",
+      "capital": "Abuja",
+      "region": "آفریقا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "NGA",
+      "sections": [],
+      "documents": {},
+      "continent": "آفریقا",
+      "added_order": 183,
+      "area_km2": 923768,
+      "map_location": {
+        "latitude": 10,
+        "longitude": 8
+      }
+    },
+    {
+      "name": "نیکاراگوئه",
+      "flag": "🇳🇮",
+      "capital": "Managua",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "NIC",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 184,
+      "area_km2": 130373,
+      "map_location": {
+        "latitude": 13,
+        "longitude": -85
+      }
+    },
+    {
+      "name": "نیوزیلند",
+      "flag": "🇳🇿",
+      "capital": "Wellington",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "NZL",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 185,
+      "area_km2": 270467,
+      "map_location": {
+        "latitude": -41,
+        "longitude": 174
+      }
+    },
+    {
+      "name": "واتیکان",
+      "flag": "🇻🇦",
+      "capital": "Vatican City",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "VAT",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 186,
+      "area_km2": 0.44,
+      "map_location": {
+        "latitude": 41.9,
+        "longitude": 12.45
+      }
+    },
+    {
+      "name": "وانواتو",
+      "flag": "🇻🇺",
+      "capital": "Port Vila",
+      "region": "اقیانوسیه",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "VUT",
+      "sections": [],
+      "documents": {},
+      "continent": "اقیانوسیه",
+      "added_order": 187,
+      "area_km2": 12189,
+      "map_location": {
+        "latitude": -16,
+        "longitude": 167
+      }
+    },
+    {
+      "name": "ونزوئلا",
+      "flag": "🇻🇪",
+      "capital": "Caracas",
+      "region": "آمریکای جنوبی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "VEN",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای جنوبی",
+      "added_order": 188,
+      "area_km2": 916445,
+      "map_location": {
+        "latitude": 8,
+        "longitude": -66
+      }
+    },
+    {
+      "name": "ویتنام",
+      "flag": "🇻🇳",
+      "capital": "Hanoi",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "VNM",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 189,
+      "area_km2": 331212,
+      "map_location": {
+        "latitude": 16.16666666,
+        "longitude": 107.83333333
+      }
+    },
+    {
+      "name": "هائیتی",
+      "flag": "🇭🇹",
+      "capital": "Port-au-Prince",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "HTI",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 190,
+      "area_km2": 27750,
+      "map_location": {
+        "latitude": 19,
+        "longitude": -72.41666666
+      }
+    },
+    {
+      "name": "هلند",
+      "flag": "🇳🇱",
+      "capital": "Amsterdam",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "NLD",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 191,
+      "area_km2": 41850,
+      "map_location": {
+        "latitude": 52.5,
+        "longitude": 5.75
+      }
+    },
+    {
+      "name": "هند",
+      "flag": "🇮🇳",
+      "capital": "New Delhi",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "IND",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 192,
+      "area_km2": 3287590,
+      "map_location": {
+        "latitude": 20,
+        "longitude": 77
+      }
+    },
+    {
+      "name": "هُندوراس",
+      "flag": "🇭🇳",
+      "capital": "Tegucigalpa",
+      "region": "آمریکای شمالی",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "HND",
+      "sections": [],
+      "documents": {},
+      "continent": "آمریکای شمالی",
+      "added_order": 193,
+      "area_km2": 112492,
+      "map_location": {
+        "latitude": 15,
+        "longitude": -86.5
+      }
+    },
+    {
+      "name": "یمن",
+      "flag": "🇾🇪",
+      "capital": "Sana'a",
+      "region": "آسیا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "YEM",
+      "sections": [],
+      "documents": {},
+      "continent": "آسیا",
+      "added_order": 194,
+      "area_km2": 527968,
+      "map_location": {
+        "latitude": 15,
+        "longitude": 48
+      }
+    },
+    {
+      "name": "یونان",
+      "flag": "🇬🇷",
+      "capital": "Athens",
+      "region": "اروپا",
+      "desc": "اطلاعات تکمیلی این کشور در حال آماده‌سازی است.",
+      "code": "GRC",
+      "sections": [],
+      "documents": {},
+      "continent": "اروپا",
+      "added_order": 195,
+      "area_km2": 131990,
+      "map_location": {
+        "latitude": 39,
+        "longitude": 22
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "REST Countries",
+      "url": "https://github.com/mledoze/countries",
+      "fields": [
+        "capital",
+        "area_km2",
+        "map_location",
+        "flag",
+        "country name"
+      ],
+      "license": "ODbL-1.0"
     }
   ]
 }

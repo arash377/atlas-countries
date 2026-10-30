@@ -2,8 +2,8 @@
   "schema_version": 1,
   "country_code": "ITA",
   "section": "identity",
-  "revision": 6,
-  "updated_at": "2026-10-28",
+  "revision": 7,
+  "updated_at": "2026-10-30",
   "language": "fa",
   "title": "شناسنامه و نمادهای ایتالیا",
   "intro": "ایتالیا در جنوب اروپا، جمهوری پارلمانی و عضو اتحادیه اروپا است. این بخش نام، نمادها و اطلاعات پایه را از قانون و منابع مرجع جدا می‌کند.",
@@ -20,7 +20,7 @@
         ],
         [
           "پایتخت و شهر بزرگ",
-          "رم پایتخت قانونی جمهوری است. شهر رم مرکز نهادهای ریاست‌جمهوری، پارلمان و دولت است. میلان بزرگ‌ترین شهر ایتالیا بر پایه جمعیت شهرداری در سرشماری‌های اخیر است؛ تعریف «شهر» با ناحیه کلان‌شهری تفاوت دارد."
+          "رم پایتخت قانونی جمهوری و محل نهادهای ریاست‌جمهوری، پارلمان و دولت است. میلان از قطب‌های مهم اقتصادی کشور است. برای مقایسه اندازه شهرها باید مرز شهرداری، واحد کلان‌شهری و پهنه پیوسته شهری را جدا کرد؛ ادعای بزرگ‌ترین شهر بدون تعیین این محدوده دقیق نیست."
         ],
         [
           "زبان و دین",
@@ -43,6 +43,10 @@
         [
           "قانون ۴۸۲/۱۹۹۹؛ زبان رسمی ایتالیایی و حمایت از زبان‌های تاریخی اقلیت",
           "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=099G0557&atto.dataPubblicazioneGazzetta=1999-12-20&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=&generaTabId=true&qId=&tabID=&tipoDettaglio=vigente&title=lbl.dettaglioAtto"
+        ],
+        [
+          "مجلس نمایندگان ایتالیا؛ قانون اساسی، متن انگلیسی ۲۰۲۳",
+          "https://en.camera.it/application/xmanager/projects/camera_eng/file/Costituzione_della_Repubblica_Italiana_inglese_web.pdf"
         ]
       ]
     },
@@ -110,7 +114,7 @@
         {
           "type": "image",
           "id": "italy-national-flag",
-          "url": "assets/italy-flag.svg",
+          "url": "assets/italy-flag.webp",
           "alt": "پرچم ایتالیا با سه نوار عمودی هم‌اندازه به رنگ سبز، سفید و سرخ",
           "caption": "پرچم جمهوری ایتالیا؛ سه نوار عمودی هم‌اندازه با نسبت ۳:۲",
           "credit": "بازترسیم هندسی اطلس بر پایهٔ اصل ۱۲ قانون اساسی و مشخصات رسمی رنگ",
@@ -118,7 +122,7 @@
           "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
           "source_url": "https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/bandiera.html",
           "variant": "flag",
-          "changes": "بازترسیم برداری اختصاصی با سه نوار برابر و نسبت ۳:۲؛ هندسه بر اساس مشخصات رسمی، رنگ دیجیتال بر اساس رنگ‌های رسمی اعلام‌شده."
+          "changes": "رسترسازی مستقیم مستطیل‌های SVG موجود با همان نسبت ۳:۲ و رنگ‌ها؛ ۱۵۰۰×۱۰۰۰ پیکسل؛ WebP بدون اتلاف؛ بدون برش یا تصویر مولد."
         },
         {
           "type": "audio",

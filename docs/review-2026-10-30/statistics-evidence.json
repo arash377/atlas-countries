@@ -1,0 +1,395 @@
+{
+  "retrieved_at": "2026-10-30",
+  "data": [
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "EG.ELC.ACCS.ZS",
+        "value": "Access to electricity (% of population)"
+      },
+      "period": "2024",
+      "value": 100,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "fffcb31f581e6815052d972e7e90e02d9f56393be98c8ea72ecc609ff8dd6f02",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/EG.ELC.ACCS.ZS?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "EN.ATM.PM25.MC.M3",
+        "value": "PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+      },
+      "period": "2023",
+      "value": 40.2453897732326,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "82b7c929f2e6d228012dc0357507344a78919a98b64639d5bea9387683140079",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/EN.ATM.PM25.MC.M3?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "EN.GHG.ALL.MT.CE.AR5",
+        "value": "Total greenhouse gas emissions excluding LULUCF (Mt CO2e)"
+      },
+      "period": "2024",
+      "value": 1054.7651,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "f37a2b28b0957aee522702306f4884835d73b197d83072c8b84dd545f14fa8e6",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/EN.GHG.ALL.MT.CE.AR5?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "ER.H2O.FWST.ZS",
+        "value": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+      },
+      "period": "2022",
+      "value": 81.28908129,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "43c785501411ff7b1cbb027828ffbd0bb9765dbcb09da71c67fa20c7fcb121c4",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/ER.H2O.FWST.ZS?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "IT.CEL.SETS.P2",
+        "value": "Mobile cellular subscriptions (per 100 people)"
+      },
+      "period": "2024",
+      "value": 174.066388972063,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "ae9865bc1cbd57bf5e7306a19b9a8cc63684eeec8f2f631f92b7d653cc85fd49",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/IT.CEL.SETS.P2?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "period": "2024",
+      "value": 12.0603874696566,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "df1d2b9fb17f843a946994c721742c5116e70ff8b256dc5c7ff2315de554d32c",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/IT.NET.BBND.P2?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "NY.GDP.MKTP.PP.CD",
+        "value": "GDP, PPP (current international $)"
+      },
+      "period": "2025",
+      "value": 1820556170291.92,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "b840a3d787028b23e697d21982fadcc60ce8a062d3b0641c07eb0b5ec30f5451",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/NY.GDP.MKTP.PP.CD?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "NY.GDP.PCAP.PP.CD",
+        "value": "GDP per capita, PPP (current international $)"
+      },
+      "period": "2025",
+      "value": 19699.2193549189,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "d8a4c4cff06804942ec872238b654ba590c6a573bcc4d3a55d67f63a4e8dcaa2",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/NY.GDP.PCAP.PP.CD?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "SH.DYN.NMRT",
+        "value": "Mortality rate, neonatal (per 1,000 live births)"
+      },
+      "period": "2024",
+      "value": 7.2,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "28de6cb4cfd32fa801ce01955bceb06333751f0e1a8d1af6f5d1d681f31e09a8",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/SH.DYN.NMRT?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "period": "2023",
+      "value": 6.02542305,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "54c126c05c1861bc5f74b84957bfb0cd04571d1709f9f804171e60f9361691ea",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "SI.POV.GINI",
+        "value": "Gini index"
+      },
+      "period": "2023",
+      "value": 35.9,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "30388b905938dc0454a696d3e2b0b33e67ec706afdd62b9b1b29b346f273404a",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/SI.POV.GINI?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "SL.TLF.CACT.ZS",
+        "value": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)"
+      },
+      "period": "2025",
+      "value": 40.965,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "af722cc00362d243ae1a3dc5ffb5ba8dcebc3390814c72950c69e384ab2dfbb7",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/SL.TLF.CACT.ZS?format=json&per_page=15"
+    },
+    {
+      "country": "IRN",
+      "indicator": {
+        "id": "SP.DYN.IMRT.IN",
+        "value": "Mortality rate, infant (per 1,000 live births)"
+      },
+      "period": "2024",
+      "value": 10.3,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "5a051b17b274d4198e01369d762a4f8eb0f1e52708194de8e6f654ea68dbe4dd",
+      "source_url": "https://api.worldbank.org/v2/country/IRN/indicator/SP.DYN.IMRT.IN?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "EG.ELC.ACCS.ZS",
+        "value": "Access to electricity (% of population)"
+      },
+      "period": "2024",
+      "value": 100,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "e41af54f98878e11bb447bbe2f54b08d53e35e17b6d7dbc1afee8bdd1fc5b321",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/EG.ELC.ACCS.ZS?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "EN.ATM.PM25.MC.M3",
+        "value": "PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+      },
+      "period": "2023",
+      "value": 14.291805636343,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "2a4a7794fbd1cd5b31409a70b2cd598f0b2396a7b49671cda7698b5a4d2e5f97",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.ATM.PM25.MC.M3?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "EN.BIR.THRD.NO",
+        "value": "Bird species, threatened"
+      },
+      "period": "2022",
+      "value": 19,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "7773e6067e7152ed44eab267342beb09eb3ef012d1cb93c1b36576df6e8207b4",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.BIR.THRD.NO?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "EN.FSH.THRD.NO",
+        "value": "Fish species, threatened"
+      },
+      "period": "2022",
+      "value": 72,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "60ee5ea2b8c2552d3b7db447e3d2be5600a63d920dddbbae50b151ebdf05c345",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.FSH.THRD.NO?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "EN.GHG.ALL.MT.CE.AR5",
+        "value": "Total greenhouse gas emissions excluding LULUCF (Mt CO2e)"
+      },
+      "period": "2024",
+      "value": 371.1717,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "b2188ed5e28b9d2e993a2490f577fbae1154bb6d2a738e9efd1f652162ec730f",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.GHG.ALL.MT.CE.AR5?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "EN.HPT.THRD.NO",
+        "value": "Plant species (higher), threatened"
+      },
+      "period": "2022",
+      "value": 122,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "af8edcbd0218713b9be6911885837c30216ed7854696d6e16de6e9b6d45a52a0",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.HPT.THRD.NO?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "EN.MAM.THRD.NO",
+        "value": "Mammal species, threatened"
+      },
+      "period": "2022",
+      "value": 9,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "99ac904b40471d9f68f803f37012480c605b42885671a8f5fd91b6b5da656e80",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.MAM.THRD.NO?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "ER.H2O.FWST.ZS",
+        "value": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+      },
+      "period": "2022",
+      "value": 29.76738039,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "574d139d0f4d09d4bde90660bf9e086033ad8621f9487bd40a4cd5a3ff834086",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/ER.H2O.FWST.ZS?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "IT.CEL.SETS.P2",
+        "value": "Mobile cellular subscriptions (per 100 people)"
+      },
+      "period": "2024",
+      "value": 132.575141676252,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "696b24154575ad00c5eb68e1b91e71fc589eb292b8e1b522d95be50537dad47f",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/IT.CEL.SETS.P2?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "IT.NET.BBND.P2",
+        "value": "Fixed broadband subscriptions (per 100 people)"
+      },
+      "period": "2024",
+      "value": 31.7807732477772,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "dc861f2a2186824b9e9a6f9d01080a628e85e5c5c59e898f1828241c2f04fd90",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/IT.NET.BBND.P2?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "NY.GDP.MKTP.PP.CD",
+        "value": "GDP, PPP (current international $)"
+      },
+      "period": "2025",
+      "value": 3700051124493.07,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "9fe4964137cdc9aa4c715a7cd5c891bd1842b7206a6532dacbae34e5de40fe33",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/NY.GDP.MKTP.PP.CD?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "NY.GDP.PCAP.PP.CD",
+        "value": "GDP per capita, PPP (current international $)"
+      },
+      "period": "2025",
+      "value": 62802.5108384276,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "6a7a29cbf294d788b7d955bd1c237fc0444d7e8f99a6c674685c75d92cef468c",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/NY.GDP.PCAP.PP.CD?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "SH.DYN.NMRT",
+        "value": "Mortality rate, neonatal (per 1,000 live births)"
+      },
+      "period": "2024",
+      "value": 1.8,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "8c485af8574d1876df641e849df6bd7eb2d17dd5fb014542648309c2c2bbba4e",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/SH.DYN.NMRT?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "period": "2024",
+      "value": 8.44437313,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "e2819bb7c46c1359b3042d1310c30c9f0bf33b92f4f79ca5963d867d4d101882",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "SI.POV.GINI",
+        "value": "Gini index"
+      },
+      "period": "2023",
+      "value": 34.3,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "83f3f2fa2c299c29643520a5273c7765829e7d39c59a2a180bb6f069428cc039",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/SI.POV.GINI?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "SL.TLF.CACT.ZS",
+        "value": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)"
+      },
+      "period": "2025",
+      "value": 49.302,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "db93a8297aaac14c5b993a206595f83f5fb37d705e42b909a874e8a9df4988da",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/SL.TLF.CACT.ZS?format=json&per_page=15"
+    },
+    {
+      "country": "ITA",
+      "indicator": {
+        "id": "SP.DYN.IMRT.IN",
+        "value": "Mortality rate, infant (per 1,000 live births)"
+      },
+      "period": "2024",
+      "value": 2.3,
+      "obs_status": "",
+      "api_lastupdated": "2026-10-08",
+      "snapshot_sha256": "e48793a8aaed723a5c45fd9e2775c214c7c4c52ac6c0de09671913a8e114ced0",
+      "source_url": "https://api.worldbank.org/v2/country/ITA/indicator/SP.DYN.IMRT.IN?format=json&per_page=15"
+    }
+  ]
+}

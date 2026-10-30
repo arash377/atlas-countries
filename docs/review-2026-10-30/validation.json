@@ -1,0 +1,405 @@
+{
+  "checked_at": "2026-10-30",
+  "schema_sha256": "e709fedfd240b4d0c07382f4a7dbcbdf075cdeed72330c864dcb426cd105cbfa",
+  "schema_origin": "arash377/atlas:master/app/src/main/assets/data/schemas/country-section-v1.schema.json",
+  "parsed_json_files": 53,
+  "counts": {
+    "IRN": {
+      "sections": 13,
+      "topics": 112,
+      "parts": 466,
+      "key_tables": 21,
+      "key_rows": 146,
+      "topic_tables": 5,
+      "topic_rows": 44
+    },
+    "JPN": {
+      "sections": 13,
+      "topics": 114,
+      "parts": 264,
+      "key_tables": 37,
+      "key_rows": 183,
+      "topic_tables": 3,
+      "topic_rows": 53
+    },
+    "ITA": {
+      "sections": 13,
+      "topics": 90,
+      "parts": 276,
+      "key_tables": 51,
+      "key_rows": 254
+    }
+  },
+  "decoded_rasters": [
+    {
+      "path": "assets/headers/iran-administration.webp",
+      "format": "WEBP",
+      "width": 1000,
+      "height": 590,
+      "bytes": 95202
+    },
+    {
+      "path": "assets/headers/iran-economy.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 800,
+      "bytes": 245370
+    },
+    {
+      "path": "assets/headers/iran-education-health.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 752,
+      "bytes": 116690
+    },
+    {
+      "path": "assets/headers/iran-environment.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 596,
+      "bytes": 246320
+    },
+    {
+      "path": "assets/headers/iran-geography.webp",
+      "format": "WEBP",
+      "width": 824,
+      "height": 550,
+      "bytes": 44266
+    },
+    {
+      "path": "assets/headers/iran-history.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 795,
+      "bytes": 134788
+    },
+    {
+      "path": "assets/headers/iran-identity.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 800,
+      "bytes": 98546
+    },
+    {
+      "path": "assets/headers/iran-infrastructure.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 780,
+      "bytes": 55064
+    },
+    {
+      "path": "assets/headers/iran-politics.webp",
+      "format": "WEBP",
+      "width": 900,
+      "height": 583,
+      "bytes": 100456
+    },
+    {
+      "path": "assets/headers/iran-population.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 900,
+      "bytes": 223166
+    },
+    {
+      "path": "assets/headers/iran-sports.webp",
+      "format": "WEBP",
+      "width": 800,
+      "height": 487,
+      "bytes": 98230
+    },
+    {
+      "path": "assets/headers/italy-administration.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 719,
+      "bytes": 227144
+    },
+    {
+      "path": "assets/headers/italy-culture.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 190770
+    },
+    {
+      "path": "assets/headers/italy-economy.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "bytes": 168706
+    },
+    {
+      "path": "assets/headers/italy-education-health.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 853,
+      "bytes": 210782
+    },
+    {
+      "path": "assets/headers/italy-environment.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 853,
+      "bytes": 328644
+    },
+    {
+      "path": "assets/headers/italy-geography.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 855,
+      "bytes": 194894
+    },
+    {
+      "path": "assets/headers/italy-history.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "bytes": 293958
+    },
+    {
+      "path": "assets/headers/italy-infrastructure.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 850,
+      "bytes": 197276
+    },
+    {
+      "path": "assets/headers/italy-politics.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 876,
+      "bytes": 178510
+    },
+    {
+      "path": "assets/headers/italy-population.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 1716,
+      "bytes": 448370
+    },
+    {
+      "path": "assets/headers/italy-sports.webp",
+      "format": "WEBP",
+      "width": 1010,
+      "height": 469,
+      "bytes": 85050
+    },
+    {
+      "path": "assets/headers/italy-travel.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 888,
+      "bytes": 358822
+    },
+    {
+      "path": "assets/headers/japan-administration.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 167142
+    },
+    {
+      "path": "assets/headers/japan-culture.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 91226
+    },
+    {
+      "path": "assets/headers/japan-economy.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 169620
+    },
+    {
+      "path": "assets/headers/japan-education-health.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 140980
+    },
+    {
+      "path": "assets/headers/japan-environment.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 229320
+    },
+    {
+      "path": "assets/headers/japan-geography.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 168128
+    },
+    {
+      "path": "assets/headers/japan-history.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 227878
+    },
+    {
+      "path": "assets/headers/japan-identity.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 93570
+    },
+    {
+      "path": "assets/headers/japan-infrastructure.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 198950
+    },
+    {
+      "path": "assets/headers/japan-politics.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 192772
+    },
+    {
+      "path": "assets/headers/japan-population.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 205488
+    },
+    {
+      "path": "assets/headers/japan-sports.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 175786
+    },
+    {
+      "path": "assets/headers/japan-travel.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 750,
+      "bytes": 209350
+    },
+    {
+      "path": "assets/iran-bridge.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 874,
+      "bytes": 83936
+    },
+    {
+      "path": "assets/iran-flag.webp",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 732,
+      "bytes": 8878
+    },
+    {
+      "path": "assets/iran-food.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 900,
+      "bytes": 236378
+    },
+    {
+      "path": "assets/iran-mosque.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 929,
+      "bytes": 210622
+    },
+    {
+      "path": "assets/iran-music.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 800,
+      "bytes": 63866
+    },
+    {
+      "path": "assets/italy-flag.webp",
+      "format": "WEBP",
+      "width": 1500,
+      "height": 1000,
+      "bytes": 212
+    },
+    {
+      "path": "assets/italy-rome.webp",
+      "format": "WEBP",
+      "width": 1200,
+      "height": 704,
+      "bytes": 146158
+    },
+    {
+      "path": "assets/japan-flag.webp",
+      "format": "WEBP",
+      "width": 900,
+      "height": 600,
+      "bytes": 7698
+    },
+    {
+      "path": "assets/japan-fuji.webp",
+      "format": "WEBP",
+      "width": 1170,
+      "height": 656,
+      "bytes": 185408
+    }
+  ],
+  "decoded_audio": [
+    {
+      "path": "assets/iran-anthem-instrumental.mp3",
+      "duration_seconds": 55.980408,
+      "streams": [
+        {
+          "codec_name": "mp3"
+        }
+      ]
+    },
+    {
+      "path": "assets/italy-anthem-instrumental.ogg",
+      "duration_seconds": 92.13678,
+      "streams": [
+        {
+          "codec_name": "vorbis"
+        }
+      ]
+    },
+    {
+      "path": "assets/japan-anthem-instrumental.ogg",
+      "duration_seconds": 58.697143,
+      "streams": [
+        {
+          "codec_name": "vorbis"
+        }
+      ]
+    }
+  ],
+  "map_checks": {
+    "IRN": {
+      "type": "Polygon",
+      "polygons": 1,
+      "capital_inside": true,
+      "valid_coordinate_ranges": true,
+      "closed_rings": true
+    },
+    "ITA": {
+      "type": "MultiPolygon",
+      "polygons": 3,
+      "capital_inside": true,
+      "valid_coordinate_ranges": true,
+      "closed_rings": true
+    },
+    "JPN": {
+      "type": "MultiPolygon",
+      "polygons": 34,
+      "capital_inside": true,
+      "valid_coordinate_ranges": true,
+      "closed_rings": true
+    }
+  },
+  "errors": [],
+  "android_build_run": false,
+  "device_test_run": false
+}

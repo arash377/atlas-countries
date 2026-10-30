@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24",
+  "updated_at": "2026-10-30",
   "items": [
     {
       "type": "image",
@@ -53,6 +53,19 @@
       "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Navy",
       "source_url": "https://commons.wikimedia.org/wiki/File:Kimi_ga_Yo_instrumental.ogg",
       "changes": "فایل اصلی Ogg Vorbis؛ بدون ویرایش صوت"
+    },
+    {
+      "type": "image",
+      "id": "italy-national-flag",
+      "url": "assets/italy-flag.webp",
+      "alt": "پرچم ایتالیا با سه نوار عمودی هم‌اندازه به رنگ سبز، سفید و سرخ",
+      "caption": "پرچم جمهوری ایتالیا؛ سه نوار عمودی هم‌اندازه با نسبت ۳:۲",
+      "credit": "بازترسیم هندسی اطلس بر پایهٔ اصل ۱۲ قانون اساسی و مشخصات رسمی رنگ",
+      "license": "طرح هندسی پرچم در مالکیت عمومی؛ فایل SVG بازترسیمی اطلس با مجوز CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/bandiera.html",
+      "variant": "flag",
+      "changes": "رسترسازی مستقیم مستطیل‌های SVG موجود با همان نسبت ۳:۲ و رنگ‌ها؛ ۱۵۰۰×۱۰۰۰ پیکسل؛ WebP بدون اتلاف؛ بدون برش یا تصویر مولد."
     }
   ],
   "illustrations": {

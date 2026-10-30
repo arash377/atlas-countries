@@ -1,0 +1,121 @@
+{
+  "retrieved_at": "2026-10-30",
+  "source_app_asset": "https://github.com/arash377/atlas/blob/master/app/src/main/assets/region-map.json",
+  "source_app_asset_sha256": "7045183b838c4d8dae16092b42772cf7275f8bbd2c4af3f352d69b44592ebaeb",
+  "original_features_preserved": true,
+  "added_features": [
+    "ITA",
+    "JPN"
+  ],
+  "scale": "1:110m; Japan 1:50m",
+  "license": "public-domain",
+  "upstream_dataset_date": "not recorded in app asset; not inferred",
+  "app_runtime": "Content.kt regionMap() reads bundled asset; changing public content map alone does not update installed app",
+  "device_test": false,
+  "modified_country_sections": [
+    [
+      "ITA",
+      "sports"
+    ],
+    [
+      "ITA",
+      "identity"
+    ],
+    [
+      "ITA",
+      "infrastructure"
+    ],
+    [
+      "ITA",
+      "politics"
+    ],
+    [
+      "ITA",
+      "education-health"
+    ],
+    [
+      "ITA",
+      "environment"
+    ],
+    [
+      "ITA",
+      "economy"
+    ],
+    [
+      "IRN",
+      "identity"
+    ],
+    [
+      "IRN",
+      "infrastructure"
+    ],
+    [
+      "IRN",
+      "population"
+    ],
+    [
+      "IRN",
+      "education-health"
+    ],
+    [
+      "IRN",
+      "environment"
+    ],
+    [
+      "IRN",
+      "economy"
+    ],
+    [
+      "JPN",
+      "culture"
+    ],
+    [
+      "JPN",
+      "sports"
+    ],
+    [
+      "JPN",
+      "identity"
+    ],
+    [
+      "JPN",
+      "administration"
+    ],
+    [
+      "JPN",
+      "geography"
+    ],
+    [
+      "JPN",
+      "infrastructure"
+    ],
+    [
+      "JPN",
+      "politics"
+    ],
+    [
+      "JPN",
+      "population"
+    ],
+    [
+      "JPN",
+      "education-health"
+    ],
+    [
+      "JPN",
+      "travel"
+    ],
+    [
+      "JPN",
+      "environment"
+    ],
+    [
+      "JPN",
+      "economy"
+    ],
+    [
+      "JPN",
+      "history"
+    ]
+  ]
+}

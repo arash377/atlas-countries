@@ -381,5 +381,17 @@
     "width": 1200,
     "height": 750,
     "changes": "کاهش اندازه، برش مرکزی به نسبت ۸:۵ و تبدیل به WebP؛ اطلس"
+  },
+  "italy-flag-raster": {
+    "alt": "پرچم ایتالیا با سه نوار عمودی هم‌اندازه به رنگ سبز، سفید و سرخ",
+    "caption": "پرچم جمهوری ایتالیا؛ سه نوار عمودی هم‌اندازه با نسبت ۳:۲",
+    "credit": "بازترسیم هندسی اطلس بر پایهٔ اصل ۱۲ قانون اساسی و مشخصات رسمی رنگ",
+    "license": "طرح هندسی پرچم در مالکیت عمومی؛ فایل SVG بازترسیمی اطلس با مجوز CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_url": "https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/bandiera.html",
+    "changes": "رسترسازی مستقیم مستطیل‌های SVG موجود با همان نسبت ۳:۲ و رنگ‌ها؛ ۱۵۰۰×۱۰۰۰ پیکسل؛ WebP بدون اتلاف؛ بدون برش یا تصویر مولد.",
+    "src": "assets/italy-flag.webp",
+    "width": 1500,
+    "height": 1000
   }
 }

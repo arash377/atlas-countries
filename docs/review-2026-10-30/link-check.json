@@ -1,0 +1,279 @@
+{
+  "checked_at": "2026-10-30",
+  "scope": "new source URLs only; access failures do not prove a source is absent",
+  "results": [
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/EG.ELC.ACCS.ZS?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3501,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/EN.ATM.PM25.MC.M3?format=json&per_page=15",
+      "status": 200,
+      "bytes": 4175,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/EN.GHG.ALL.MT.CE.AR5?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3929,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/IT.CEL.SETS.P2?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3784,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/IT.NET.BBND.P2?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3783,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/NY.GDP.MKTP.PP.CD?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3660,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/NY.GDP.PCAP.PP.CD?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3823,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/SH.DYN.NMRT?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3586,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/SI.POV.GINI?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3029,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/SL.TLF.CACT.ZS?format=json&per_page=15",
+      "status": 200,
+      "bytes": 4349,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/IRN/indicator/SP.DYN.IMRT.IN?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3610,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/EG.ELC.ACCS.ZS?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3302,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.ATM.PM25.MC.M3?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3979,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.BIR.THRD.NO?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3087,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.FSH.THRD.NO?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3087,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.GHG.ALL.MT.CE.AR5?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3731,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.HPT.THRD.NO?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3239,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/EN.MAM.THRD.NO?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3115,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/ER.H2O.FWST.ZS?format=json&per_page=15",
+      "status": 200,
+      "bytes": 4224,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/IT.CEL.SETS.P2?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3587,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/IT.NET.BBND.P2?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3586,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/SH.DYN.NMRT?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3390,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3410,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/SI.POV.GINI?format=json&per_page=15",
+      "status": 200,
+      "bytes": 2836,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/SL.TLF.CACT.ZS?format=json&per_page=15",
+      "status": 200,
+      "bytes": 4154,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/country/ITA/indicator/SP.DYN.IMRT.IN?format=json&per_page=15",
+      "status": 200,
+      "bytes": 3405,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/indicator/EN.MAM.THRD.NO?format=json",
+      "status": 200,
+      "bytes": 842,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://api.worldbank.org/v2/sources/2/country/IRN/metadata?format=json",
+      "status": 200,
+      "bytes": 2646,
+      "content_type": "application/json;charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://data.iana.org/time-zones/tzdb/asia",
+      "status": 200,
+      "bytes": 193525,
+      "content_type": "text/plain; charset=UTF-8",
+      "empty": false
+    },
+    {
+      "url": "https://en.camera.it/4?scheda_informazioni=28",
+      "status": 200,
+      "bytes": 18909,
+      "content_type": "text/html; charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://en.camera.it/application/xmanager/projects/camera_eng/file/Costituzione_della_Repubblica_Italiana_inglese_web.pdf",
+      "status": 200,
+      "bytes": 3123587,
+      "content_type": "application/pdf",
+      "empty": false
+    },
+    {
+      "url": "https://ich.unesco.org/en/RL/kabuki-theatre-00163",
+      "status": 200,
+      "bytes": 49540,
+      "content_type": "text/html",
+      "empty": false
+    },
+    {
+      "url": "https://noi-italia.istat.it/pagina.php?L=0&action=show&categoria=2&id=3",
+      "status": 200,
+      "bytes": 86321,
+      "content_type": "text/html; charset=UTF-8",
+      "empty": false
+    },
+    {
+      "url": "https://www.camera.it/leg19/46",
+      "status": 200,
+      "bytes": 44259,
+      "content_type": "text/html; charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://www.electricalsafetyfirst.org.uk/guidance/advice-for-you/when-travelling/travel-adaptor-for-iran/",
+      "status": 200,
+      "bytes": 90727,
+      "content_type": "text/html; charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://www.iana.org/domains/root/db/xn--mgba3a4f16a.html",
+      "status": 200,
+      "bytes": 27009,
+      "content_type": "text/html; charset=utf-8",
+      "empty": false
+    },
+    {
+      "url": "https://www.istat.it/en/press-release/water-statistics-years-2023-2025/",
+      "status": 200,
+      "bytes": 107587,
+      "content_type": "text/html; charset=UTF-8",
+      "empty": false
+    },
+    {
+      "url": "https://www.istat.it/wp-content/uploads/2025/02/Foreign-trade-and-Import-prices_December2024.pdf",
+      "status": 200,
+      "bytes": 1225907,
+      "content_type": "application/pdf",
+      "empty": false
+    },
+    {
+      "url": "https://www.itu.int/dms_pub/itu-t/oth/02/02/T02020000660035PDFE.pdf",
+      "status": 200,
+      "bytes": 180661,
+      "content_type": "application/pdf",
+      "empty": false
+    }
+  ]
+}
